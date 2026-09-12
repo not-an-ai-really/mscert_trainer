@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#0b1026">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="MS-Cert">
+  <title>MS-Cert Trainer</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png" sizes="192x192">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div class="app">
+
+    <header class="topbar">
+      <div class="brand">
+        <span class="logo">MS</span>
+        <div class="brand-text">
+          <h1>MS-Cert Trainer</h1>
+          <p class="tagline">Multiple Sclerosis certification</p>
+        </div>
+      </div>
+      <span class="bank-tag" id="bank-tag" title="questions in the embedded bank"></span>
+    </header>
+
+    <!-- HOME / SETUP -->
+    <section id="view-home" class="card">
+      <div id="progress-strip" class="progress-strip" hidden>
+        <div class="ps-item">
+          <span class="ps-num" id="ps-accuracy">–</span>
+          <span class="ps-label">overall accuracy</span>
+        </div>
+        <div class="ps-item">
+          <span class="ps-num" id="ps-attempts">–</span>
+          <span class="ps-label">answers</span>
+        </div>
+        <div class="ps-item">
+          <span class="ps-num" id="ps-weakest">–</span>
+          <span class="ps-label">weakest domain</span>
+        </div>
+      </div>
+
+      <h2 class="card-title">Configure your session</h2>
+
+      <div class="filter-group">
+        <div class="filter-title">Domain</div>
+        <div id="domain-filters" class="chips"></div>
+      </div>
+
+      <div class="filter-group">
+        <div class="filter-title">Difficulty</div>
+        <div id="difficulty-filters" class="chips">
+          <button class="chip" data-diff="easy">Easy</button>
+          <button class="chip" data-diff="medium">Medium</button>
+          <button class="chip" data-diff="hard">Hard</button>
+        </div>
+      </div>
+
+      <div class="filter-group">
+        <div class="filter-title">Questions</div>
+        <div class="count-control">
+          <button class="step" id="count-down" aria-label="fewer questions">&minus;</button>
+          <span id="count-val">10</span>
+          <button class="step" id="count-up" aria-label="more questions">+</button>
+        </div>
+      </div>
+
+      <button id="start-btn" class="btn-primary big">Start session</button>
+      <p class="muted hint" id="pool-hint"></p>
+      <p class="muted reset-line"><button id="reset-progress" class="linklike" hidden>Reset progress</button></p>
+    </section>
+
+    <!-- QUIZ -->
+    <section id="view-quiz" class="card" hidden>
+      <div class="quiz-head">
+        <button id="quit-btn" class="icon-btn" aria-label="Quit session">&#10005;</button>
+        <div class="progress-wrap">
+          <div class="progress"><div id="progress-bar"></div></div>
+          <span id="progress-label" class="muted">1 / 10</span>
+        </div>
+      </div>
+      <div id="quiz-tags" class="quiz-tags"></div>
+      <h2 id="stem" class="stem"></h2>
+      <div id="options" class="options"></div>
+      <div id="explanation" class="explanation" hidden>
+        <div id="result-banner" class="banner"></div>
+        <p id="rationale" class="rationale"></p>
+      </div>
+      <div class="quiz-actions">
+        <button id="next-btn" class="btn-primary big wide" hidden>Next &rarr;</button>
+      </div>
+    </section>
+
+    <!-- RESULTS -->
+    <section id="view-results" class="card" hidden>
+      <h2 class="card-title center">Session complete</h2>
+      <div class="score-ring">
+        <svg viewBox="0 0 120 120" aria-hidden="true">
+          <circle class="ring-bg" cx="60" cy="60" r="52"></circle>
+          <circle class="ring-fg" id="ring-fg" cx="60" cy="60" r="52"></circle>
+        </svg>
+        <div class="score-center">
+          <span id="score-pct" class="score-num">0%</span>
+          <span class="muted" id="score-frac"></span>
+        </div>
+      </div>
+      <div id="breakdown" class="breakdown"></div>
+      <div class="results-actions">
+        <button id="retry-missed-btn" class="btn-primary" hidden>Review misses</button>
+        <button id="new-session-btn" class="btn-ghost">New session</button>
+        <button id="home-btn" class="btn-ghost">Home</button>
+      </div>
+    </section>
+
+    <footer class="foot muted">MS-Cert Trainer <span id="ver"></span><span id="offline-note" hidden> &middot; offline</span></footer>
+  </div>
+
+  <script src="js/bank.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
