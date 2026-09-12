@@ -316,7 +316,7 @@ function registerSW() {
 }
 
 function init() {
-  if (!Array.isArray(window.QUESTION_BANK) || !QUESTION_BANK.length) {
+  if (typeof QUESTION_BANK === "undefined" || !Array.isArray(QUESTION_BANK) || !QUESTION_BANK.length) {
     document.body.innerHTML =
       "<p style='padding:20px'>Question bank failed to load (js/bank.js). " +
       "Regenerate it with tools\\build_bank_js.py.</p>";
