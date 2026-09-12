@@ -7,7 +7,7 @@
 */
 "use strict";
 
-const VERSION = "v1.1.0"; // 589-question bank release
+const VERSION = "v1.1.1"; // guard fix
 const CACHE = "mscert-" + VERSION;
 
 const PRECACHE = [
