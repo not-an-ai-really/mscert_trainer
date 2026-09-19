@@ -356,20 +356,3 @@ body {
 
 .muted { color: var(--muted); }
 .foot { text-align: center; font-size: 11.5px; padding-top: 4px; }
-
-/* ---- about / legal view ------------------------------------------------ */
-.about-h {
-  font-size: 15px;
-  margin: 18px 0 6px;
-  color: var(--fg, #e8ecff);
-}
-.about-p {
-  font-size: 14px;
-  line-height: 1.55;
-  margin: 0 0 10px;
-  opacity: .88;
-}
-#about-back { margin-top: 14px; }
-.reset-line .linklike + .linklike { margin-left: 14px; }
-.hint.warn { color: var(--bad, #ff6b6b); }
-.load-error { padding: 24px; font: 15px/1.5 system-ui, sans-serif; }

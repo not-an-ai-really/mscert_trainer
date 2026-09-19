@@ -1,27 +1,24 @@
 /* MS-Cert Trainer service worker.
-   Cache-first for same-origin GETs so the whole app (including the 799-question bank) works with zero connectivity.
+   Cache-first for same-origin GETs so the whole app (including the
+   510-question bank) works with zero connectivity.
 
    Bump VERSION whenever any file changes — old caches are purged on
    activate, so users get the new bank on next load.
 */
 "use strict";
 
-const VERSION = "v1.3.0"; // native shell features (haptics, notifications)
+const VERSION = "v1.1.0"; // 589-question bank release
 const CACHE = "mscert-" + VERSION;
 
 const PRECACHE = [
   "./",
   "index.html",
   "css/app.css",
-  "js/capacitor.js",
   "js/app.js",
   "js/bank.js",
   "manifest.webmanifest",
   "icons/icon-192.png",
   "icons/icon-512.png",
-  "icons/icon-maskable-192.png",
-  "icons/icon-maskable-512.png",
-  "icons/apple-touch-icon-180.png",
 ];
 
 self.addEventListener("install", (event) => {

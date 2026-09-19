@@ -1,32 +1,21 @@
 {
   "name": "MS-Cert Trainer",
   "short_name": "MS-Cert",
-  "description": "Multiple Sclerosis certification question trainer — works offline.",
-  "id": "mscert-trainer",
+  "description": "Offline practice questions for nurses preparing for MS nursing certification. Study aid only — not medical advice, and not affiliated with any certifying body.",
+  "id": "/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0b1026",
   "theme_color": "#0b1026",
+  "categories": ["education", "medical"],
+  "lang": "en-US",
+  "dir": "ltr",
   "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }

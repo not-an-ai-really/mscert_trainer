@@ -1,0 +1,21 @@
+{
+  "name": "mscert-trainer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MS-Cert Trainer - offline MS nursing certification practice (Capacitor native shell around phone-pwa/)",
+  "scripts": {
+    "native": "node store/copy-native.js && npx cap sync",
+    "android:open": "npx cap open android",
+    "ios:open": "npx cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/haptics": "^6.0.0",
+    "@capacitor/local-notifications": "^6.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/ios": "^6.0.0",
+    "@capacitor/cli": "^6.0.0"
+  }
+}

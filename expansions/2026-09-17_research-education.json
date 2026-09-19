@@ -1,0 +1,126 @@
+[
+{"domain":"research","subdomain":"5.1","difficulty":"medium","correct_answer":3,
+ "stem":"A DMT trial reports an annualized relapse rate of 0.20 with the drug and 0.40 with placebo. What is the relative reduction in relapse rate?",
+ "options":["20 percent","25 percent","40 percent","50 percent"],
+ "rationale":"The relative reduction is the difference divided by the comparator rate: (0.40 - 0.20) / 0.40 = 0.50, or 50 percent. The absolute reduction is 0.20 relapses per year, which translates to one relapse avoided every five patient-years. Relative figures always look larger, which is why marketing favors them and why the absolute figure belongs in any patient conversation."},
+
+{"domain":"research","subdomain":"5.1","difficulty":"hard","correct_answer":1,
+ "stem":"A trial reports a hazard ratio of 0.75 for confirmed disability progression, with a 95% confidence interval of 0.55 to 1.02. How should this be interpreted?",
+ "options":["A 25% risk reduction that reached statistical significance","A 25% point estimate reduction that did not reach statistical significance","No treatment effect of any kind was observed","The result is significant because the point estimate favors treatment"],
+ "rationale":"The confidence interval crosses 1.0, which means no difference remains compatible with the data, so the result is not statistically significant at the conventional threshold. The point estimate still favors treatment, and a wide interval often reflects an underpowered study rather than an absent effect. Report both the estimate and the interval; the estimate alone misleads."},
+
+{"domain":"research","subdomain":"5.1","difficulty":"medium","correct_answer":0,
+ "stem":"Twenty patients must be treated for two years to prevent one relapse. Which measure does this describe?",
+ "options":["Number needed to treat","Absolute risk reduction","Relative risk","Hazard ratio"],
+ "rationale":"Number needed to treat is the reciprocal of the absolute risk reduction and expresses benefit in patients rather than percentages, which makes it the most usable figure in a shared decision conversation. Its counterpart, number needed to harm, does the same for adverse effects and lets benefit and risk be compared on one scale."},
+
+{"domain":"research","subdomain":"5.2","difficulty":"medium","correct_answer":2,
+ "stem":"Which study design provides the strongest evidence that a DMT causes a reduction in relapse rate?",
+ "options":["A prospective cohort study","A case-control study","A randomized double-blind controlled trial","A large registry analysis"],
+ "rationale":"Randomization distributes known and unknown confounders across groups, and blinding prevents differential treatment and assessment, so the randomized controlled trial supports causal inference in a way observational designs cannot. Cohort and registry data are valuable for long-term safety and real-world effectiveness, where trials are too short or too selective."},
+
+{"domain":"research","subdomain":"5.2","difficulty":"hard","correct_answer":3,
+ "stem":"How does a meta-analysis differ from a systematic review?",
+ "options":["A meta-analysis searches more databases","A meta-analysis includes only randomized trials","A meta-analysis is conducted by a single reviewer","A meta-analysis statistically pools results across the included studies"],
+ "rationale":"A systematic review applies an explicit protocol to find, appraise, and synthesize studies. A meta-analysis is the optional quantitative step that pools effect estimates into a summary figure, appropriate only when the studies are similar enough in population, intervention, and outcome. Pooling heterogeneous studies produces a precise-looking number that means very little."},
+
+{"domain":"research","subdomain":"5.2","difficulty":"medium","correct_answer":1,
+ "stem":"A nurse frames the question: in adults with RRMS, does a structured exercise program compared with usual care reduce reported fatigue? Which framework does this follow?",
+ "options":["SBAR","PICO","SMART","SWOT"],
+ "rationale":"PICO structures a searchable clinical question as population, intervention, comparison, and outcome, sometimes extended with timeframe. A well-formed PICO question converts directly into database search terms, which is its practical value. SBAR is a communication handoff tool and SMART describes goal-setting."},
+
+{"domain":"research","subdomain":"5.3","difficulty":"hard","correct_answer":0,
+ "stem":"An MS trial analyzes all randomized participants in their assigned groups, including those who discontinued the drug. Which principle does this follow?",
+ "options":["Intention-to-treat analysis","Per-protocol analysis","Subgroup analysis","Sensitivity analysis"],
+ "rationale":"Intention-to-treat preserves the randomization and therefore the comparability of the groups, and it gives the more conservative and more realistic estimate because real patients discontinue. Per-protocol analysis includes only adherent completers, which reintroduces selection bias by dropping exactly the people for whom treatment did not work out."},
+
+{"domain":"research","subdomain":"5.3","difficulty":"hard","correct_answer":2,
+ "stem":"An observational study finds that patients on high-efficacy DMTs have worse disability outcomes than those on platform agents. What is the most likely explanation?",
+ "options":["High-efficacy agents accelerate disability","The sample size was too small to detect benefit","Confounding by indication, since more aggressive disease prompts more aggressive treatment","Recall bias in reporting disability"],
+ "rationale":"Confounding by indication is the central threat in observational comparative-effectiveness work: the reason a drug was chosen is itself a predictor of outcome. Propensity-score methods and marginal structural models attempt to adjust for it, but unmeasured severity almost always remains, which is why such findings do not overturn trial evidence."},
+
+{"domain":"research","subdomain":"5.3","difficulty":"medium","correct_answer":1,
+ "stem":"A study concludes there is no difference between two DMTs but enrolled only 40 patients. What is the most appropriate critique?",
+ "options":["The study proves the drugs are equivalent","The study may have been underpowered to detect a real difference","The absence of a difference confirms the null hypothesis","A larger p-value indicates a stronger conclusion"],
+ "rationale":"Absence of evidence is not evidence of absence. An underpowered study produces wide confidence intervals compatible with both meaningful benefit and meaningful harm. Demonstrating equivalence requires a non-inferiority or equivalence design with a prespecified margin and adequate power, not a failed superiority trial."},
+
+{"domain":"research","subdomain":"5.4","difficulty":"medium","correct_answer":3,
+ "stem":"Which element is essential to valid informed consent for research participation?",
+ "options":["A signature witnessed by a family member","Agreement to complete the full study duration","A guarantee of personal benefit from participation","Disclosure that participation is voluntary and may be withdrawn at any time"],
+ "rationale":"Valid consent requires disclosure, comprehension, and voluntariness, including the explicit right to decline or withdraw at any point without penalty or loss of usual care. Consent is a continuing process rather than a signature event. Promising benefit would constitute therapeutic misconception, which consent is designed to prevent."},
+
+{"domain":"research","subdomain":"5.4","difficulty":"hard","correct_answer":0,
+ "stem":"A patient with MS and moderate cognitive impairment is approached about a trial. What is the most appropriate approach to consent?",
+ "options":["Assess decisional capacity and involve a legally authorized representative if it is lacking","Exclude the patient, since cognitive impairment precludes participation","Obtain consent from the next of kin as a matter of routine","Proceed with standard consent, since the diagnosis is known"],
+ "rationale":"Cognitive impairment does not automatically remove capacity, so capacity for this decision is assessed first. Where it is absent, a legally authorized representative provides permission and the participant's assent is sought and respected. Blanket exclusion would deny access to research to the population that most needs it studied."},
+
+{"domain":"research","subdomain":"5.4","difficulty":"medium","correct_answer":2,
+ "stem":"A nurse wants to compare two fatigue-education handouts on a unit and publish the results. What determines whether IRB review is required?",
+ "options":["Whether the project takes longer than six months","Whether patients consent to receive the handouts","Whether the activity constitutes generalizable research rather than local quality improvement","Whether the results are presented at a conference"],
+ "rationale":"The defining question is intent to produce generalizable knowledge, not the intent to publish, and the determination should be made prospectively by the IRB rather than retrospectively by the investigator. Quality improvement aimed at local practice generally falls outside human-subjects regulations, but many journals require documentation that the determination was made."},
+
+{"domain":"research","subdomain":"5.5","difficulty":"medium","correct_answer":1,
+ "stem":"Which instrument is a validated patient-reported measure of MS-related fatigue?",
+ "options":["The Expanded Disability Status Scale","The Modified Fatigue Impact Scale","The Symbol Digit Modalities Test","The Timed 25-Foot Walk"],
+ "rationale":"The Modified Fatigue Impact Scale is a patient-reported instrument covering physical, cognitive, and psychosocial dimensions of fatigue, and the Fatigue Severity Scale is a shorter alternative. EDSS is clinician-rated disability, SDMT measures processing speed, and the T25FW measures gait speed."},
+
+{"domain":"research","subdomain":"5.5","difficulty":"hard","correct_answer":2,
+ "stem":"A scale reliably yields the same score on repeated administration but does not correlate with any measure of the construct it claims to assess. What is the problem?",
+ "options":["It lacks reliability","It lacks internal consistency","It is reliable but not valid","It is valid but not reliable"],
+ "rationale":"Reliability is consistency of measurement; validity is whether the instrument measures what it claims. A consistently wrong measure is reliable and invalid, and reliability is a necessary but not sufficient condition for validity. Construct validity is established by correlation with related measures and divergence from unrelated ones."},
+
+{"domain":"research","subdomain":"5.5","difficulty":"medium","correct_answer":0,
+ "stem":"Why is the Symbol Digit Modalities Test recommended as a routine cognitive screen in MS?",
+ "options":["It is brief and sensitive to the processing-speed deficits typical of MS","It provides a full neuropsychological profile","It is unaffected by motor or visual impairment","It distinguishes MS from Alzheimer disease"],
+ "rationale":"The SDMT takes about ninety seconds, is sensitive to slowed information-processing speed, which is the most common cognitive deficit in MS, and tracks change over time. It is a screen, not a diagnostic battery: an abnormal result prompts fuller neuropsychological evaluation, and visual or motor impairment can confound it."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"medium","correct_answer":3,
+ "stem":"After teaching self-injection technique, which method best confirms that the patient has actually learned it?",
+ "options":["Asking whether the patient has any questions","Providing the manufacturer's printed instructions","Asking the patient to confirm they understood","Having the patient perform a return demonstration"],
+ "rationale":"For a psychomotor skill, return demonstration is the only method that verifies performance rather than comprehension. For knowledge, the parallel technique is teach-back, where the patient explains the information in their own words. Both shift the burden of confirming understanding onto the teaching rather than onto the patient's willingness to admit confusion."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"medium","correct_answer":1,
+ "stem":"At what reading level should written patient education materials generally be written?",
+ "options":["Eleventh to twelfth grade","Fifth to sixth grade","Ninth to tenth grade","College level, for accuracy"],
+ "rationale":"A fifth- to sixth-grade reading level is the standard target, since average adult reading ability sits well below years of education completed and comprehension falls further under stress. Short sentences, common words, active voice, and generous white space matter as much as the score. Materials should be paired with verbal teaching, never substituted for it."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"hard","correct_answer":2,
+ "stem":"A patient who has been told they need a DMT says they are not sure MS is really affecting them. Which stage of change does this reflect?",
+ "options":["Preparation","Action","Precontemplation","Maintenance"],
+ "rationale":"Precontemplation is the stage in which the person does not yet see a problem requiring change. Pushing information or an action plan at this stage produces resistance; the productive move is to explore the patient's own view of their situation and raise awareness without argument. Matching the intervention to the stage is the point of the model."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"hard","correct_answer":0,
+ "stem":"A patient says they want to stay on treatment but keeps missing doses, and appears frustrated by this. Which approach is most consistent with motivational interviewing?",
+ "options":["Explore the discrepancy between the patient's goal and current behavior","Explain the consequences of missed doses in detail","Set a firm adherence expectation for the next visit","Arrange more frequent monitoring visits"],
+ "rationale":"Motivational interviewing works by helping the patient articulate the gap between their own stated values and their behavior, so that the argument for change comes from them. Directly supplying reasons tends to produce counterargument, the righting reflex. The core skills are open questions, affirmations, reflections, and summaries."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"medium","correct_answer":2,
+ "stem":"A patient with limited English proficiency arrives with an adult child who offers to interpret the DMT teaching. What is the most appropriate action?",
+ "options":["Accept the offer, since the family member knows the history","Provide written materials in the patient's language instead","Use a qualified medical interpreter and document its use","Ask the patient to return with a different family member"],
+ "rationale":"Family interpreters introduce accuracy errors, omit sensitive content, and can impose their own views on treatment decisions; a qualified interpreter is the standard for informed consent and complex teaching. Written translation is a supplement, not a substitute, and the family member should still be welcome in the room if the patient wants them there."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"medium","correct_answer":3,
+ "stem":"Which principle of adult learning most directly shapes how DMT education should be delivered?",
+ "options":["Adults learn best from lecture followed by written testing","Adults prefer education delivered in a single comprehensive session","Adults retain information best when it is delivered by a physician","Adults learn best when content is relevant to an immediate problem they face"],
+ "rationale":"Adult learners are problem-centered and motivated by immediate applicability, so teaching anchored to a decision the patient is currently facing is retained far better than a comprehensive curriculum delivered all at once. Building on the patient's existing experience and involving them in setting the agenda are the other levers."},
+
+{"domain":"education","subdomain":"4.2","difficulty":"medium","correct_answer":1,
+ "stem":"A newly hired nurse is being oriented to MS infusion monitoring. Which teaching strategy best supports competence for a high-risk procedure?",
+ "options":["Assigned reading followed by a written test","Simulation with an infusion reaction scenario and structured debriefing","Shadowing an experienced nurse for one full shift","Reviewing the policy manual with the educator"],
+ "rationale":"Simulation with debriefing allows practice of a rare, high-stakes event in a setting where error carries no patient cost, and the debrief is where the learning consolidates. Reading, shadowing, and policy review build knowledge but do not rehearse recognition and response under time pressure, which is what an infusion reaction demands."},
+
+{"domain":"education","subdomain":"4.2","difficulty":"hard","correct_answer":0,
+ "stem":"An MS center wants to reduce infusion-reaction response times. Which approach best reflects an evidence-based practice process?",
+ "options":["Appraise current evidence, adapt it to local context, implement, and measure outcomes","Adopt the protocol used by the largest nearby center","Rely on the consensus of the center's most experienced nurses","Implement the manufacturer's recommendations without modification"],
+ "rationale":"Evidence-based practice integrates appraised external evidence with clinical expertise and patient values, adapts it to local resources and workflow, and closes the loop by measuring whether the change achieved its aim. Adopting another site's protocol skips the appraisal and the local fit; expert consensus alone is the lowest tier of evidence."},
+
+{"domain":"education","subdomain":"4.2","difficulty":"medium","correct_answer":2,
+ "stem":"A nurse notices that patients frequently misunderstand the difference between a relapse and a pseudo-relapse. Which intervention addresses this most durably?",
+ "options":["Repeating the explanation at each visit as needed","Adding the distinction to the clinic's discharge instructions","Developing a standardized teaching tool and evaluating patient understanding after use","Referring patients with questions to the neurologist"],
+ "rationale":"A recurring misunderstanding across many patients is a system problem, not a series of individual ones, so the durable fix is a standardized tool applied consistently and then evaluated for effect. Without the evaluation step the intervention is untested, and the distinction matters clinically because pseudo-relapse calls for treating the trigger rather than giving steroids."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"hard","correct_answer":1,
+ "stem":"A patient with slowed processing speed and a care partner attend a teaching visit. Which adaptation most directly addresses the cognitive deficit?",
+ "options":["Provide a longer written handout covering all topics","Cover fewer topics per visit, pause between points, and use teach-back","Direct the teaching to the care partner instead","Schedule one extended session to cover everything at once"],
+ "rationale":"Slowed processing speed is a rate problem, so reducing information density per unit time and allowing time for encoding is the targeted adaptation, reinforced across visits. Redirecting teaching to the care partner undermines the patient's autonomy and is not necessary, and a single long session compounds the deficit with fatigue."}
+]

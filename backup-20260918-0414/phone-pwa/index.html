@@ -3,13 +3,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <!-- Nothing is loaded from, or sent to, any other origin. connect-src 'none'
-       means a tampered bank.js cannot exfiltrate anything.
-       frame-ancestors and X-Frame-Options are ignored in a <meta> tag — set
-       those as real HTTP response headers on the host (see DEPLOYMENT.md). -->
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
-  <meta name="referrer" content="no-referrer">
-  <meta name="description" content="Offline practice questions for nurses preparing for MS nursing certification. Study aid only — not medical advice.">
   <meta name="theme-color" content="#0b1026">
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -18,7 +11,7 @@
   <title>MS-Cert Trainer</title>
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icons/icon-192.png" sizes="192x192">
-  <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon-180.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
   <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
@@ -79,48 +72,7 @@
 
       <button id="start-btn" class="btn-primary big">Start session</button>
       <p class="muted hint" id="pool-hint"></p>
-      <p class="muted reset-line">
-        <button id="daily-reminder-btn" class="linklike">Daily study reminder (off)</button>
-        <button id="reset-progress" class="linklike" hidden>Reset progress</button>
-        <button id="about-btn" class="linklike">About &amp; disclaimer</button>
-      </p>
-    </section>
-
-    <!-- ABOUT / LEGAL — required surface for a health-education store listing -->
-    <section id="view-about" class="card" hidden>
-      <h2 class="card-title">About this app</h2>
-
-      <h3 class="about-h">Educational use only</h3>
-      <p class="about-p">This app is a study aid for nurses preparing for
-      certification. It is <strong>not</strong> a clinical decision-support
-      tool, not a drug reference, and not medical advice. Nothing in it should
-      be used to diagnose or treat any person. Always verify dosing,
-      monitoring, and safety information against the current prescribing
-      information and your institution's protocols before acting on it.</p>
-
-      <h3 class="about-h">Not an official exam product</h3>
-      <p class="about-p">This app is independently produced. It is not
-      affiliated with, endorsed by, sponsored by, or licensed by the
-      Multiple Sclerosis Nursing International Certification Board, the
-      International Organization of Multiple Sclerosis Nurses, or any other
-      certifying body. It contains no actual exam items. Passing practice
-      sessions here does not predict or guarantee any certification result.</p>
-
-      <h3 class="about-h">Privacy</h3>
-      <p class="about-p">The app collects nothing. There are no accounts, no
-      analytics, no advertising, and no third-party code. Your practice
-      history is stored only on this device and never leaves it; "Reset
-      progress" erases it, and deleting the app erases it. Study reminders
-      are scheduled on this device only and are never sent anywhere. The app
-      makes no network requests after install.</p>
-
-      <h3 class="about-h">Content currency</h3>
-      <p class="about-p">Clinical content reflects guidance current as of
-      the review date shown below. MS therapies and monitoring requirements
-      change; treat older content as potentially out of date.</p>
-
-      <p class="about-p muted" id="about-meta"></p>
-      <button id="about-back" class="btn-ghost">Back</button>
+      <p class="muted reset-line"><button id="reset-progress" class="linklike" hidden>Reset progress</button></p>
     </section>
 
     <!-- QUIZ -->
@@ -168,7 +120,6 @@
     <footer class="foot muted">MS-Cert Trainer <span id="ver"></span><span id="offline-note" hidden> &middot; offline</span></footer>
   </div>
 
-  <script src="js/capacitor.js" onerror="void 0"></script>
   <script src="js/bank.js"></script>
   <script src="js/app.js"></script>
 </body>

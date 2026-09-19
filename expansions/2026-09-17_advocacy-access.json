@@ -1,0 +1,126 @@
+[
+{"domain":"advocacy","subdomain":"3.3","difficulty":"medium","correct_answer":2,
+ "stem":"A Medicare patient is starting ocrelizumab, given by infusion in the clinic. Under which part of Medicare is this drug billed?",
+ "options":["Part A, as an inpatient service","Part D, as an outpatient drug","Part B, as a provider-administered drug","Part C, regardless of plan type"],
+ "rationale":"Drugs administered by a clinician in an outpatient setting are billed under Medicare Part B, not Part D. This distinction drives the entire financial picture: Part B carries 20% coinsurance with no annual cap unless the patient has supplemental coverage, while Part D has a capped out-of-pocket maximum. Self-administered oral and injectable DMTs fall under Part D."},
+
+{"domain":"advocacy","subdomain":"3.3","difficulty":"medium","correct_answer":0,
+ "stem":"A commercially insured patient is denied a DMT because the plan requires two preferred agents be tried first. What is this utilization-management tool called?",
+ "options":["Step therapy","Prior authorization","Quantity limit","Tiered coinsurance"],
+ "rationale":"Step therapy, or fail-first, requires documented trial and failure of preferred agents before a non-preferred drug is covered. Most states have step-therapy override laws with defined exception criteria, but self-funded employer plans are governed by ERISA and are exempt from state mandates, which is the first thing to check when building an override request."},
+
+{"domain":"advocacy","subdomain":"3.3","difficulty":"hard","correct_answer":3,
+ "stem":"An internal appeal of a DMT denial has been exhausted and upheld. What recourse remains for a patient on a fully insured commercial plan?",
+ "options":["Resubmit the same request after 90 days","File a complaint with the manufacturer","Request a formulary tier reduction","Request external review by an independent organization"],
+ "rationale":"After internal appeals are exhausted, the Affordable Care Act entitles members of non-grandfathered plans to external review by an independent review organization, whose decision binds the plan. Expedited external review is available when delay would jeopardize health. Documenting medical necessity and the harm of delay strengthens the submission."},
+
+{"domain":"advocacy","subdomain":"3.3","difficulty":"hard","correct_answer":1,
+ "stem":"A patient with Medicare asks whether they can use the manufacturer copay card for their oral DMT. What is the accurate response?",
+ "options":["Yes, once the deductible has been met","No, federal beneficiaries are excluded from manufacturer copay programs","Yes, but only for the first twelve months","No, unless the prescriber submits an exception"],
+ "rationale":"Manufacturer copay assistance cannot be used by patients with Medicare, Medicaid, TRICARE, or other federal coverage because it would violate the Anti-Kickback Statute. Independent charitable foundation grants are the appropriate alternative for these patients, and since 2025 the Part D out-of-pocket cap and the Medicare Prescription Payment Plan also reduce the burden."},
+
+{"domain":"advocacy","subdomain":"3.3","difficulty":"hard","correct_answer":2,
+ "stem":"A commercially insured patient used a copay card all year but still owes a large amount at the pharmacy in July. Which plan design most likely explains this?",
+ "options":["A quantity limit on the monthly fill","A change in the drug's formulary tier","A copay accumulator that excluded card funds from the deductible","A switch from retail to mail-order dispensing"],
+ "rationale":"Copay accumulator programs count manufacturer assistance toward the plan's payment but not toward the patient's deductible or out-of-pocket maximum. When the card's annual limit is exhausted mid-year the patient suddenly faces the full unmet deductible. Maximizer programs work similarly by spreading the card's value across the year."},
+
+{"domain":"advocacy","subdomain":"3.3","difficulty":"medium","correct_answer":1,
+ "stem":"A plan requires that an infused DMT be shipped from its own specialty pharmacy to the infusion site rather than purchased by the practice. What is this practice called?",
+ "options":["Brown bagging","White bagging","Buy and bill","Site-of-care rebating"],
+ "rationale":"White bagging is shipment of a patient-specific drug from a payer-contracted specialty pharmacy directly to the provider site. Brown bagging sends it to the patient, who carries it in, which raises real chain-of-custody and storage concerns. Both differ from buy-and-bill, where the practice purchases, stores, and bills for the product."},
+
+{"domain":"advocacy","subdomain":"3.3","difficulty":"medium","correct_answer":3,
+ "stem":"A stable patient on infused therapy is told the plan will now only cover infusions at home or at a freestanding center. What is the nurse's most appropriate first step?",
+ "options":["Advise the patient to change insurance plans","Discontinue the therapy until coverage is restored","Bill the hospital site and appeal the balance later","Review the clinical criteria for a site-of-care exception"],
+ "rationale":"Site-of-care policies generally include exception criteria for documented clinical risk, such as prior infusion reactions, airway or cardiac comorbidity, difficult venous access, or the need for immediate emergency support. Establishing whether the patient meets those criteria comes before either accepting the change or disrupting therapy."},
+
+{"domain":"advocacy","subdomain":"3.1","difficulty":"medium","correct_answer":0,
+ "stem":"An employed patient with MS needs a flexible schedule for fatigue and periodic infusions. Which law provides the framework for requesting this?",
+ "options":["The Americans with Disabilities Act","The Family and Medical Leave Act","The Rehabilitation Act, for all employers","The Social Security Act"],
+ "rationale":"The ADA requires covered employers to provide reasonable accommodation for a qualified individual with a disability absent undue hardship, which is the vehicle for schedule flexibility, telework, rest breaks, or a cooler workspace. FMLA provides unpaid job-protected leave rather than ongoing accommodation, and the Rehabilitation Act applies to federal employers and recipients of federal funds."},
+
+{"domain":"advocacy","subdomain":"3.1","difficulty":"medium","correct_answer":2,
+ "stem":"A patient asks how much job-protected leave FMLA provides for an eligible employee in a twelve-month period.",
+ "options":["Six weeks, paid","Eight weeks, unpaid","Twelve weeks, unpaid","Sixteen weeks, paid"],
+ "rationale":"FMLA provides up to twelve workweeks of unpaid, job-protected leave in a twelve-month period for eligible employees, with group health benefits maintained. It can be taken intermittently, which suits relapses and infusion schedules. Eligibility requires twelve months of service, 1,250 hours worked, and an employer with fifty or more employees within seventy-five miles."},
+
+{"domain":"advocacy","subdomain":"3.1","difficulty":"hard","correct_answer":1,
+ "stem":"A patient with MS is applying for Social Security Disability Insurance. Which statement about the process is accurate?",
+ "options":["Approval is automatic once MS is confirmed on MRI","Most initial applications are denied and require appeal","A five-year work history is required in every case","Benefits begin in the month the application is filed"],
+ "rationale":"The majority of initial SSDI claims are denied, and many are approved only at the reconsideration or administrative-law-judge stage. Applications succeed on documented functional limitation over time, not on diagnosis alone, so objective measures of gait, cognition, fatigue, and work capacity in the record matter more than imaging. SSDI also carries a five-month waiting period."},
+
+{"domain":"advocacy","subdomain":"3.2","difficulty":"medium","correct_answer":3,
+ "stem":"A patient plans to stop their DMT because of cost and has not told the prescriber. What is the nurse's most appropriate response?",
+ "options":["Document non-adherence and notify the prescriber only","Reassure the patient that missed doses rarely matter","Advise stopping until the next scheduled visit","Explore the financial barrier and identify assistance options"],
+ "rationale":"Cost-driven non-adherence is usually solvable: foundation grants, manufacturer patient-assistance programs for the uninsured and underinsured, formulary exceptions, tier reductions, and alternative agents all exist. Addressing the barrier directly preserves treatment, whereas documenting the behavior without acting on the cause changes nothing."},
+
+{"domain":"advocacy","subdomain":"3.2","difficulty":"hard","correct_answer":0,
+ "stem":"A patient wants to add a supplement they read about online to their DMT regimen. Which approach best reflects patient advocacy?",
+ "options":["Review the available evidence and screen for interactions with the DMT","Advise against all supplements as a matter of policy","Support the choice without further discussion","Defer entirely to the neurologist at the next visit"],
+ "rationale":"Advocacy means supporting informed decision-making rather than either endorsing or dismissing the patient's interest. Reviewing what evidence exists, identifying real interaction and hepatotoxicity risks, and documenting the discussion respects autonomy while keeping the patient safe. Reflexive refusal tends to drive supplement use underground where it cannot be monitored."},
+
+{"domain":"advocacy","subdomain":"3.4","difficulty":"medium","correct_answer":2,
+ "stem":"An uninsured patient cannot afford any DMT. Which resource is designed specifically for this situation?",
+ "options":["A manufacturer copay card","An independent foundation copay grant","A manufacturer patient assistance program","A pharmacy discount card"],
+ "rationale":"Patient assistance programs supply the drug free or at nominal cost to uninsured and underinsured patients who meet income criteria. Copay cards and foundation copay grants both presuppose existing insurance coverage and offset cost-sharing rather than supplying the drug, so neither helps a patient with no coverage at all."},
+
+{"domain":"advocacy","subdomain":"3.4","difficulty":"medium","correct_answer":1,
+ "stem":"A patient turning 65 is moving from commercial insurance to Medicare while on a self-administered oral DMT. Which coverage question is most important to resolve before the transition?",
+ "options":["Whether the clinic remains in network for office visits","Whether the DMT is on the chosen Part D plan's formulary and at what tier","Whether Part A covers the drug during a hospital stay","Whether the patient qualifies for a Medigap policy"],
+ "rationale":"Self-administered DMTs are Part D drugs, and formulary placement varies substantially between plans, as do prior-authorization and step requirements. Checking the specific plan's formulary during the enrollment window prevents a coverage gap at the first refill. Copay card eligibility also ends at Medicare enrollment, so an assistance plan should be arranged at the same time."},
+
+{"domain":"advocacy","subdomain":"3.5","difficulty":"medium","correct_answer":3,
+ "stem":"Which document allows a designated person to make health care decisions for a patient with MS if they later become unable to do so?",
+ "options":["A living will","A physician order for life-sustaining treatment","A HIPAA authorization form","A durable power of attorney for health care"],
+ "rationale":"A durable power of attorney for health care appoints a surrogate decision-maker and takes effect on incapacity. A living will records treatment preferences but names no one, a POLST translates current goals into portable medical orders for a seriously ill patient, and a HIPAA authorization only permits disclosure of information. Advance care planning is best raised early, while cognition is intact."},
+
+{"domain":"advocacy","subdomain":"3.5","difficulty":"hard","correct_answer":2,
+ "stem":"A patient with cognitive changes wants to continue managing their own treatment decisions, and the family disagrees. What principle should guide the nurse?",
+ "options":["Family consensus determines the decision maker","Any cognitive impairment removes decisional capacity","Capacity is decision-specific and presumed until assessed","A power of attorney overrides the patient once signed"],
+ "rationale":"Capacity is presumed, is specific to the decision at hand, and can fluctuate; a person may lack capacity for complex financial decisions yet retain it for treatment choices. Formal assessment addresses understanding, appreciation, reasoning, and expression of a choice. A durable power of attorney takes effect only when the patient can no longer decide."},
+
+{"domain":"advocacy","subdomain":"3.6","difficulty":"medium","correct_answer":0,
+ "stem":"A patient asks the nurse to discuss their MS with an employer who has called the clinic directly. What is required first?",
+ "options":["Written authorization from the patient for that specific disclosure","Verbal confirmation from the employer of a business need","Documentation that the employer already knows the diagnosis","Approval from the treating neurologist"],
+ "rationale":"Disclosure to an employer is not treatment, payment, or health care operations, so it requires a written HIPAA authorization from the patient specifying what may be released and to whom. Employers may separately request certification of a need for accommodation or leave, but that documentation goes to the patient or a designated form and describes limitations rather than diagnosis."},
+
+{"domain":"advocacy","subdomain":"3.6","difficulty":"hard","correct_answer":1,
+ "stem":"A nurse learns that a clinic routinely faxes full MS visit notes to a patient's employer-sponsored wellness vendor without authorization. What is the most appropriate action?",
+ "options":["Continue the practice, since the vendor is plan-affiliated","Stop and escalate it as a potential privacy violation","Redact the diagnosis and continue sending notes","Notify only the patients who ask about it"],
+ "rationale":"A wellness vendor is not automatically a covered entity or business associate with treatment access, and routine transmission of clinical notes without authorization is a reportable privacy concern. The nurse's obligation is to stop participating and escalate through the privacy officer, not to attempt an ad hoc fix by redacting."},
+
+{"domain":"advocacy","subdomain":"3.4","difficulty":"hard","correct_answer":2,
+ "stem":"A prior authorization for a high-efficacy DMT is denied as not medically necessary in a patient with two relapses and new enhancing lesions on treatment. Which element most strengthens the appeal?",
+ "options":["A statement that the patient prefers this agent","A list of the drug's mechanism of action","Documented breakthrough activity on the current therapy with dates and imaging","A copy of the manufacturer's prescribing information"],
+ "rationale":"Appeals succeed on documented failure of the covered alternative against the plan's own criteria. Dated relapse descriptions, EDSS change, and comparative MRI showing new or enhancing lesions while adherent to the current DMT establish medical necessity. Preference, mechanism, and package inserts do not address the criterion being applied."},
+
+{"domain":"advocacy","subdomain":"3.4","difficulty":"medium","correct_answer":3,
+ "stem":"A patient's infusion is delayed because the plan requires a new authorization every six months. Which practice-level intervention most reliably prevents these gaps?",
+ "options":["Appealing each denial as it occurs","Asking the patient to call the plan monthly","Switching the patient to an oral agent","Tracking authorization expiry dates and resubmitting in advance"],
+ "rationale":"Reauthorization lapses are an operational failure rather than a coverage dispute, and they are prevented by a tracked renewal calendar with submission well before expiry. Appealing after the fact still leaves an interrupted dosing interval, which for B-cell depleting and other high-efficacy agents carries a real risk of returning disease activity."},
+
+{"domain":"advocacy","subdomain":"3.2","difficulty":"medium","correct_answer":1,
+ "stem":"A patient with relapsing MS says they are considering stopping treatment because they have felt well for three years. Which response best supports informed decision-making?",
+ "options":["Agree that treatment can stop after three stable years","Explain that stability may reflect the therapy working and review what is known about discontinuation","Tell the patient that stopping always causes a severe relapse","Refer the question entirely to the prescriber without discussion"],
+ "rationale":"Clinical stability on therapy is evidence the therapy is working, not evidence it is unnecessary, and discontinuation carries risk of returning activity that is higher in younger patients and those with recent activity. Rebound is a specific concern after stopping natalizumab or sphingosine-1-phosphate modulators. Presenting what is known, including the genuine uncertainty in older stable patients, supports a real decision."},
+
+{"domain":"advocacy","subdomain":"3.1","difficulty":"hard","correct_answer":0,
+ "stem":"A patient loses employer coverage and has 60 days to decide on continuation coverage. Which consideration is most relevant to an ongoing DMT?",
+ "options":["COBRA preserves the existing plan and formulary but at full premium cost","COBRA coverage begins only after a 90-day waiting period","A marketplace plan always costs less than COBRA","Continuation coverage excludes specialty drugs"],
+ "rationale":"COBRA continues the same plan, network, and formulary, which avoids re-authorization and a possible therapy switch, but the member pays the full premium plus an administrative fee. A marketplace plan may cost far less with subsidies yet use a different formulary and require new prior authorizations, so the comparison has to include drug coverage and not premium alone."},
+
+{"domain":"advocacy","subdomain":"3.5","difficulty":"medium","correct_answer":2,
+ "stem":"A patient with advancing disability asks about planning for future care needs. When is the best time to begin that conversation?",
+ "options":["Once assistance with daily activities is required","At the point of transition to progressive disease","Early, while the patient can participate fully in planning","Only when the patient raises the subject directly"],
+ "rationale":"Advance care planning is most useful while cognition, communication, and energy allow the patient to define their own goals, and it should be revisited as circumstances change. Deferring until disability or cognitive impairment is established shifts decisions to surrogates who are then guessing. The patient raising it is an opening, not a prerequisite."},
+
+{"domain":"advocacy","subdomain":"3.6","difficulty":"medium","correct_answer":3,
+ "stem":"A patient asks whether a genetic test result could be used by an employer or health insurer against them. Which law is most directly relevant?",
+ "options":["The Health Insurance Portability and Accountability Act","The Americans with Disabilities Act","The Affordable Care Act","The Genetic Information Nondiscrimination Act"],
+ "rationale":"GINA prohibits health insurers and employers from using genetic information in coverage or employment decisions. Its protections notably do not extend to life, disability, or long-term care insurance, which is a gap worth naming explicitly so the patient can decide about testing with that in view."},
+
+{"domain":"advocacy","subdomain":"3.3","difficulty":"hard","correct_answer":1,
+ "stem":"A patient's plan places all MS DMTs on the highest specialty tier with 30% coinsurance. Which action addresses the cost-sharing itself rather than the coverage decision?",
+ "options":["Filing a medical-necessity appeal","Requesting a formulary tier exception","Requesting a step-therapy override","Requesting a site-of-care exception"],
+ "rationale":"A tier exception asks the plan to apply lower cost-sharing to a non-preferred drug and is the tool aimed at coinsurance rather than at whether the drug is covered at all. Medical-necessity appeals and step overrides address coverage, and site-of-care exceptions address where an infusion is given. Tier exceptions are usually supported by showing preferred agents are unsuitable."}
+]

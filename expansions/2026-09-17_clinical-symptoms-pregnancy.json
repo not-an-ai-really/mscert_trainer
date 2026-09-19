@@ -1,0 +1,126 @@
+[
+{"domain":"clinical","subdomain":"2.3","difficulty":"medium","correct_answer":1,
+ "stem":"How does relapse risk typically change across pregnancy and the postpartum period in relapsing MS?",
+ "options":["Risk rises steadily through pregnancy and then falls sharply after delivery","Risk falls during pregnancy, particularly the third trimester, and rises after delivery","Risk is unchanged throughout pregnancy and for the first year after delivery","Risk falls after delivery and remains suppressed while breastfeeding continues"],
+ "rationale":"Relapse rate declines during gestation and is lowest in the third trimester, reflecting the immunologic shift of pregnancy, then rises in the first three to six months postpartum before returning to baseline. Planning for the postpartum window, including early resumption of therapy, is the practical consequence."},
+
+{"domain":"clinical","subdomain":"2.3","difficulty":"hard","correct_answer":3,
+ "stem":"Which disease-modifying therapies are absolutely contraindicated in a patient trying to conceive?",
+ "options":["Interferon beta and glatiramer acetate, because of injection risk","Ocrelizumab and rituximab, because of placental antibody transfer","Dimethyl fumarate and natalizumab, because of lymphocyte effects","Teriflunomide and cladribine, because both are established teratogens"],
+ "rationale":"Teriflunomide and cladribine are teratogenic and require documented washout and effective contraception, with accelerated elimination available for teriflunomide. Interferon beta and glatiramer acetate have the most reassuring pregnancy data and may be continued. Anti-CD20 agents are often timed before conception rather than absolutely barred."},
+
+{"domain":"clinical","subdomain":"2.3","difficulty":"hard","correct_answer":0,
+ "stem":"A patient continues natalizumab into the third trimester. What should the neonatal team be told to expect?",
+ "options":["Possible neonatal anemia and thrombocytopenia requiring blood count monitoring","Certain neonatal respiratory distress requiring planned NICU admission","Expected neonatal hypoglycemia requiring scheduled glucose infusion","Predictable neonatal jaundice requiring prophylactic phototherapy"],
+ "rationale":"Natalizumab crosses the placenta in the third trimester and has been associated with mild to moderate neonatal anemia and thrombocytopenia that generally resolve without intervention. Alerting the neonatal team allows a cord blood count and observation. Continuing therapy is sometimes chosen because stopping risks severe rebound activity."},
+
+{"domain":"clinical","subdomain":"2.3","difficulty":"medium","correct_answer":2,
+ "stem":"A postpartum patient on ocrelizumab asks whether she can breastfeed. What is the most accurate response?",
+ "options":["Breastfeeding is contraindicated for the full duration of the therapy","She must pump and discard milk for 30 days after each infusion","Transfer into milk appears minimal and breastfeeding is generally considered compatible","She may breastfeed only if the infant receives no live vaccines"],
+ "rationale":"Monoclonal antibodies are large proteins with poor oral bioavailability and minimal measured transfer into breast milk, so anti-CD20 therapy is generally regarded as compatible with breastfeeding. Infant live vaccination schedules warrant a conversation with pediatrics, but the two considerations are separate and neither requires stopping breastfeeding."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":3,
+ "stem":"A patient with MS describes brief, severe, electric-shock facial pain triggered by chewing and light touch. What is the first-line pharmacologic treatment?",
+ "options":["Amitriptyline titrated slowly to a bedtime dose","Gabapentin divided across three daily doses","Duloxetine started at a low morning dose","Carbamazepine or oxcarbazepine titrated to effect"],
+ "rationale":"This describes trigeminal neuralgia, which occurs far more often in MS than in the general population and is usually caused by a pontine demyelinating lesion. Carbamazepine and oxcarbazepine are first-line, with sodium and blood count monitoring for hyponatremia and marrow suppression. Refractory cases may warrant surgical referral."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":0,
+ "stem":"A patient reports constant burning and tingling in both feet that is worse at night. Which agent is most appropriate first?",
+ "options":["Gabapentin or pregabalin, titrated to response","Ibuprofen taken regularly with food","A short course of oral prednisone","A topical capsaicin preparation applied daily"],
+ "rationale":"Dysesthetic extremity pain is central neuropathic pain and responds to gabapentinoids, with duloxetine, amitriptyline, and nortriptyline as alternatives. Non-steroidal anti-inflammatories treat nociceptive pain and do not address central mechanisms, and corticosteroids have no role in chronic neuropathic pain."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"hard","correct_answer":1,
+ "stem":"Which statement about depression in MS is accurate?",
+ "options":["It occurs at roughly the same rate as in the general population","It is more common than in the general population and raises suicide risk","It occurs only in patients with established progressive disease","It reliably resolves once disease-modifying therapy is started"],
+ "rationale":"Lifetime prevalence of major depression in MS is substantially above general population rates, driven by both disease-related and psychosocial factors, and suicide risk is elevated. It is underdiagnosed because fatigue, cognitive slowing, and sleep disturbance overlap with MS itself, which is the argument for systematic screening rather than clinical impression."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"hard","correct_answer":2,
+ "stem":"A patient reports reduced genital sensation and difficulty with arousal. How is this best classified?",
+ "options":["Secondary sexual dysfunction, arising from other MS symptoms","Tertiary sexual dysfunction, arising from psychosocial factors","Primary sexual dysfunction, arising from demyelination itself","A non-MS problem requiring urologic referral before any discussion"],
+ "rationale":"Primary sexual dysfunction results directly from lesions affecting the neural pathways of arousal and sensation. Secondary dysfunction arises from other MS symptoms such as fatigue, spasticity, bladder problems, or medication effects, and tertiary from psychological and relationship factors. The three often coexist, and naming which applies directs treatment."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":3,
+ "stem":"Which intervention should be first-line for constipation in a patient with MS?",
+ "options":["Daily stimulant laxatives as a standing maintenance regimen","Routine weekly enemas scheduled regardless of symptoms","Long-term opioid reduction combined with prokinetic therapy","Adequate fluid and fibre with a scheduled toileting routine"],
+ "rationale":"Neurogenic bowel management starts with hydration, dietary fibre, activity as tolerated, and a consistent post-meal toileting routine that uses the gastrocolic reflex. Osmotic agents are added next, with stimulants and suppositories reserved for when the conservative program is insufficient. Fluid restriction adopted for bladder symptoms is a common and correctable contributor."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"hard","correct_answer":0,
+ "stem":"A patient reports overwhelming daytime sleepiness, unrefreshing sleep, and witnessed snoring. What should be evaluated before attributing this to MS fatigue?",
+ "options":["Obstructive sleep apnea, with referral for a sleep study","Subclinical relapse activity, with an urgent contrast MRI","Early secondary progression, with repeat disability staging","Medication non-adherence, with a pharmacy refill history review"],
+ "rationale":"Sleep disorders are common and underdiagnosed in MS, and obstructive sleep apnea, restless legs, and nocturia are all treatable contributors to what gets labelled MS fatigue. Sleepiness, meaning a tendency to fall asleep, is clinically distinct from fatigue and points toward a primary sleep disorder. Treating the apnea often improves the fatigue substantially."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":2,
+ "stem":"Which recommendation about exercise is appropriate for a patient with mild to moderate MS?",
+ "options":["Avoid all aerobic exercise because of the risk of provoking relapse","Restrict activity to passive range of motion performed by a therapist","Engage in regular aerobic and resistance training with attention to heat","Limit exercise strictly to the periods between documented relapses"],
+ "rationale":"Exercise improves fatigue, mood, strength, walking, and quality of life in MS and does not provoke relapses. Practical management of heat sensitivity, using cooling, hydration, timing, and aquatic exercise in cooler water, addresses the transient symptom worsening that otherwise discourages patients from continuing."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"medium","correct_answer":1,
+ "stem":"A patient receiving high-dose intravenous methylprednisolone reports insomnia, irritability, and elevated home glucose readings. What is the most appropriate response?",
+ "options":["Stop the infusion course immediately and arrange endocrine referral","Counsel that these are expected transient effects and manage them supportively","Reduce the dose by half and extend the course over ten days instead","Add an oral hypoglycaemic agent to be continued indefinitely afterwards"],
+ "rationale":"Insomnia, mood lability, hyperglycemia, fluid retention, and metallic taste are expected short-term corticosteroid effects that resolve after the course. Management is morning dosing, sleep support, glucose monitoring with temporary adjustment in diabetes, and gastric protection. Avascular necrosis is the rare serious effect to counsel about for repeated courses."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"hard","correct_answer":3,
+ "stem":"Why is bone health monitoring particularly important in MS?",
+ "options":["Demyelinating lesions directly reduce bone mineral density over time","Disease-modifying therapies are the principal cause of bone loss","MS causes a specific defect in intestinal calcium absorption","Reduced mobility, low vitamin D, and steroid courses all reduce bone density"],
+ "rationale":"Fracture risk in MS is raised by reduced weight-bearing activity, low vitamin D status, repeated corticosteroid exposure, and a higher rate of falls. Assessment of vitamin D, calcium intake, densitometry where indicated, fall-risk review, and resistance exercise are the practical responses. The mechanism is not a direct lesion effect."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"hard","correct_answer":0,
+ "stem":"Why does aggressive management of hypertension, diabetes, and hyperlipidemia matter in MS specifically?",
+ "options":["Vascular comorbidity is associated with faster disability progression in MS","These conditions are direct contraindications to all high-efficacy therapies","Treating them reliably reverses established demyelinating lesion burden","They are known to cause conversion from relapsing to progressive disease"],
+ "rationale":"Cohort data consistently link vascular comorbidity to greater disability at diagnosis and faster progression thereafter, which makes comorbidity management part of MS care rather than a separate concern. Smoking cessation carries the same weight and affects both risk and course."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":2,
+ "stem":"A patient asks about vitamin D supplementation. What is the most accurate response?",
+ "options":["High-dose supplementation has been shown to halt disability progression","Supplementation is unnecessary if the patient spends time outdoors regularly","Maintaining sufficiency is recommended, though trial evidence for benefit is mixed","Supplementation should only begin after progression to secondary progressive MS"],
+ "rationale":"Low vitamin D status is a well-supported risk factor for developing MS, and correcting deficiency is recommended for bone health regardless. Randomized trials of supplementation as a disease-modifying intervention have produced mixed results, so the honest framing is sufficiency as a reasonable goal rather than a proven treatment effect."},
+
+{"domain":"clinical","subdomain":"2.1.1","difficulty":"hard","correct_answer":1,
+ "stem":"A patient develops flushing, throat tightness, and a drop in blood pressure 30 minutes into a first ocrelizumab infusion. What is the immediate priority?",
+ "options":["Slow the infusion rate by half and continue with closer observation","Stop the infusion and manage the reaction per the anaphylaxis protocol","Give an additional oral antihistamine and maintain the current rate","Complete the infusion quickly so the reaction does not prolong"],
+ "rationale":"Hypotension with airway symptoms is a severe reaction, so the infusion is stopped rather than slowed and anaphylaxis management is initiated. Mild reactions such as isolated flushing or throat irritation may be managed by holding and restarting at a reduced rate after symptoms settle. Premedication reduces but does not eliminate these reactions."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":3,
+ "stem":"Which vaccine is contraindicated in a patient currently receiving an immunosuppressive disease-modifying therapy?",
+ "options":["Recombinant zoster vaccine given as a two-dose series","Inactivated seasonal influenza vaccine given intramuscularly","Pneumococcal conjugate vaccine given as a single dose","Live attenuated varicella vaccine given subcutaneously"],
+ "rationale":"Live attenuated vaccines, including varicella, MMR, and the live intranasal influenza formulation, are contraindicated during immunosuppressive therapy. The recombinant zoster vaccine is not live and is recommended, and all inactivated and recombinant vaccines are safe though the antibody response may be attenuated."},
+
+{"domain":"clinical","subdomain":"2.3","difficulty":"medium","correct_answer":0,
+ "stem":"Which MRI sequence is used to identify lesions with active inflammation and a disrupted blood-brain barrier?",
+ "options":["T1-weighted imaging after gadolinium administration","T2-weighted imaging without any contrast agent","Fluid-attenuated inversion recovery without contrast","Diffusion-weighted imaging with apparent diffusion mapping"],
+ "rationale":"Gadolinium enhancement on T1-weighted images marks blood-brain barrier breakdown and indicates a lesion active within roughly the preceding month. T2 and FLAIR show cumulative lesion burden without dating it, and persistent T1 hypointensity, the black hole, indicates axonal loss rather than active inflammation."},
+
+{"domain":"conceptual","subdomain":"1.4","difficulty":"hard","correct_answer":2,
+ "stem":"What does NEDA-3 require during a defined period of treatment?",
+ "options":["No relapses and no change in the disability score, with imaging optional","No new MRI lesions, with occasional mild relapses permitted","No relapses, no confirmed disability progression, and no new MRI activity","No relapses and no new symptoms reported by the patient at any visit"],
+ "rationale":"No evidence of disease activity, in its three-component form, requires absence of clinical relapse, absence of confirmed disability progression, and absence of new or enlarging T2 lesions and gadolinium-enhancing lesions. Proposed four-component versions add brain volume loss within normal limits. It is a research and treatment-decision construct rather than a guarantee."},
+
+{"domain":"conceptual","subdomain":"1.4","difficulty":"medium","correct_answer":1,
+ "stem":"What limitation of the Expanded Disability Status Scale is most important to understand when interpreting a score?",
+ "options":["It cannot be scored without formal neuropsychological testing","It is heavily weighted toward ambulation in the middle and upper range","It is only validated in patients with progressive forms of MS","It requires MRI lesion counts to generate the final numerical score"],
+ "rationale":"From roughly EDSS 4.0 upward the score is determined largely by walking distance and aids, so it is relatively insensitive to cognitive decline, upper limb function, fatigue, and bladder symptoms. This is why composite measures adding the 9-Hole Peg Test, T25FW, and SDMT are often used alongside it."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"hard","correct_answer":2,
+ "stem":"A patient with advancing MS reports coughing during meals and has had two chest infections this year. What is the priority action?",
+ "options":["Advise smaller meals and continue monitoring at routine visits","Begin empiric antibiotic prophylaxis through the winter months","Refer for swallowing evaluation, given the risk of aspiration","Start a proton pump inhibitor for presumed acid reflux disease"],
+ "rationale":"Coughing with meals and recurrent respiratory infection suggests neurogenic dysphagia with aspiration, which carries real mortality in progressive MS. Formal evaluation by speech-language pathology, potentially with instrumental assessment, defines the safest consistencies, positioning, and compensatory strategies. Silent aspiration means the absence of coughing does not exclude it."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":0,
+ "stem":"Which intervention most directly reduces fall risk in a patient with MS-related gait impairment and lower limb weakness?",
+ "options":["Physical therapy referral for gait training and assistive device fitting","Advising the patient to limit walking to indoor surfaces only","Increasing the dose of the current antispasticity medication","Prescribing a wheelchair for all mobility outside the home"],
+ "rationale":"Falls in MS arise from weakness, spasticity, sensory loss, impaired balance, fatigue, and visual disturbance, and physical therapy addresses several of these at once while fitting the appropriate device. Restricting activity produces deconditioning that worsens the underlying problem. Medication review for sedating agents and a home hazard assessment complete the approach."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"hard","correct_answer":3,
+ "stem":"Which treatment is most appropriate for focal spasticity confined to the ankle plantar flexors that has not responded to oral agents?",
+ "options":["Adding a second oral antispasticity medication at full dose","Beginning a trial of intrathecal baclofen via an implanted pump","Increasing the current oral baclofen beyond the usual maximum","Botulinum toxin injection to the affected muscle group"],
+ "rationale":"Focal spasticity is well suited to botulinum toxin, which acts locally and avoids the sedation and generalized weakness of escalating oral therapy. Intrathecal baclofen is reserved for severe generalized lower limb spasticity unresponsive to oral agents. Physical therapy and stretching remain part of the plan in either case."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":1,
+ "stem":"A patient with reduced sensation and limited mobility is at risk of pressure injury. Which measure is most important?",
+ "options":["Massaging reddened areas to restore circulation to the tissue","Scheduled repositioning with daily inspection of pressure areas","Applying a moisture barrier cream to the sacrum twice daily","Restricting fluid intake to reduce the risk of incontinence"],
+ "rationale":"Pressure redistribution through scheduled repositioning, appropriate support surfaces, and daily skin inspection over bony prominences is the core of prevention, alongside nutrition and moisture management. Massaging reddened areas is contraindicated because it damages already compromised tissue, and fluid restriction risks dehydration and urinary infection."},
+
+{"domain":"clinical","subdomain":"2.1.1","difficulty":"medium","correct_answer":2,
+ "stem":"A patient presents with subacute painful monocular vision loss and reduced color perception. What is the expected examination finding?",
+ "options":["A constricted pupil that reacts briskly to direct light stimulation","Bilateral papilledema with obscured margins on both optic discs","A relative afferent pupillary defect on the affected side","Complete external ophthalmoplegia with a fixed dilated pupil"],
+ "rationale":"Optic neuritis characteristically produces a relative afferent pupillary defect, with pain on eye movement, reduced acuity, and impaired red desaturation. The disc is normal in retrobulbar cases, which are the majority, so a normal fundus does not exclude the diagnosis. Most patients recover substantial vision whether or not steroids are given; steroids hasten recovery without changing the endpoint."}
+]

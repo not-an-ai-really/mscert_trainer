@@ -1,0 +1,471 @@
+{
+  "batch": "2026-09-07-education",
+  "source": "Halper & Harris, Nursing Practice in Multiple Sclerosis: A Core Curriculum (4th ed, 2017), chs 1/3 - original paraphrase, no verbatim text",
+  "questions": [
+    {
+      "id": "q0625",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "easy",
+      "stem": "In the levels of health behavior used in MS nursing, a person who works to maximize wellness and avoid illness is practicing which level of prevention?",
+      "options": [
+        "Primary prevention",
+        "Secondary prevention",
+        "Tertiary prevention",
+        "Quaternary prevention"
+      ],
+      "correct_answer": 0,
+      "rationale": "Primary prevention maximizes wellness and avoids illness. Secondary prevention aims to forestall complications, and tertiary prevention controls disease progression, comorbidities, or complications."
+    },
+    {
+      "id": "q0626",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "easy",
+      "stem": "Which intervention best exemplifies secondary prevention in MS nursing education?",
+      "options": [
+        "Teaching a newly diagnosed patient strategies that forestall complications such as falls and injury",
+        "Promoting general wellness in an asymptomatic person with no known neurologic disease",
+        "Recovering function after many years of accumulated disability",
+        "Starting a disease-modifying therapy for the first time"
+      ],
+      "correct_answer": 0,
+      "rationale": "Secondary prevention behaviors are meant to forestall complications in early disease. General wellness promotion is primary prevention, and controlling established progression and comorbidities is tertiary prevention."
+    },
+    {
+      "id": "q0627",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "easy",
+      "stem": "A program for a patient with advanced MS focuses on controlling disease progression and comorbidities. This reflects which level of prevention?",
+      "options": [
+        "Tertiary prevention",
+        "Primary prevention",
+        "Secondary prevention",
+        "Tertiary intervention, which is not recognized as a prevention level"
+      ],
+      "correct_answer": 0,
+      "rationale": "Tertiary prevention controls disease progression, comorbidities, or complications - the level appropriate to advanced disease, where the goals shift to optimizing function and quality of life."
+    },
+    {
+      "id": "q0628",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "easy",
+      "stem": "Which theoretical model emphasizes a person's own beliefs about a health threat as the motivator for adopting health behavior?",
+      "options": [
+        "The Health Belief Model",
+        "The Transtheoretical Model of Change",
+        "The Theory of Reasoned Action",
+        "The Social Cognitive Model"
+      ],
+      "correct_answer": 0,
+      "rationale": "The Health Belief Model focuses on the person's beliefs as a motivator of health behavior and employs the concept of self-efficacy. The Theory of Reasoned Action explains attitudes and actions a person undertakes; the Transtheoretical Model stages increasing awareness; the Social Cognitive Model uses self-efficacy and empowerment."
+    },
+    {
+      "id": "q0629",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "easy",
+      "stem": "A patient says she is 'thinking about' starting an exercise program but is not ready to begin this week. Which model frames this as a stage of increasing awareness of the situation?",
+      "options": [
+        "The Transtheoretical Model of Change",
+        "The Health Belief Model",
+        "The Theory of Reasoned Action",
+        "The Biopsychosocial Model"
+      ],
+      "correct_answer": 0,
+      "rationale": "The Transtheoretical Model describes change as progressing through stages as the person's awareness of the situation increases, from precontemplation through contemplation to action and maintenance."
+    },
+    {
+      "id": "q0630",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "medium",
+      "stem": "In the Social Cognitive Model applied to chronic disease self-management, which two elements are emphasized?",
+      "options": [
+        "Self-efficacy and empowerment",
+        "Fear and avoidance",
+        "Genetic load and epigenetics",
+        "Compliance and punishment"
+      ],
+      "correct_answer": 0,
+      "rationale": "The Social Cognitive Model employs elements such as self-efficacy and empowerment to support a person's ability to manage a chronic condition. Punishment-based or fear-based strategies are not its foundation."
+    },
+    {
+      "id": "q0631",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "medium",
+      "stem": "A nurse is guiding a patient's transition to a new disease-modifying therapy regimen. In change theory applied to MS nursing, the nurse's central role in this process is best described as:",
+      "options": [
+        "Change agent, interacting with the patient's values and beliefs to influence change and adaptation",
+        "Passive information dispenser who hands out written medication lists",
+        "The only authority who overrides the patient's value system",
+        "A role reserved for physicians; the nurse does not facilitate behavior change"
+      ],
+      "correct_answer": 0,
+      "rationale": "The MS nurse as change agent interacts with the patient's system (values and beliefs) to influence change and adaptation, staying sensitive to feedback on how activities, ideas, and new programs are being accepted."
+    },
+    {
+      "id": "q0632",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "medium",
+      "stem": "When planning a self-management change for a patient with MS, change theory directs the nurse to plan with respect for which of the following?",
+      "options": [
+        "The environment, social and economic factors, ethnocultural concerns, and available resources",
+        "Only the pharmacology of the prescribed drug",
+        "Only the convenience of the healthcare institution",
+        "Only the patient's insurance status"
+      ],
+      "correct_answer": 0,
+      "rationale": "Change must be planned with respect for the environment, social and economic factors, ethnocultural concerns, and resources. The nurse also identifies the patient's belief or value system and potential barriers to goals or the treatment plan."
+    },
+    {
+      "id": "q0633",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "medium",
+      "stem": "A patient repeatedly expresses doubts about the exercise program the nurse proposed. Which approach best minimizes resistance to change?",
+      "options": [
+        "Keeping the interaction open and dynamic while exploring the patient's concerns",
+        "Issuing a firm written plan the patient must initial to end the discussion",
+        "Escalating to a physician who can order the patient to comply",
+        "Postponing all education until the next relapse"
+      ],
+      "correct_answer": 0,
+      "rationale": "Resistance to change is minimized when the nurse keeps interactions open and dynamic. Strategies include accurately assessing the patient's status and functioning, jointly developing milestones, identifying barriers, and continually reassessing the plan of care."
+    },
+    {
+      "id": "q0634",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "medium",
+      "stem": "According to change strategies in MS nursing, with whom should specific milestones to track patient progress be developed?",
+      "options": [
+        "Jointly, with the patient",
+        "By the physician alone",
+        "By the insurance coordinator",
+        "They should not be developed in chronic disease care"
+      ],
+      "correct_answer": 0,
+      "rationale": "A core strategy is to develop specific milestones jointly with the patient, then monitor the quality of care, monitor service delivery through regular communication, and continually reassess the plan - promoting sustained adherence to complex protocols."
+    },
+    {
+      "id": "q0635",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "medium",
+      "stem": "Which of the following is a factor that patients and nurses must face when dealing with the dynamic nature of MS?",
+      "options": [
+        "Learning and adopting complex protocols to manage MS",
+        "A single fixed treatment that never changes",
+        "A guarantee of complete remission for all patients",
+        "A cure that is available at the time of diagnosis"
+      ],
+      "correct_answer": 0,
+      "rationale": "Dynamic factors include adapting to new lifestyles, changing roles and responsibilities, learning and adopting complex management protocols, adjusting to the disease's course, and considering each person's ethnocultural background. Change and complexity are inherent in MS, as in any chronic illness."
+    },
+    {
+      "id": "q0636",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "medium",
+      "stem": "A newly diagnosed patient is motivated about quitting smoking but says she is not ready to quit this week. Using stages-of-change reasoning, what is the nurse's best next step?",
+      "options": [
+        "Strengthen her awareness and self-efficacy, and plan a future quit date with her",
+        "Declare an immediate quit date regardless of the patient's timeline",
+        "Stop counseling until the next relapse",
+        "Prescribe a smoking-cessation drug and end the encounter"
+      ],
+      "correct_answer": 0,
+      "rationale": "Change work should match the person's stage: for someone contemplating change, the nurse builds awareness and self-efficacy and collaborates on a realistic plan. Forcing a timeline typically produces resistance and broken plans."
+    },
+    {
+      "id": "q0637",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "easy",
+      "stem": "Before teaching a patient a new symptom-management skill, which step comes FIRST?",
+      "options": [
+        "Assessing the patient's readiness, preferred learning style, and current understanding",
+        "Delivering a 30-minute lecture regardless of the patient's fatigue",
+        "Leaving a pamphlet and ending the visit",
+        "Skipping teaching because internet resources are sufficient"
+      ],
+      "correct_answer": 0,
+      "rationale": "Effective patient education begins with assessing readiness, prior knowledge, and preferred modalities, then tailoring the teaching and confirming understanding - for example with teach-back. Information delivery without assessment assumes learning will occur."
+    },
+    {
+      "id": "q0638",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "easy",
+      "stem": "Which teaching technique is most effective for confirming that a patient truly understands a new medication plan?",
+      "options": [
+        "Teach-back, asking the patient to explain the plan in their own words",
+        "Asking 'Do you understand?' and accepting an immediate yes",
+        "Requiring the patient to recite all generic drug names",
+        "Giving a 50-question multiple-choice quiz"
+      ],
+      "correct_answer": 0,
+      "rationale": "Teach-back confirms actual understanding and reveals misperceptions to correct. 'Do you understand?' often draws a polite yes, and rote recall of drug names does not demonstrate understanding of the plan."
+    },
+    {
+      "id": "q0639",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "medium",
+      "stem": "When teaching an OLDER ADULT with newly diagnosed MS, which consideration is most important?",
+      "options": [
+        "Adapting pace and modality to sensory and cognitive changes and confirming understanding",
+        "Using technical jargon to build the patient's confidence",
+        "Teaching only the family member and not the patient",
+        "Rushing the session to avoid fatigue"
+      ],
+      "correct_answer": 0,
+      "rationale": "Special populations (pediatric, aging) require adapted education: adjusted pace, appropriate sensory modalities, repetition, and caregiver involvement, always confirming understanding with the learner."
+    },
+    {
+      "id": "q0640",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "medium",
+      "stem": "When planning education for a CHILD newly diagnosed with MS, which approach best meets the child's needs?",
+      "options": [
+        "Age-appropriate language with caregiver involvement and honest, reassuring information about the illness",
+        "The same detailed lecture prepared for an adult",
+        "Keeping the diagnosis secret from the child",
+        "Deferring all education until the child reaches adulthood"
+      ],
+      "correct_answer": 0,
+      "rationale": "Pediatric education must be age-appropriate and transparent at an appropriate level, involving caregivers so the child receives consistent, truthful information - a recognized focus of patient education in special populations."
+    },
+    {
+      "id": "q0641",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "medium",
+      "stem": "Why should a nurse assess health literacy when planning MS education?",
+      "options": [
+        "Limited literacy reduces comprehension and retention of written and spoken instructions",
+        "Literacy has no measurable effect on medication adherence",
+        "Only physicians are permitted to assess literacy",
+        "Literacy assessment is required only before surgery"
+      ],
+      "correct_answer": 0,
+      "rationale": "Health literacy predicts how well patients understand and follow instructions. Low-literacy patients need plain language, teach-back, and multimodal teaching; literacy assessment is part of planning, not limited to surgical settings."
+    },
+    {
+      "id": "q0642",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "hard",
+      "stem": "A patient stopped a prescribed home exercise program because her MS symptoms vary day to day. Applying change theory, which is the MOST COMPREHENSIVE nursing approach?",
+      "options": [
+        "Assess barriers, jointly develop realistic milestones, and reassess regularly while honoring the patient's values and circumstances",
+        "Instruct the family to compel the patient to exercise",
+        "Stop all behavioral intervention because medications alone are sufficient",
+        "Document noncompliance once and discontinue follow-up"
+      ],
+      "correct_answer": 0,
+      "rationale": "Change theory in MS nursing calls for assessing status and functioning, jointly developing milestones, identifying and working through barriers and value systems, and continually reassessing - the comprehensive route to sustained adherence to complex protocols."
+    },
+    {
+      "id": "q0643",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "hard",
+      "stem": "Which nursing intervention most directly supports sustained adherence to a complex DMT regimen (daily injection plus a required monitoring schedule)?",
+      "options": [
+        "Individualized teaching with self-management goals, barrier problem-solving, and scheduled follow-up",
+        "A single verbal explanation at the start visit",
+        "Mailing generic leaflets once a year",
+        "No intervention - adherence is entirely the patient's responsibility"
+      ],
+      "correct_answer": 0,
+      "rationale": "Facilitating adherence to complex protocols is an explicit application of change theory in MS nursing: individualized nursing interventions, joint goal-setting, monitoring, and regular communication promote sustained adherence."
+    },
+    {
+      "id": "q0644",
+      "domain": "education",
+      "subdomain": "4.1",
+      "difficulty": "hard",
+      "stem": "A clinic nurse triages teaching needs for three patients: (a) an asymptomatic employee at an MS awareness fair, (b) a patient two years into early relapsing-remitting MS, and (c) a patient with advanced progressive MS and several comorbidities. The correct prevention levels, in order, are:",
+      "options": [
+        "Primary, secondary, tertiary",
+        "Tertiary, primary, secondary",
+        "Secondary, tertiary, primary",
+        "Primary, primary, secondary"
+      ],
+      "correct_answer": 0,
+      "rationale": "Patient (a) is at the wellness/prevent-illness level (primary); patient (b) needs to forestall complications in early disease (secondary); patient (c) needs control of progression and comorbidities (tertiary)."
+    },
+    {
+      "id": "q0645",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "easy",
+      "stem": "A nurse is considering voluntary specialist certification in multiple sclerosis nursing. Passing the certification examination primarily validates what?",
+      "options": [
+        "The nurse's specialized knowledge and expertise in caring for people with MS",
+        "A state license to practice medicine",
+        "Employment by a particular hospital system",
+        "Immunity from malpractice liability"
+      ],
+      "correct_answer": 0,
+      "rationale": "Certification by examination validates specialized expertise beyond basic licensure. For MS nursing, the examination content covers basic MS concepts (disease course classification), pharmacologic and nonpharmacologic treatment, symptom management, psychosocial intervention, research and education initiatives, and patient advocacy."
+    },
+    {
+      "id": "q0646",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "easy",
+      "stem": "Which of the following is a core content area of MS nurse certification examinations?",
+      "options": [
+        "Symptom management",
+        "Cardiac catheterization technique",
+        "Pediatric immunization schedules",
+        "Operating-room sterilization protocols"
+      ],
+      "correct_answer": 0,
+      "rationale": "Certification content includes basic concepts of MS, pharmacologic and nonpharmacologic treatment, symptom management, psychosocial intervention, research and education initiatives, and patient advocacy - reflecting the specialty's practice domains."
+    },
+    {
+      "id": "q0647",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "easy",
+      "stem": "Which experience requirement is generally expected before candidates sit for MS nursing certification examinations?",
+      "options": [
+        "Active nursing licensure plus a minimum period of direct MS nursing experience (for example, at least 2 years)",
+        "A doctorate in nursing practice",
+        "Five years of any non-MS clinical experience",
+        "No clinical experience is required"
+      ],
+      "correct_answer": 0,
+      "rationale": "Candidates must be licensed nursing professionals with at least 2 years' experience in multiple sclerosis care before certification examination eligibility, according to the internationally recognized MS certification framework."
+    },
+    {
+      "id": "q0648",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "medium",
+      "stem": "Which statement best describes the role of the International Organization of MS Nurses (IOMSN)?",
+      "options": [
+        "It advances MS nursing practice, standards, and research, and supports certification and education initiatives",
+        "It markets disease-modifying therapies directly to consumers",
+        "It replaces national nursing licensure boards",
+        "It prescribes medications for people with MS"
+      ],
+      "correct_answer": 0,
+      "rationale": "Founded in 1997, IOMSN facilitates the development of a specialized branch of MS nursing, establishes standards, defines roles and responsibilities in the domains of MS nursing, supports research, educates the healthcare community, and endorses voluntary certification by examination."
+    },
+    {
+      "id": "q0649",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "medium",
+      "stem": "Why is continuing education emphasized in MS nursing professional development?",
+      "options": [
+        "The evidence base - new DMT approvals and revised diagnostic criteria - evolves rapidly, so practice must stay current",
+        "State boards no longer require licensure in specialty areas",
+        "Continuing education is mandatory in no specialty",
+        "MS has been cured, so the literature no longer changes"
+      ],
+      "correct_answer": 0,
+      "rationale": "MS practice has changed quickly - from the first DMT approval in 1993 through successive therapies to the 2010 revision of the McDonald diagnostic criteria. Certification maintenance and continuing education exist so practice reflects current evidence."
+    },
+    {
+      "id": "q0650",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "medium",
+      "stem": "What is the FIRST step in applying evidence-based practice to a new symptom-management protocol in an MS clinic?",
+      "options": [
+        "Integrating the best current evidence with clinical expertise and patient values and preferences",
+        "Implementing the protocol immediately because a new journal endorsed it",
+        "Applying a textbook chapter written ten years ago",
+        "Using patient preference as the sole basis for change"
+      ],
+      "correct_answer": 0,
+      "rationale": "Evidence-based practice integrates three elements: the best available evidence, the clinician's expertise, and the patient's values and preferences. Appraising the evidence first is what separates EBP from trend-driven practice."
+    },
+    {
+      "id": "q0651",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "medium",
+      "stem": "A specialist MS nurse leads a weekly symptom-management huddle with physical therapy, occupational therapy, social work, and pharmacy. Which professional competency does this best demonstrate?",
+      "options": [
+        "Leadership in multidisciplinary team coordination",
+        "Advanced surgical technique",
+        "Independent prescribing authority",
+        "Financial auditing"
+      ],
+      "correct_answer": 0,
+      "rationale": "The MS care team model is central to the practice domains. Coordinating and leading interdisciplinary teams - and collaborating with patients, families, and community resources - is a core leadership competency for specialist MS nurses."
+    },
+    {
+      "id": "q0652",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "medium",
+      "stem": "A nurse regularly reviews her own clinical encounters to identify learning needs and areas for improvement. This is an example of which competency?",
+      "options": [
+        "Reflective practice",
+        "Diagnostic radiology",
+        "Billing and coding",
+        "Environmental ergonomics"
+      ],
+      "correct_answer": 0,
+      "rationale": "Professional and personal development in MS nursing includes reflective practice and deliberate knowledge development. Reflecting on encounters closes the loop between experience and improved competence."
+    },
+    {
+      "id": "q0653",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "medium",
+      "stem": "How do national standards of MS nursing practice primarily benefit the discipline?",
+      "options": [
+        "They define expected, evidence-based roles and outcomes against which care can be judged",
+        "They replace legal requirements for nursing practice",
+        "They prescribe drug dosages",
+        "They eliminate the need for clinical judgment"
+      ],
+      "correct_answer": 0,
+      "rationale": "Standards define competencies, roles, and expected outcomes in the domains of MS nursing practice. They guide care, education, and certification; they supplement - rather than replace - law and clinical judgment."
+    },
+    {
+      "id": "q0654",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "hard",
+      "stem": "A certified MS nurse realizes she is one year from recertification and has not tracked her continuing-education requirements. What should be her first professional-development action?",
+      "options": [
+        "Audit her current credits against the recertification requirements and build a plan to close any gap",
+        "Wait until the final month before making any plans",
+        "Abandon certification because renewal is not worthwhile",
+        "Purchase 'credits' from an unaccredited vendor"
+      ],
+      "correct_answer": 0,
+      "rationale": "Certification maintenance requires planned completion of continuing-education requirements. An early audit identifies gaps while there is still time to close them; deferral risks a credential lapse, and unaccredited credits do not count."
+    },
+    {
+      "id": "q0655",
+      "domain": "education",
+      "subdomain": "4.2",
+      "difficulty": "hard",
+      "stem": "A colleague returns from a conference describing a new MS rehabilitation technique with encouraging results. Which behavior best reflects the professional role in disseminating evidence?",
+      "options": [
+        "Appraising the evidence, adapting it to local practice, and sharing it with the team",
+        "Adopting it without any appraisal of the evidence quality",
+        "Discarding it automatically because conference reports are never evidence-based",
+        "Keeping the information private to protect one's own practices"
+      ],
+      "correct_answer": 0,
+      "rationale": "Professional organizations charge MS nurses to disseminate research findings through publications and educational activities. The professional approach is to appraise evidence quality, adapt it thoughtfully, and share it - not to reflexively adopt or reject it."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+[
+{"domain":"conceptual","subdomain":"1.2","difficulty":"medium","correct_answer":0,
+ "stem":"What is the approximate risk that a child of a parent with MS will develop the disease?",
+ "options":["Around 2 to 4 percent, against well under 1 percent in the population","Around 50 percent, reflecting an autosomal dominant inheritance pattern","Around 25 percent, reflecting an autosomal recessive inheritance pattern","Essentially zero, since MS carries no heritable component at all"],
+ "rationale":"MS is not inherited in a Mendelian pattern. First-degree relative risk is roughly 2 to 4 percent against a general population risk well under 1 percent, and monozygotic twin concordance sits near 25 to 30 percent, which demonstrates both a genetic contribution and a substantial environmental one. HLA-DRB1*15:01 is the strongest single genetic association."},
+
+{"domain":"conceptual","subdomain":"1.4","difficulty":"hard","correct_answer":2,
+ "stem":"What does an elevated serum neurofilament light chain level indicate in a patient with MS?",
+ "options":["Active bacterial infection of the central nervous system","The specific subtype of MS the patient has developed","Ongoing neuroaxonal injury, though it is not specific to MS","Definitive confirmation that a new relapse has occurred"],
+ "rationale":"Neurofilament light chain is released when axons are damaged, so levels rise with relapses, new lesions, and progression, and fall with effective therapy. It is a marker of axonal injury rather than of MS: trauma, stroke, neuropathy, and other neurodegenerative disease also raise it, and levels rise with age and fall with higher body mass."},
+
+{"domain":"conceptual","subdomain":"1.4","difficulty":"hard","correct_answer":1,
+ "stem":"What does the central vein sign on susceptibility-weighted MRI help distinguish?",
+ "options":["Active from chronic lesions within the same brain region","MS lesions from small vessel ischemic white matter disease","Primary progressive from secondary progressive disease courses","Cortical lesions from juxtacortical lesions on the same scan"],
+ "rationale":"MS plaques characteristically form around a central venule, so a high proportion of lesions showing a central vein supports MS over vascular white matter disease, migraine-related lesions, and other mimics. It addresses a common real-world diagnostic problem, since incidental white matter hyperintensities are frequent and easily overread."},
+
+{"domain":"conceptual","subdomain":"1.4","difficulty":"hard","correct_answer":3,
+ "stem":"What does a paramagnetic rim around a chronic MS lesion represent?",
+ "options":["Residual gadolinium retained within the lesion from earlier imaging","Complete remyelination occurring at the outer edge of the lesion","Cerebrospinal fluid tracking along the margin of the old lesion","Iron-laden activated microglia at a chronically active lesion edge"],
+ "rationale":"Paramagnetic rim lesions represent chronic smouldering inflammation, with iron-laden microglia and macrophages at the edge driving slow expansion. A higher rim lesion burden is associated with greater disability and more aggressive disease, and these lesions respond poorly to therapies that act mainly on peripheral immune cells."},
+
+{"domain":"clinical","subdomain":"2.3","difficulty":"medium","correct_answer":0,
+ "stem":"What does optical coherence tomography measure in MS?",
+ "options":["Retinal nerve fibre layer thickness, as a marker of axonal loss","The pressure inside the anterior chamber of the eye","Blood flow velocity through the central retinal artery","Latency of the cortical response to a visual stimulus"],
+ "rationale":"OCT quantifies retinal nerve fibre layer and ganglion cell layer thickness, which thin after optic neuritis and also more slowly in eyes never clinically affected. Because the retina contains unmyelinated axons, it offers a direct window on neurodegeneration, and thinning correlates with disability and brain atrophy."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"hard","correct_answer":2,
+ "stem":"Why is central nervous system penetration a design goal for Bruton tyrosine kinase inhibitors in MS?",
+ "options":["It allows the drug to be given at a much lower total daily dose","It eliminates the need for any laboratory monitoring during therapy","It permits action on microglia behind the blood-brain barrier","It prevents the development of neutralizing antibodies to the drug"],
+ "rationale":"Existing high-efficacy therapies act mainly on peripheral immune cells and have limited effect on the compartmentalized inflammation behind an intact blood-brain barrier that drives progression. A CNS-penetrant agent can modulate microglia and B cells within the compartment, which is the rationale for targeting progression rather than relapses. Hepatotoxicity has been a notable class concern requiring monitoring."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"hard","correct_answer":1,
+ "stem":"Which patient profile is most consistent with current selection for autologous hematopoietic stem cell transplantation in MS?",
+ "options":["An older patient with longstanding progressive disease and no inflammatory activity","A younger patient with aggressive relapsing disease and continued activity on therapy","A newly diagnosed patient who has not yet tried any disease-modifying therapy","A stable patient who prefers to avoid the inconvenience of ongoing therapy"],
+ "rationale":"AHSCT works by resetting an inflammatory immune system, so benefit concentrates in younger patients with shorter disease duration, lower disability, and ongoing relapse or MRI activity despite therapy. It carries real treatment-related mortality and should be done in experienced accredited centres. It is not an effective treatment for late non-inflammatory progression."},
+
+{"domain":"clinical","subdomain":"2.1.1","difficulty":"medium","correct_answer":3,
+ "stem":"Which premedication regimen is typically given before an ocrelizumab infusion?",
+ "options":["A broad-spectrum antibiotic and an oral antiviral agent","An oral anticoagulant and a proton pump inhibitor","An antiemetic and an intravenous fluid bolus","A corticosteroid and an antihistamine, with an antipyretic"],
+ "rationale":"Methylprednisolone and an antihistamine, usually with acetaminophen, are given before each infusion to reduce infusion-related reactions, which are most frequent with the first dose. Premedication reduces but does not eliminate reactions, so the observation period and rate-adjustment protocol still apply."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"hard","correct_answer":0,
+ "stem":"A patient on an S1P modulator has an absolute lymphocyte count of 400 per cubic millimeter at routine monitoring. How should this be interpreted?",
+ "options":["Expected redistribution of lymphocytes, though the threshold warrants review","Definite bone marrow failure requiring urgent hematology admission","A laboratory error that should simply be repeated at the next visit","Evidence of an active infection requiring empiric antibiotic therapy"],
+ "rationale":"S1P modulators sequester lymphocytes in lymph nodes rather than destroying them, so peripheral counts fall by 70 to 80 percent by design. Counts persistently below about 200 usually prompt holding the drug until recovery. The distinction from true marrow suppression matters, since the cells are present but redistributed."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"medium","correct_answer":2,
+ "stem":"A patient on teriflunomide has an ALT three times the upper limit of normal at routine monitoring. What is the appropriate action?",
+ "options":["Continue unchanged, since transaminase elevation is expected on this drug","Double the dose to overcome apparent hepatic enzyme induction","Follow the monitoring protocol, which may require holding and elimination","Add a hepatoprotective supplement and repeat testing in six months"],
+ "rationale":"Teriflunomide carries a boxed warning for hepatotoxicity, requiring baseline liver enzymes and monthly testing for the first six months. Elevations above three times normal prompt interruption, and confirmed significant injury requires accelerated elimination with cholestyramine or charcoal because of the drug's long half-life."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"hard","correct_answer":1,
+ "stem":"Which approach has the best evidence for managing cognitive impairment in MS?",
+ "options":["A single medication proven to restore processing speed to normal","Cognitive rehabilitation with compensatory strategies and environmental change","Complete avoidance of cognitively demanding work and activity","Waiting for spontaneous recovery once disease activity is controlled"],
+ "rationale":"No medication has demonstrated reliable benefit for MS-related cognitive impairment. Cognitive rehabilitation, particularly memory and attention strategies, external aids, routine, and workplace modification, has the strongest support, alongside treating contributors such as depression, fatigue, sleep disorder, and sedating medication. Avoiding cognitive demand accelerates decline rather than preserving function."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":3,
+ "stem":"A patient reports severe fatigue and takes oxybutynin, baclofen, gabapentin, and amitriptyline. What should be assessed first?",
+ "options":["Whether a stimulant should be added to counter the fatigue","Whether the MS has progressed to a secondary progressive course","Whether a sleep study is needed before any other intervention","Whether cumulative sedating medication burden is contributing"],
+ "rationale":"Each of these agents is sedating, and their anticholinergic and central effects compound, so reviewing the regimen for dose reduction, timing changes, or substitution often produces more benefit than adding a stimulant. Polypharmacy is one of the most reversible contributors to fatigue and cognitive complaints in MS and one of the most frequently overlooked."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":0,
+ "stem":"A patient has both urinary urgency and a post-void residual of 150 millilitres. Which management approach is appropriate?",
+ "options":["Combine intermittent catheterization with an agent for the storage symptoms","Treat the urgency alone with an anticholinergic and recheck in six months","Place an indwelling catheter as the simplest long-term solution","Restrict fluids substantially to reduce the frequency of both problems"],
+ "rationale":"Combined storage and emptying failure is common in MS because of detrusor-sphincter dyssynergia, and each needs its own intervention: catheterization to empty and an anticholinergic or beta-3 agonist to calm the detrusor. Treating urgency alone worsens retention, and indwelling catheters carry substantial infection and stone risk in long-term use."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"hard","correct_answer":2,
+ "stem":"A patient with severe disability declines a feeding tube despite documented aspiration risk. The family disagrees strongly. How should the nurse proceed?",
+ "options":["Arrange the procedure, since the family holds the majority view","Delay the discussion until the patient loses decisional capacity","Confirm capacity and understanding, then support the patient's refusal","Ask the physician to persuade the patient to accept the procedure"],
+ "rationale":"A patient with capacity may refuse any intervention, including one that sustains life, after understanding the consequences. The nurse's role is to confirm the refusal is informed, document it, support the patient, and help the family understand the decision. Family distress is addressed through support, not by overriding the patient."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"medium","correct_answer":1,
+ "stem":"What should be documented after a telephone triage call in which a patient reports possible relapse symptoms?",
+ "options":["Only the final disposition decided at the end of the conversation","The symptoms, onset, duration, exclusion of infection, advice, and follow-up","A brief note stating that the patient telephoned the clinic that day","Only the elements the patient explicitly asks to have recorded"],
+ "rationale":"Triage documentation must show the reasoning, not just the outcome: what was reported, when it started, how long it has lasted, whether fever or infection was excluded, what was advised, and what follow-up was arranged. This record is the basis for the next clinician's decision and the evidence that the assessment occurred."},
+
+{"domain":"education","subdomain":"4.2","difficulty":"hard","correct_answer":3,
+ "stem":"Which activity falls outside the registered nurse scope of practice in an MS clinic in most jurisdictions?",
+ "options":["Administering an infusion according to an established protocol order","Teaching self-injection technique and monitoring for adverse effects","Triaging symptom calls using an approved clinical protocol","Independently selecting and prescribing a disease-modifying therapy"],
+ "rationale":"Selecting and prescribing a disease-modifying therapy is a prescriptive function requiring advanced practice licensure with prescriptive authority. RNs administer, monitor, educate, triage, coordinate, and advocate within protocols. Knowing this boundary matters because MS nurses often hold deep therapy knowledge and are asked to cross it informally."},
+
+{"domain":"education","subdomain":"4.2","difficulty":"medium","correct_answer":0,
+ "stem":"An MS clinic wants to measure the quality of its infusion service. Which is an outcome measure rather than a process measure?",
+ "options":["The rate of infusion-related reactions per hundred infusions given","The proportion of patients receiving premedication before infusion","The average time from referral to the first scheduled infusion","The percentage of staff who completed annual reaction training"],
+ "rationale":"Outcome measures describe what happened to patients; process measures describe whether the intended care was delivered; structural measures describe capacity and resources. Premedication rates, wait times, and training completion are process and structure. A balanced quality program uses all three, since a process measure alone can look excellent while outcomes do not improve."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"medium","correct_answer":2,
+ "stem":"A patient asks whether a particular diet will cure their MS. What is the most appropriate response?",
+ "options":["Recommend the diet, since dietary change carries no meaningful risk","State firmly that diet has no bearing on any aspect of MS","Explain that no diet cures MS, while general dietary health does matter","Refer the question to a dietitian without offering any information"],
+ "rationale":"No diet has been shown to cure MS or reliably alter its course, but a balanced diet supports vascular comorbidity control, weight, bowel function, and energy, all of which affect how MS is experienced. Dismissing the question drives patients toward restrictive regimens without guidance, and endorsing an unproven one misleads."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"hard","correct_answer":1,
+ "stem":"A patient repeatedly asks the same questions about their therapy across several visits despite thorough teaching. What should be considered first?",
+ "options":["That the patient is deliberately seeking additional clinical attention","That anxiety or cognitive change may be impairing retention of information","That the previous teaching was factually incorrect and must be redone","That the patient does not intend to continue the prescribed therapy"],
+ "rationale":"Repeated questioning usually reflects either anxiety, which impairs encoding, or cognitive change affecting memory and processing speed, both of which are common in MS and both of which respond to written summaries, involving a support person, and chunked repetition. Reading it as attention-seeking or refusal closes off the useful responses."},
+
+{"domain":"advocacy","subdomain":"3.4","difficulty":"hard","correct_answer":2,
+ "stem":"A prior authorization is approved for a drug but the patient discovers the approval applies only to a specific pharmacy. What does this reflect?",
+ "options":["A clerical error that the pharmacy will correct automatically","A requirement that applies only to Medicare Advantage enrollees","An exclusive specialty pharmacy network required by the plan","A temporary restriction that expires after the first fill is processed"],
+ "rationale":"Many plans limit specialty drugs to a single contracted specialty pharmacy, and a prescription sent elsewhere is rejected even with a valid authorization. Confirming the network pharmacy at the time of authorization avoids a delay at the first fill, and an exception can sometimes be pursued where the network pharmacy cannot serve the patient."},
+
+{"domain":"advocacy","subdomain":"3.3","difficulty":"hard","correct_answer":3,
+ "stem":"A patient's employer plan is self-funded. Which consequence is most relevant when pursuing a step-therapy override?",
+ "options":["The plan must follow the step-therapy law of the patient's home state","The plan is exempt from all federal appeal rights and requirements","The plan must approve any override a treating physician requests","The plan is governed by ERISA and exempt from state override mandates"],
+ "rationale":"Self-funded employer plans are regulated under ERISA rather than state insurance law, so state step-therapy override statutes do not bind them. Federal appeal rights under ERISA still apply, and the plan's own written criteria become the operative standard, which makes obtaining those criteria the first practical step."},
+
+{"domain":"advocacy","subdomain":"3.5","difficulty":"medium","correct_answer":0,
+ "stem":"A patient with progressive MS wants to remain at home as function declines. Which referral best supports this goal?",
+ "options":["Home health and occupational therapy for a safety and equipment assessment","Immediate evaluation for placement in a skilled nursing facility","A neurology visit to reassess the disease-modifying therapy choice","A psychiatric evaluation to assess insight into the level of disability"],
+ "rationale":"Staying at home safely depends on environmental modification, equipment, and caregiver support, which is what a home assessment by occupational therapy and home health delivers: grab bars, ramps, transfer equipment, bathroom modification, and a fall-risk review. Wanting to remain at home is a goal to support, not a sign of impaired insight."},
+
+{"domain":"advocacy","subdomain":"3.2","difficulty":"hard","correct_answer":1,
+ "stem":"A patient declines all disease-modifying therapy after a full discussion of risks and benefits. What is the nurse's appropriate ongoing role?",
+ "options":["Withdraw from care coordination until the patient reconsiders the decision","Continue symptom management, monitoring, and revisit the decision periodically","Document refusal and discharge the patient from the MS clinic service","Ask the family to persuade the patient to accept the recommended therapy"],
+ "rationale":"Declining a DMT does not end the therapeutic relationship or the need for symptom management, monitoring, vaccination, comorbidity care, and rehabilitation. Decisions change with circumstances and new information, so the door is kept open and the topic revisited without pressure. Recruiting family to apply pressure undermines both autonomy and trust."},
+
+{"domain":"research","subdomain":"5.3","difficulty":"hard","correct_answer":2,
+ "stem":"Why does a high dropout rate threaten the validity of a two-year MS trial?",
+ "options":["It reduces the total cost of conducting the study to completion","It automatically invalidates the institutional review board approval","Dropout is rarely random, so remaining participants may differ systematically","It requires the investigators to unblind all remaining participants"],
+ "rationale":"Attrition bias arises because people who withdraw often differ from those who remain, commonly leaving because of side effects or lack of benefit, so the completers overstate both tolerability and efficacy. Dropout also reduces power. Intention-to-treat analysis with prespecified handling of missing data limits but does not eliminate the problem."},
+
+{"domain":"research","subdomain":"5.2","difficulty":"medium","correct_answer":3,
+ "stem":"What is the purpose of a run-in period before randomization in a clinical trial?",
+ "options":["To allow investigators to determine the final sample size required","To compare the intervention against usual care before randomizing","To give participants time to withdraw their consent before any treatment","To identify and exclude participants unlikely to adhere to the protocol"],
+ "rationale":"A run-in period screens out non-adherent participants and sometimes non-responders before randomization, which raises the measured efficacy and the apparent tolerability. This improves internal efficiency at the cost of external validity, since the trial population is then more adherent than the patients seen in clinic."},
+
+{"domain":"research","subdomain":"5.1","difficulty":"medium","correct_answer":0,
+ "stem":"Why is a confidence interval generally more informative than a p-value alone?",
+ "options":["It shows the range of effects compatible with the data and their precision","It proves the null hypothesis is false when it excludes the value one","It removes the influence of sample size on the reported study result","It guarantees that the finding will replicate in a subsequent study"],
+ "rationale":"A confidence interval conveys both the magnitude of the effect and the precision of the estimate, so a reader can judge whether even the most favourable end of the range would be clinically worthwhile. A p-value compresses this into a binary verdict against an arbitrary threshold and says nothing about size."},
+
+{"domain":"research","subdomain":"5.4","difficulty":"hard","correct_answer":1,
+ "stem":"What is therapeutic misconception in the context of clinical research?",
+ "options":["An investigator's mistaken belief that the study drug will prove effective","A participant's belief that research procedures are individualized care","A sponsor's overstatement of the benefit in the published trial report","A clinician's failure to disclose a financial interest in the sponsor"],
+ "rationale":"Therapeutic misconception is the participant's belief that study procedures are designed for their personal benefit rather than to answer a scientific question. It undermines the voluntariness of consent, so the consent process should state plainly that assignment is by chance, that procedures follow a protocol rather than individual need, and that personal benefit is not the purpose."},
+
+{"domain":"research","subdomain":"5.5","difficulty":"medium","correct_answer":3,
+ "stem":"Why are composite endpoints used in MS trials, and what is their main drawback?",
+ "options":["They reduce cost, but require far larger sample sizes to detect effects","They shorten follow-up, but cannot be analyzed by intention to treat","They simplify analysis, but are not accepted by regulatory reviewers","They capture multiple domains, but a mild component can drive the result"],
+ "rationale":"Composites such as the MS Functional Composite combine walking, arm function, and cognition to capture more of the disease than a single measure. The risk is that the components are not equally important to patients, so a change driven mainly by the least meaningful component can look like a broad treatment effect. Component-level results should always be examined."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"hard","correct_answer":2,
+ "stem":"A patient with longstanding MS develops new confusion, fever, and worsening weakness three days after a urinary procedure. What is the priority nursing action?",
+ "options":["Arrange urgent MRI to look for new demyelinating lesions","Administer high-dose corticosteroid for a presumed acute relapse","Assess for sepsis and initiate the institution's sepsis protocol","Reassure the family that this represents expected disease progression"],
+ "rationale":"Fever and confusion after an instrumented urinary procedure point to urosepsis, to which patients with neurogenic bladder are particularly prone, and the neurological worsening is a pseudo-relapse from systemic infection. Sepsis screening and treatment take priority; steroids would worsen the infection and imaging delays the intervention that matters."}
+]

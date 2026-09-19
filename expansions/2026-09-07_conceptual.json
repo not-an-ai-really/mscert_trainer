@@ -1,0 +1,366 @@
+{
+  "batch": "2026-09-07-conceptual",
+  "source": "Halper & Harris, Nursing Practice in Multiple Sclerosis: A Core Curriculum (4th ed, 2017), chs 5/8 - original paraphrase, no verbatim text",
+  "questions": [
+    {
+      "id": "q0601",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "easy",
+      "stem": "A nurse is reviewing MS epidemiology for the clinic team. Which statement best distinguishes incidence from prevalence?",
+      "options": [
+        "Incidence is the number of new cases in a defined population over time; prevalence is the total number of existing cases at a point in time",
+        "Incidence includes every case regardless of duration; prevalence counts only newly diagnosed patients",
+        "Incidence measures deaths from disease; prevalence measures new diagnoses",
+        "Incidence counts only relapses; prevalence counts only irreversible disability"
+      ],
+      "correct_answer": 0,
+      "rationale": "Incidence is the number of new cases arising within a unit of time in a specified population (usually per 100,000 per year). Prevalence captures all cases present at a given time; point prevalence is more properly a ratio of diagnoses in a community."
+    },
+    {
+      "id": "q0602",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "easy",
+      "stem": "Using the classic risk categories for MS prevalence, which of the following is a HIGH-risk area?",
+      "options": [
+        "Northern Canada",
+        "The Caribbean",
+        "Japan",
+        "Western Mexico"
+      ],
+      "correct_answer": 0,
+      "rationale": "High-risk areas (prevalence greater than 30 per 100,000) include northern and central Europe, Italy, the northern United States, Canada, southeastern Australia, New Zealand, and parts of the former Soviet Union. The Caribbean, much of Africa and Asia, and Mexico are low-risk areas."
+    },
+    {
+      "id": "q0603",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "easy",
+      "stem": "A health educator is preparing an MS awareness slide. Which statement about sex distribution is accurate?",
+      "options": [
+        "Women are affected roughly three times more often than men",
+        "MS affects men and women equally in every disease form",
+        "Men are twice as likely as women to develop MS",
+        "MS occurs almost exclusively in women, with virtually no reported cases in men"
+      ],
+      "correct_answer": 0,
+      "rationale": "Females are more susceptible than males, with a ratio greater than 3:1 worldwide (70-75% of patients are female). The notable exception is primary progressive MS, in which the gender ratio is approximately equal."
+    },
+    {
+      "id": "q0604",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "medium",
+      "stem": "A first-degree relative of a person with MS asks about their own risk. Which risk estimate should the nurse give?",
+      "options": [
+        "About 4% to 5% if the affected relative is a sibling",
+        "About 20% to 26% for any first-degree relative",
+        "About 30% for a sibling of an affected person",
+        "About 10% for a parent or child of an affected person"
+      ],
+      "correct_answer": 0,
+      "rationale": "Up to 2% of people with MS have an affected relative. Age-adjusted recurrence risk is about 4-5% for a sibling (and about 4% for a child of an affected parent), 3-5% for a fraternal twin, and 20-26% for an identical twin - evidence of a strong but incomplete genetic contribution."
+    },
+    {
+      "id": "q0605",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "medium",
+      "stem": "Which statement best describes the geographic distribution of MS in the United States?",
+      "options": [
+        "Rates are lower in states south of the 37th parallel than in those north of it",
+        "Rates are uniform at all U.S. latitudes",
+        "Rates are highest in states south of the 37th parallel",
+        "Geography has no measurable influence on MS risk in the United States"
+      ],
+      "correct_answer": 0,
+      "rationale": "A diminishing north-south gradient is well described in the Northern Hemisphere (and reversed in the Southern Hemisphere). In the United States, states south of the 37th parallel have lower MS rates than those north of it; higher latitudes generally carry higher risk."
+    },
+    {
+      "id": "q0606",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "medium",
+      "stem": "An adolescent planning to move from a high-MS-risk country to a low-risk country asks how migration affects her risk. Based on migration studies, which counseling point is most accurate?",
+      "options": [
+        "Moving before age 15 tends to carry the lower risk of the new residence",
+        "MS risk is fixed at birth and cannot be changed by migration at any age",
+        "Moving after age 25 completely eliminates the risk of developing MS",
+        "Migration changes only genetic risk, never environmental risk"
+      ],
+      "correct_answer": 0,
+      "rationale": "Those who migrate after age 15 retain the MS risk of their birthplace, while those migrating before 15 acquire the risk of their new country. This supports the view that susceptibility is acquired in early adolescence, with a lengthy latent period before symptoms appear."
+    },
+    {
+      "id": "q0607",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "medium",
+      "stem": "When counseling a pregnant woman about her relapse risk in multiple sclerosis, which pattern should the nurse describe?",
+      "options": [
+        "A roughly sevenfold decrease in exacerbations during pregnancy and a sevenfold increase during the six months after delivery",
+        "Relapse risk is unchanged during pregnancy and immediately after delivery",
+        "Exacerbations increase during the third trimester and decrease after delivery",
+        "Pregnancy permanently suppresses MS activity for the remainder of life"
+      ],
+      "correct_answer": 0,
+      "rationale": "Studies following women through pregnancy and six months postpartum show about a sevenfold decrease in exacerbations during pregnancy, followed by about a sevenfold increased risk in the six months after delivery - important for planning postpartum follow-up and therapy choices."
+    },
+    {
+      "id": "q0608",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "easy",
+      "stem": "Which statement about the age of onset of MS is accurate?",
+      "options": [
+        "Onset most often occurs between 20 and 40 years, with an average around 28 to 30 years",
+        "Most onsets occur after age 60",
+        "MS almost always begins before age 10",
+        "Onset age is identical for men and women in every disease form"
+      ],
+      "correct_answer": 0,
+      "rationale": "MS onset generally occurs between 10 and 59 years, with the highest incidence between 20 and 40 and an average onset around 28-30 years. Fewer than 1% of patients have onset before age 10."
+    },
+    {
+      "id": "q0609",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "hard",
+      "stem": "A researcher is summarizing the current understanding of MS etiology for a continuing-education session. Which statement is most accurate?",
+      "options": [
+        "MS is thought to result from gene-environment interactions, and there is no evidence that it is transmissible",
+        "MS is caused by a single identified infectious agent and spreads between people",
+        "MS is inherited as a single-gene autosomal dominant disorder",
+        "MS is caused solely by environmental exposures, with no genetic contribution"
+      ],
+      "correct_answer": 0,
+      "rationale": "Susceptibility appears to be controlled by several as-yet-unidentified genes interacting with environmental factors (smoking and vitamin D are active areas of study). An infectious trigger via molecular mimicry has been hypothesized, but no infectious agent is confirmed, and MS is not transmissible."
+    },
+    {
+      "id": "q0610",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "hard",
+      "stem": "Which pattern of MS prevalence across racial and ethnic groups is documented in the literature?",
+      "options": [
+        "Highest in whites and people of Scandinavian descent; lowest in Japanese people among industrialized countries; rare in people of African descent",
+        "Prevalence is identical across all racial groups worldwide",
+        "The Japanese have the highest MS prevalence of any industrialized country",
+        "MS is virtually absent among Caucasians"
+      ],
+      "correct_answer": 0,
+      "rationale": "MS shows a clear predilection for whites and Caucasians, with the highest rates in Scandinavia and people of Scandinavian descent; Japanese prevalence is lowest among industrialized countries and the disease is rare among African Blacks. Asian patients more often present with optic and spinal cord involvement and older onset."
+    },
+    {
+      "id": "q0611",
+      "domain": "conceptual",
+      "subdomain": "1.3",
+      "difficulty": "easy",
+      "stem": "A colleague asks why MS is described as a clinical diagnosis. Which response is most accurate?",
+      "options": [
+        "No single definitive laboratory test confirms MS; the diagnosis rests on the clinical picture supported by investigations",
+        "A single blood test can confirm the diagnosis",
+        "MS can only be diagnosed with certainty at autopsy",
+        "Brain biopsy is required to confirm MS in every patient"
+      ],
+      "correct_answer": 0,
+      "rationale": "Because no definitive laboratory test exists, MS is made clinically: a battery of investigations (MRI, CSF, evoked potentials) excludes other conditions and provides objective supporting evidence. MRI is invaluable but should not be used in isolation for diagnosis."
+    },
+    {
+      "id": "q0612",
+      "domain": "conceptual",
+      "subdomain": "1.3",
+      "difficulty": "easy",
+      "stem": "The diagnosis of multiple sclerosis traditionally requires that separate neurologic events be separated in which two dimensions?",
+      "options": [
+        "In space and in time",
+        "In family history and in cerebrospinal fluid results",
+        "In the same body region with identical symptoms",
+        "In infection status and in protein levels"
+      ],
+      "correct_answer": 0,
+      "rationale": "The traditional concept of dissemination in space and dissemination in time (two attacks separated in space and time, with no better explanation) is preserved in the revised McDonald criteria, which add MRI, CSF, and evoked-potential support."
+    },
+    {
+      "id": "q0613",
+      "domain": "conceptual",
+      "subdomain": "1.3",
+      "difficulty": "medium",
+      "stem": "A young woman presents with a first episode of optic neuritis and a normal MRI at presentation. Which combination of factors indicates the MOST favorable prognosis?",
+      "options": [
+        "Young age at onset, complete recovery from the first relapse, low relapse rate, and a long interval to the second relapse",
+        "Older age at onset, high relapse rate, and early development of disability",
+        "Male gender, high MRI lesion load at presentation, and no recovery from the first attack",
+        "Insidious motor onset with early cerebellar involvement"
+      ],
+      "correct_answer": 0,
+      "rationale": "Positive prognostic predictors include younger age at onset, female gender, normal MRI at presentation, complete recovery from the first relapse, a low relapse rate, a long interval to the second relapse, and low disability at 2 and 4 years."
+    },
+    {
+      "id": "q0614",
+      "domain": "conceptual",
+      "subdomain": "1.3",
+      "difficulty": "medium",
+      "stem": "Which of the following is an UNFAVORABLE prognostic factor in multiple sclerosis?",
+      "options": [
+        "Early cerebellar involvement",
+        "Complete recovery from the first relapse",
+        "A long interval between the first and second relapse",
+        "A normal MRI at presentation"
+      ],
+      "correct_answer": 0,
+      "rationale": "Unfavorable predictors include older age at onset, male gender, high lesion load on MRI at presentation, lack of recovery from the first relapse, a high relapse rate, early cerebellar involvement, a short interval to the second relapse, early development of disability, and an insidious motor onset."
+    },
+    {
+      "id": "q0615",
+      "domain": "conceptual",
+      "subdomain": "1.3",
+      "difficulty": "medium",
+      "stem": "Which of the following is one of the most common presentations of multiple sclerosis?",
+      "options": [
+        "Optic neuritis, which can occur in up to a quarter of patients",
+        "Sudden complete loss of consciousness at onset",
+        "Bilateral permanent paralysis as the initial presentation in most patients",
+        "Rapidly progressive dementia within the first month of disease"
+      ],
+      "correct_answer": 0,
+      "rationale": "Common MS presentations include sensory disturbance (Lhermitte sign in 21-55% of patients), motor/corticospinal findings (32-41%), visual problems (optic neuritis in up to 25%, eye-movement abnormalities such as internuclear ophthalmoplegia), and cerebellar gait ataxia with limb tremor."
+    },
+    {
+      "id": "q0616",
+      "domain": "conceptual",
+      "subdomain": "1.3",
+      "difficulty": "hard",
+      "stem": "Under the McDonald criteria, which combination supports a diagnosis of PRIMARY PROGRESSIVE multiple sclerosis?",
+      "options": [
+        "Positive CSF, dissemination in space, and one year of continued progression",
+        "A single attack with complete recovery",
+        "Normal CSF with recurrent attacks confined to one body region",
+        "Abnormal evoked potentials alone without any clinical progression"
+      ],
+      "correct_answer": 0,
+      "rationale": "Primary progressive MS requires positive CSF together with dissemination in space and continued progression over one year (supported by MRI and evoked potentials). Monosymptomatic presentation (clinically isolated syndrome) requires one attack, one objective clinical lesion, and MRI evidence."
+    },
+    {
+      "id": "q0617",
+      "domain": "conceptual",
+      "subdomain": "1.4",
+      "difficulty": "easy",
+      "stem": "Which cells are primarily responsible for producing central nervous system myelin and are damaged in the MS disease process?",
+      "options": [
+        "Oligodendrocytes",
+        "Schwann cells",
+        "Astrocytes",
+        "Microglia"
+      ],
+      "correct_answer": 0,
+      "rationale": "Oligodendrocytes produce CNS myelin and are damaged in MS. Schwann cells myelinate the peripheral nervous system, while astrocytes and microglia are glial support and immune cells."
+    },
+    {
+      "id": "q0618",
+      "domain": "conceptual",
+      "subdomain": "1.4",
+      "difficulty": "easy",
+      "stem": "A patient with MS reports that hot weather predictably worsens her existing neurologic symptoms. Which mechanism best explains this phenomenon?",
+      "options": [
+        "Demyelinated fibers already conduct poorly and fail conduction when body temperature rises",
+        "Heat creates new inflammatory plaques on contact",
+        "Heat increases myelin production and strengthens conduction",
+        "Heat suppresses immune responses, unmasking latent deficits"
+      ],
+      "correct_answer": 0,
+      "rationale": "Slowed conduction and conduction failure occur in demyelinated fibers; conduction failure is driven by fiber fatigue or increased body temperature, which is why heat predictably deteriorates pre-existing deficits rather than creating new lesions."
+    },
+    {
+      "id": "q0619",
+      "domain": "conceptual",
+      "subdomain": "1.4",
+      "difficulty": "easy",
+      "stem": "Which statement accurately describes the distribution of MS lesions?",
+      "options": [
+        "Lesions are disseminated in location, vary in age, and involve both white and gray matter",
+        "Lesions are confined to peripheral nerves only",
+        "Lesions are always of the same age and in the same location",
+        "Lesions occur exclusively in the cerebellum"
+      ],
+      "correct_answer": 0,
+      "rationale": "MS pathology consists of lesions disseminated in location and of varying age, present in both white and gray matter (gray matter lesions are subtle on casual inspection). Lesions range from acute plaques with active inflammatory infiltrates to chronic, inactive, demyelinated scars."
+    },
+    {
+      "id": "q0620",
+      "domain": "conceptual",
+      "subdomain": "1.4",
+      "difficulty": "medium",
+      "stem": "When explaining why disability can accumulate even in patients without obvious new relapses, which pathophysiologic process is most important?",
+      "options": [
+        "Irreversible axonal damage resulting from ongoing inflammation and demyelination",
+        "Reversible swelling of intact myelin sheaths",
+        "Inflammation that destroys Schwann cells in the peripheral nerves",
+        "Autoimmune attack on acetylcholine receptors"
+      ],
+      "correct_answer": 0,
+      "rationale": "Ongoing inflammation, demyelination, and scarring ultimately produce irreversible axonal damage and loss. Axonal injury underlies progressive disability independent of relapses and is a key target of long-term management."
+    },
+    {
+      "id": "q0621",
+      "domain": "conceptual",
+      "subdomain": "1.4",
+      "difficulty": "medium",
+      "stem": "Which cells characterize an ACUTE multiple sclerosis lesion?",
+      "options": [
+        "T lymphocytes, plasma cells, macrophages, and demyelinated or transected axons",
+        "Neutrophils and mast cells only",
+        "Oligodendrocyte precursors only",
+        "Platelet plugs with intact myelin segments"
+      ],
+      "correct_answer": 0,
+      "rationale": "Acute MS lesions contain T lymphocytes, plasma cells, lipid-laden macrophages, and bare, demyelinated, or transected axons. The broader immune picture includes heightened T-cell reactivity to myelin antigens, overrepresentation of pro-inflammatory T helper cells, relative suppression deficit, and an increasingly emphasized role of B lymphocytes."
+    },
+    {
+      "id": "q0622",
+      "domain": "conceptual",
+      "subdomain": "1.4",
+      "difficulty": "hard",
+      "stem": "A Phase III trial of a disease-modifying therapy tracks brain volume on MRI over several years. Why is brain atrophy a meaningful outcome measure?",
+      "options": [
+        "It reflects progressive neurodegeneration, and a slowing of atrophy can indicate therapeutic efficacy",
+        "It is an expected side effect of all disease-modifying therapies",
+        "It occurs only after optic neuritis and has no relation to disability",
+        "It has no correlation with clinical disease progression"
+      ],
+      "correct_answer": 0,
+      "rationale": "Brain atrophy is widely recognized as a negative pathologic change in MS. It may develop as an early measure of disease progression, and its slowing can be used as an indicator of therapy efficacy in long-term management studies."
+    },
+    {
+      "id": "q0623",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "medium",
+      "stem": "A public health nurse is asked to define the 'numerator' and 'denominator' when calculating the prevalence of MS in a county. Which pairing is correct?",
+      "options": [
+        "Numerator: all persons with MS in the county at that time; denominator: the population at risk",
+        "Numerator: new MS deaths that year; denominator: total hospital admissions",
+        "Numerator: neurologists in the county; denominator: number of MRI units",
+        "Numerator: new relapses this year; denominator: number of relapses last year"
+      ],
+      "correct_answer": 0,
+      "rationale": "Measures of disease frequency require a numerator (cases) and a denominator (population at risk). Prevalence rates express cases present at one time per unit population; incidence and death rates refer to new cases and deaths per unit time and population."
+    },
+    {
+      "id": "q0624",
+      "domain": "conceptual",
+      "subdomain": "1.2",
+      "difficulty": "hard",
+      "stem": "A student says: 'Because identical twins share all their genes, a sibling of a person with MS should have roughly the same risk as their identical twin.' Which response is most accurate?",
+      "options": [
+        "The sibling risk is only about 4-5%, far below the 20-26% identical-twin concordance, so environment still matters substantially",
+        "The student is right - both risks are approximately 25%",
+        "Sibling risk exceeds identical-twin risk because of shared household exposure",
+        "Twin studies are irrelevant because MS is purely environmental"
+      ],
+      "correct_answer": 0,
+      "rationale": "Identical twin concordance of 20-26% versus sibling risk of 4-5% shows that shared genes strongly increase risk but do not determine it - consistent with a multifactorial gene-environment etiology in which environmental factors play a significant role."
+    }
+  ]
+}

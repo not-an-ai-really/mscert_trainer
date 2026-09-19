@@ -1,0 +1,151 @@
+[
+{"domain":"clinical","subdomain":"2.4","difficulty":"medium","correct_answer":1,
+ "stem":"A care partner reports exhaustion and says they have stopped seeing friends. What is the most appropriate nursing action?",
+ "options":["Reassure them that this feeling is normal and will settle over time","Assess for caregiver strain and connect them to respite resources","Advise them to reduce the amount of care they currently provide","Direct the concern back to the patient to be resolved within the family"],
+ "rationale":"Caregiver strain predicts both caregiver morbidity and breakdown of the home care arrangement, so it is assessed directly rather than normalized. Respite services, support groups, social work referral, and realistic planning are the interventions. The care partner is legitimately within the nurse's scope of concern."},
+
+{"domain":"conceptual","subdomain":"1.1","difficulty":"easy","correct_answer":3,
+ "stem":"What does the word sclerosis refer to in multiple sclerosis?",
+ "options":["Multiple episodes of neurological symptoms over a lifetime","Thickening of the walls of small cerebral blood vessels","Stiffness of the limbs caused by increased muscle tone","The scarring, or gliosis, left in areas of damaged myelin"],
+ "rationale":"Sclerosis refers to the scarred plaques left where myelin has been damaged and astrocytes have formed glial tissue; multiple refers to their scattered distribution in space and time. Limb stiffness is spasticity, a symptom of the disease rather than the origin of its name."},
+
+{"domain":"conceptual","subdomain":"1.4","difficulty":"easy","correct_answer":0,
+ "stem":"Which investigation is the most useful single test in supporting a diagnosis of MS?",
+ "options":["MRI of the brain and spinal cord with contrast","Electroencephalography during a symptomatic episode","Computed tomography of the head without contrast","Nerve conduction studies of all four limbs"],
+ "rationale":"MRI demonstrates the lesion dissemination in space and time that the diagnostic criteria require and also excludes alternative structural causes. CT lacks the sensitivity to show demyelinating plaques, EEG assesses cortical electrical activity, and nerve conduction studies test the peripheral nervous system rather than central pathways."},
+
+{"domain":"conceptual","subdomain":"1.4","difficulty":"easy","correct_answer":2,
+ "stem":"What does the presence of oligoclonal bands in cerebrospinal fluid indicate?",
+ "options":["Active bacterial infection within the central nervous system","A bleed into the subarachnoid space within the past week","Immunoglobulin production occurring inside the central nervous system","Raised intracranial pressure requiring urgent decompression"],
+ "rationale":"Oligoclonal bands present in CSF but absent from paired serum indicate intrathecal immunoglobulin synthesis, found in most people with MS. They are supportive rather than specific, appearing in other inflammatory and infectious conditions, and under the 2017 criteria they can substitute for dissemination in time."},
+
+{"domain":"conceptual","subdomain":"1.4","difficulty":"easy","correct_answer":1,
+ "stem":"What do visual evoked potentials measure?",
+ "options":["The sharpness of vision at a standard testing distance","Conduction speed along the visual pathway to the cortex","Pressure inside the eye measured against a reference value","Blood flow through the retinal arteries during stimulation"],
+ "rationale":"Visual evoked potentials measure the latency of the cortical response to a visual stimulus, and prolonged latency indicates demyelination along the optic pathway. They can reveal a clinically silent prior optic neuritis, which is their main value, although MRI has reduced reliance on them for diagnosis."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"easy","correct_answer":3,
+ "stem":"How should interferon beta products generally be stored at home?",
+ "options":["In a freezer, and thawed in warm water before each use","At room temperature away from any direct sunlight","In a sealed container kept inside a bathroom cabinet","Refrigerated, protected from light, and never frozen"],
+ "rationale":"Interferon beta products are refrigerated, protected from light, and must not be frozen, since freezing denatures the protein. Most allow a limited period at room temperature for travel, and letting the dose warm before injecting reduces site discomfort. Storage errors are a common and easily corrected cause of apparent treatment failure."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"easy","correct_answer":0,
+ "stem":"Which instruction should be given to a patient about rotating subcutaneous injection sites?",
+ "options":["Use a different site each time and avoid reusing one for about a week","Use the same site each time so the reaction stays in one place","Alternate only between the left and right sides of the abdomen","Choose sites at random without keeping any record of them"],
+ "rationale":"Systematic rotation across the available sites, with a written or app-based record, prevents injection-site reactions, lipoatrophy, and skin necrosis. Areas that are bruised, tender, indurated, or scarred are avoided. Concentrating injections in one convenient area is the usual cause of the localized skin damage that ends therapy."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"easy","correct_answer":2,
+ "stem":"Which strategy best addresses MS-related fatigue during a typical working day?",
+ "options":["Sleeping for several hours in the middle of each afternoon","Avoiding all physical activity in order to conserve energy","Pacing tasks with short planned rests and doing demanding work when freshest","Drinking caffeinated beverages steadily throughout the entire day"],
+ "rationale":"Energy conservation means planning, prioritizing, pacing, and positioning: scheduling demanding tasks for periods of highest energy, taking short planned rests before exhaustion, and simplifying tasks. Long daytime sleeps disrupt night sleep, and avoiding activity produces deconditioning that worsens fatigue further."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"easy","correct_answer":1,
+ "stem":"Which practical measure helps a heat-sensitive patient exercise safely in summer?",
+ "options":["Exercising outdoors at midday when muscles are warmest","Using a cooling vest, cool fluids, and exercising in the early morning","Wearing extra layers to encourage sweating during exercise","Avoiding fluids during exercise to reduce the need to urinate"],
+ "rationale":"Precooling, cooling garments, cool fluids, aquatic exercise in cooler water, and scheduling around the heat of the day all allow heat-sensitive patients to stay active. Symptoms provoked by heat are transient and reverse on cooling, so the response is management rather than avoidance of exercise."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"easy","correct_answer":3,
+ "stem":"Which symptom should prompt a patient to contact the MS clinic rather than wait for a routine visit?",
+ "options":["Mild tingling in the fingertips lasting for a few minutes","Slightly increased fatigue during a week of hot weather","A single episode of blurred vision after a hot shower","New weakness on one side persisting for more than 24 hours"],
+ "rationale":"New or worsening deficits lasting beyond 24 hours in the absence of fever or infection meet the definition of a relapse and warrant assessment. Brief transient symptoms and heat-provoked worsening that resolves on cooling are pseudo-relapse phenomena. Teaching this distinction reduces both unnecessary visits and dangerous delays."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"easy","correct_answer":0,
+ "stem":"Which finding in a patient with MS most suggests a urinary tract infection rather than baseline bladder dysfunction?",
+ "options":["New foul-smelling cloudy urine with fever and worsening of old symptoms","Longstanding urinary urgency that has been stable for several years","Nocturia of two episodes that has been present since diagnosis","A post-void residual volume that is unchanged from prior measurement"],
+ "rationale":"Urinary infection in MS often presents as abrupt worsening of established neurological symptoms alongside the usual urinary features, because fever and infection impair conduction. Baseline urgency, frequency, and stable residual volumes reflect the underlying neurogenic bladder. Infection is among the most common triggers of pseudo-relapse."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"easy","correct_answer":2,
+ "stem":"Which professional would a patient be referred to for evaluation of swallowing safety?",
+ "options":["An occupational therapist, for adaptive utensil training","A registered dietitian, for calorie and protein assessment","A speech-language pathologist, for a swallowing evaluation","A respiratory therapist, for a review of cough effectiveness"],
+ "rationale":"Speech-language pathology evaluates swallowing and recommends consistency modification, positioning, and compensatory strategies, using instrumental assessment where needed. Dietitians address nutritional adequacy once safe consistencies are established, and occupational therapy addresses the mechanics of self-feeding rather than the swallow itself."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"easy","correct_answer":1,
+ "stem":"Which screening question is most useful for detecting depression during a routine MS visit?",
+ "options":["Whether the patient has felt more physically tired than usual lately","Whether the patient has had little interest or pleasure in doing things","Whether the patient has experienced any new numbness or tingling","Whether the patient has noticed increased stiffness in the mornings"],
+ "rationale":"Anhedonia and low mood are the two screening items that carry the most weight, because they are the depressive features least confounded by MS itself. Fatigue, sleep disturbance, and concentration problems overlap heavily with the disease, so relying on them produces both false positives and missed cases."},
+
+{"domain":"advocacy","subdomain":"3.3","difficulty":"easy","correct_answer":3,
+ "stem":"What does a health plan deductible represent?",
+ "options":["The fixed dollar amount paid at each pharmacy or office visit","The percentage of a drug's cost the patient pays after coverage begins","The maximum the patient will pay out of pocket in a calendar year","The amount the patient pays before the plan begins paying its share"],
+ "rationale":"The deductible is what the member pays before cost-sharing begins. A copay is a fixed amount per service, coinsurance is a percentage of the cost, and the out-of-pocket maximum caps total annual member spending. Specialty drugs often sit in coinsurance tiers, which is why patients face large early-year bills."},
+
+{"domain":"advocacy","subdomain":"3.3","difficulty":"easy","correct_answer":0,
+ "stem":"What is a formulary?",
+ "options":["The list of drugs a health plan covers, arranged into cost tiers","The record of every prescription a patient has filled this year","The document a prescriber signs to authorize a refill request","The federal schedule that classifies drugs by abuse potential"],
+ "rationale":"A formulary lists covered drugs by tier, with each tier carrying different cost-sharing, and it specifies utilization management such as prior authorization, step therapy, and quantity limits. Formularies change annually and mid-year, which is why a stable patient can suddenly face a new authorization or a higher tier."},
+
+{"domain":"advocacy","subdomain":"3.4","difficulty":"easy","correct_answer":2,
+ "stem":"What is the role of a specialty pharmacy in MS care?",
+ "options":["It manufactures the disease-modifying therapies it distributes to patients","It determines which therapy is clinically appropriate for each patient","It dispenses high-cost therapies and coordinates authorization and delivery","It performs the laboratory monitoring required during ongoing therapy"],
+ "rationale":"Specialty pharmacies dispense high-cost, handling-sensitive drugs and typically coordinate benefit investigation, prior authorization, copay assistance enrollment, cold-chain shipping, and refill reminders. They do not make clinical decisions or perform monitoring, though their refill data is a useful early signal of adherence problems."},
+
+{"domain":"advocacy","subdomain":"3.1","difficulty":"easy","correct_answer":1,
+ "stem":"What is a reasonable accommodation in the employment context?",
+ "options":["A reduction in job duties that lowers the employee's required output","A change to the job or workplace that lets a qualified employee perform it","A period of paid leave provided automatically after any new diagnosis","An exemption from the performance standards applied to other employees"],
+ "rationale":"A reasonable accommodation modifies how the job is done rather than lowering its essential requirements: modified schedules, telework, rest breaks, ergonomic equipment, a cooler workspace, or reassignment to a vacant position. The employee must still perform the essential functions, and the employer need not create a new position or accept undue hardship."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"easy","correct_answer":3,
+ "stem":"What does the teach-back method involve?",
+ "options":["Repeating the same explanation until the patient stops asking questions","Giving the patient printed material to review at home before the next visit","Asking the patient whether they understood what has just been explained","Asking the patient to explain the information back in their own words"],
+ "rationale":"Teach-back asks the patient to restate the information in their own words, which tests comprehension rather than willingness to say yes. It is framed as a check on the teaching rather than a test of the patient, and anything restated incorrectly is re-explained differently and checked again."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"easy","correct_answer":0,
+ "stem":"Which factor most affects a newly diagnosed patient's readiness to learn at the diagnostic visit?",
+ "options":["Emotional shock, which markedly limits retention of new information","The reading level of the printed materials that are provided","Whether the visit occurs in the morning or in the afternoon","The number of years of formal education the patient completed"],
+ "rationale":"Retention at the diagnostic visit is poor because of emotional response, so the visit should cover only what is essential and the substantive teaching should be scheduled for a follow-up. Written material, a recording, or an invitation to bring a support person helps bridge the gap. Reading level matters, but not before the patient can take anything in."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"medium","correct_answer":2,
+ "stem":"A patient asks whether they should tell their employer about the MS diagnosis. What is the most appropriate nursing response?",
+ "options":["Advise disclosure immediately, since employers must be informed by law","Advise against disclosure in all circumstances to protect employment","Explore the implications both ways, since disclosure is the patient's choice","Offer to notify the employer directly on the patient's behalf"],
+ "rationale":"Disclosure is voluntary and consequential in both directions: it is generally a precondition for requesting accommodation under the ADA, and it carries real risk of stigma or subtle adverse treatment. The nurse's role is to lay out both, including what may be disclosed to whom, and support whatever the patient decides."},
+
+{"domain":"research","subdomain":"5.1","difficulty":"easy","correct_answer":1,
+ "stem":"What is the purpose of a control group in a clinical trial?",
+ "options":["To increase the total number of participants enrolled in the study","To provide a comparison showing what happens without the intervention","To confirm that the drug is safe before the active group receives it","To allow investigators to test a second drug at the same time"],
+ "rationale":"The control group establishes the counterfactual, showing the course of events without the intervention so that any difference can be attributed to it. Without a control, natural history, regression to the mean, and placebo response are indistinguishable from treatment effect, which matters especially in a relapsing disease."},
+
+{"domain":"research","subdomain":"5.1","difficulty":"easy","correct_answer":3,
+ "stem":"What does double-blind mean in a clinical trial?",
+ "options":["The trial is monitored by two independent oversight committees","Two separate outcome measures are collected for every participant","Participants are enrolled at two or more separate study centres","Neither the participants nor the investigators know the assignments"],
+ "rationale":"Double-blind means both participants and the investigators assessing outcomes are unaware of group assignment, which prevents differential treatment and biased outcome rating. In MS trials the EDSS rater is typically kept separate from the treating clinician, since side effects can otherwise unblind the treating physician."},
+
+{"domain":"research","subdomain":"5.2","difficulty":"easy","correct_answer":0,
+ "stem":"What distinguishes a prospective cohort study from a retrospective case-control study?",
+ "options":["A cohort study follows participants forward from exposure to outcome","A cohort study always includes a randomly assigned comparison group","A case-control study requires a larger sample than a cohort study","A case-control study cannot be used to examine rare health outcomes"],
+ "rationale":"A cohort study identifies participants by exposure and follows them forward to see who develops the outcome. A case-control study starts from the outcome and looks backward at exposure, which makes it efficient for rare outcomes and vulnerable to recall bias. Neither design involves randomization."},
+
+{"domain":"research","subdomain":"5.5","difficulty":"easy","correct_answer":2,
+ "stem":"What is a patient-reported outcome?",
+ "options":["A measure scored by the clinician after examining the patient","A laboratory or imaging result recorded in the medical record","A measure reported directly by the patient without interpretation","A summary of the patient's history taken by the research nurse"],
+ "rationale":"A patient-reported outcome comes directly from the patient with no clinician interpretation, which makes it the appropriate instrument for inherently subjective domains such as fatigue, pain, and quality of life. MS trials pair these with objective endpoints because neither category alone captures what the disease does to people."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"medium","correct_answer":0,
+ "stem":"A patient on natalizumab has a positive JCV antibody test and asks whether this means they have PML. What is the accurate response?",
+ "options":["It means prior exposure to the virus, which raises but does not confer PML risk","It means PML is already developing and the therapy must stop immediately","It means the test must be repeated, since a single result is never reliable","It means the patient is immune to the virus and PML can no longer occur"],
+ "rationale":"Most adults carry JC virus asymptomatically, and seropositivity is a risk stratifier rather than a diagnosis. PML requires clinical and radiologic findings with CSF confirmation. Explaining this clearly matters, because patients frequently interpret a positive antibody result as a diagnosis and stop therapy in alarm."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"medium","correct_answer":2,
+ "stem":"Which counselling point applies to a patient beginning cladribine tablets?",
+ "options":["The tablets are taken continuously every day without interruption","Blood counts are required only before the very first treatment course","Effective contraception is required for both men and women during and after","Live vaccines may be given at any time during the treatment schedule"],
+ "rationale":"Cladribine is given as short courses across two treatment years with a prolonged immunologic effect afterward, so contraception is required for both sexes during and for at least six months after the last dose. Lymphocyte counts are checked before each course and at months 2 and 6 of each year, and live vaccines are contraindicated until immune reconstitution."},
+
+{"domain":"clinical","subdomain":"2.3","difficulty":"medium","correct_answer":1,
+ "stem":"Which statement about MRI surveillance in a patient stable on therapy is accurate?",
+ "options":["Imaging is needed only when new clinical symptoms are reported","New lesions may appear without symptoms and can prompt a therapy change","Gadolinium must be given at every surveillance scan without exception","Once stability is documented, further surveillance imaging is unnecessary"],
+ "rationale":"Subclinical MRI activity is substantially more frequent than clinical relapse and is one of the main reasons to change therapy in a patient who feels well. Surveillance intervals are individualized, and gadolinium is increasingly used selectively given concerns about tissue deposition, with comparison against a recent baseline being what matters most."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":3,
+ "stem":"A patient reports that their walking has slowly worsened over two years with no discrete relapses. What does this pattern most likely represent?",
+ "options":["A series of mild relapses the patient did not recognize as such","An adverse effect accumulating from the disease-modifying therapy","Deconditioning that will fully reverse with a course of exercise","Progression independent of relapse activity, warranting reassessment"],
+ "rationale":"Gradual worsening without relapses reflects the progressive component of MS, which can occur in patients still classified as relapsing and is what secondary progression describes when sustained. It calls for reassessment of the therapy, careful exclusion of contributors such as comorbidity, deconditioning, and medication effects, and emphasis on rehabilitation and symptom management."},
+
+{"domain":"conceptual","subdomain":"1.3","difficulty":"medium","correct_answer":1,
+ "stem":"A patient has typical MS lesions found incidentally on MRI done for headache, with no neurological symptoms ever. What is this called?",
+ "options":["Clinically isolated syndrome of the cerebral hemispheres","Radiologically isolated syndrome","Benign multiple sclerosis in its earliest recognized stage","Subclinical secondary progressive multiple sclerosis"],
+ "rationale":"Radiologically isolated syndrome describes incidental MRI findings meeting dissemination in space criteria with no history of clinical demyelinating events. A substantial minority convert to clinical MS over the following years, with spinal cord lesions, gadolinium enhancement, younger age, and positive oligoclonal bands predicting conversion."},
+
+{"domain":"conceptual","subdomain":"1.2","difficulty":"medium","correct_answer":0,
+ "stem":"What is the approximate risk that a child of a parent with MS will develop the disease?",
+ "options":["Around 2 to 4 percent, compared with roughly 0.1 to 0.3 percent in the general population","Around 50 percent, following an autosomal dominant inheritance pattern","Around 25 percent, following an autosomal recessive inheritance pattern","Essentially zero, since MS carries no heritable component whatsoever"],
+ "rationale":"MS is not inherited in a Mendelian pattern. First-degree relative risk is roughly 2 to 4 percent against a general population risk well under 1 percent, and monozygotic twin concordance sits near 25 to 30 percent, which demonstrates both a genetic contribution and a substantial environmental one. HLA-DRB1*15:01 is the strongest single genetic association."}
+]

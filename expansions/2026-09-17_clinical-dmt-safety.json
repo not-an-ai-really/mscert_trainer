@@ -1,0 +1,492 @@
+[
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 2,
+  "stem": "Which combination of factors places a patient on natalizumab at highest risk for progressive multifocal leukoencephalopathy?",
+  "options": [
+   "JCV antibody negative status and more than 24 months of therapy",
+   "JCV antibody positive with a low index and no prior immunosuppression",
+   "JCV antibody positive with a high index, prior immunosuppressant use, and more than 24 months of therapy",
+   "A high JCV antibody index with fewer than 12 months of therapy"
+  ],
+  "rationale": "The three established PML risk factors are JCV antibody seropositivity with a higher antibody index, prior immunosuppressant exposure, and treatment duration beyond 24 months. Risk rises sharply when all three are present. Seronegative patients carry very low risk but are retested every six months because seroconversion occurs."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 0,
+  "stem": "How often should JC virus antibody status be rechecked in a seronegative patient receiving natalizumab?",
+  "options": [
+   "Every six months, because seroconversion can occur during treatment",
+   "Only once before starting, since status does not change",
+   "Every month, alongside the infusion appointment",
+   "Only if new neurological symptoms develop during therapy"
+  ],
+  "rationale": "Seronegative patients seroconvert at a rate of roughly two to three percent per year, so antibody testing is repeated about every six months to keep risk stratification current. Testing is deferred for at least two weeks after plasma exchange, which can produce a falsely negative result."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 1,
+  "stem": "A JCV antibody positive patient has received natalizumab every four weeks for 30 months and wishes to continue. Which strategy is used to reduce PML risk while maintaining treatment?",
+  "options": [
+   "Reducing each infusion to half the standard dose",
+   "Extending the dosing interval to approximately every six weeks",
+   "Adding low-dose oral corticosteroid between infusions",
+   "Alternating natalizumab with an interferon beta product"
+  ],
+  "rationale": "Extended interval dosing, roughly every six weeks rather than every four, has been associated with substantially lower PML risk, and a randomized trial found efficacy comparable to standard dosing in patients already stable on therapy. Dose reduction and combination strategies are neither established nor safe substitutes."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 3,
+  "stem": "A patient on natalizumab develops progressive right-sided weakness and new confusion over three weeks. What is the priority action?",
+  "options": [
+   "Begin a five-day course of intravenous methylprednisolone",
+   "Schedule routine follow-up imaging in four weeks",
+   "Give the next scheduled infusion and observe the response",
+   "Hold the drug and obtain urgent MRI with JCV testing of cerebrospinal fluid"
+  ],
+  "rationale": "Subacute progression over weeks with cognitive or behavioral change is the PML pattern, unlike a relapse, which evolves over days and is usually focal. Natalizumab is held, urgent MRI is obtained, and CSF is sent for JC virus PCR. Steroids before excluding PML risk delaying the diagnosis, though they are used later to manage immune reconstitution inflammatory syndrome."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 2,
+  "stem": "Which screening test must be completed before the first dose of ocrelizumab?",
+  "options": [
+   "Baseline pulmonary function testing with spirometry",
+   "Nerve conduction studies of the lower extremities",
+   "Hepatitis B virus screening, including surface antigen and core antibody",
+   "Twenty-four hour ambulatory blood pressure monitoring"
+  ],
+  "rationale": "Anti-CD20 therapy can reactivate hepatitis B, including in patients who are surface-antigen negative but core-antibody positive, so screening is required before the first dose and hepatology input is needed if positive. Baseline immunoglobulins and a review of vaccination status are also completed before starting."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 0,
+  "stem": "A patient starting ofatumumab needs several vaccinations. What is the appropriate timing?",
+  "options": [
+   "Live vaccines at least four weeks and non-live at least two weeks before the first dose",
+   "All vaccines may be given at any point during therapy",
+   "Live vaccines are safe during therapy if the dose is reduced",
+   "All vaccination should be deferred until therapy is discontinued"
+  ],
+  "rationale": "Live attenuated vaccines should precede B-cell depletion by at least four weeks and are contraindicated during therapy; non-live vaccines should precede it by at least two weeks for best response. Non-live vaccines, including seasonal influenza, remain safe during treatment but the antibody response is blunted, so they are still given rather than withheld."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 1,
+  "stem": "A patient has received anti-CD20 therapy for four years and now has recurrent sinopulmonary infections. Which laboratory value is most important to check?",
+  "options": [
+   "Erythrocyte sedimentation rate and C-reactive protein",
+   "Serum immunoglobulin levels, particularly IgG",
+   "Serum vitamin B12 and methylmalonic acid",
+   "Thyroid stimulating hormone and free thyroxine"
+  ],
+  "rationale": "Prolonged B-cell depletion causes progressive hypogammaglobulinemia, and low IgG correlates with serious infection risk. Immunoglobulins are monitored periodically during therapy; persistently low IgG with recurrent infection may prompt extending the dosing interval, holding therapy, or immunoglobulin replacement."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 3,
+  "stem": "Which assessment is required before the first dose of fingolimod?",
+  "options": [
+   "Baseline bone densitometry of the hip and spine",
+   "A twenty-four hour urine collection for creatinine clearance",
+   "Electromyography of the upper and lower extremities",
+   "Baseline ECG and varicella zoster virus antibody status"
+  ],
+  "rationale": "Sphingosine-1-phosphate modulators cause first-dose bradycardia and AV conduction delay, so a baseline ECG is obtained and the first dose is observed for six hours with hourly pulse and blood pressure and a repeat ECG. VZV-seronegative patients are vaccinated and the start is delayed about a month, because disseminated varicella has occurred on therapy."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 2,
+  "stem": "A patient has been on fingolimod for three months and reports blurred central vision in one eye. What is the most likely cause?",
+  "options": [
+   "Optic neuritis from a new demyelinating relapse",
+   "Steroid-induced posterior subcapsular cataract",
+   "Macular edema, a known effect of the drug class",
+   "Retinal detachment unrelated to the medication"
+  ],
+  "rationale": "Macular edema typically appears within the first three to four months of sphingosine-1-phosphate modulator therapy, which is why ophthalmologic examination is scheduled at that interval and sooner if symptoms appear. Risk is higher with diabetes or a history of uveitis. It usually resolves after the drug is stopped."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 1,
+  "stem": "Which pharmacogenomic test must be performed before initiating siponimod?",
+  "options": [
+   "HLA-B*57:01 allele testing for hypersensitivity risk",
+   "CYP2C9 genotyping to determine dosing and eligibility",
+   "Thiopurine methyltransferase enzyme activity testing",
+   "Dihydropyrimidine dehydrogenase deficiency screening"
+  ],
+  "rationale": "Siponimod is metabolized largely by CYP2C9. Patients with the *3/*3 genotype should not receive it, and *1/*3 or *2/*3 genotypes require a reduced maintenance dose. Genotyping is therefore mandatory before the first dose, alongside the same baseline ECG, VZV, ophthalmologic, and hepatic workup used across the class."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 0,
+  "stem": "A patient on teriflunomide reports a positive pregnancy test. What is the immediate action?",
+  "options": [
+   "Stop the drug and begin an accelerated elimination procedure",
+   "Continue the drug through the first trimester and then reassess",
+   "Reduce the dose by half and repeat the test in two weeks",
+   "Stop the drug and allow natural clearance over several months"
+  ],
+  "rationale": "Teriflunomide is teratogenic and undergoes enterohepatic recirculation with a half-life of months, so accelerated elimination with cholestyramine or activated charcoal is started immediately rather than waiting for natural clearance. Plasma concentration is confirmed below 0.02 mg/L on two tests at least fourteen days apart."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 3,
+  "stem": "A patient starting dimethyl fumarate reports facial flushing and warmth after each dose. What is the most appropriate guidance?",
+  "options": [
+   "Stop the drug immediately, since this indicates hypersensitivity",
+   "Switch to an every-other-day dosing schedule indefinitely",
+   "Pretreat with a systemic corticosteroid before each dose",
+   "Take it with food and consider aspirin before dosing, as this usually eases over time"
+  ],
+  "rationale": "Flushing is a prostaglandin-mediated effect that affects a large minority of patients, is usually most prominent in the first month, and generally diminishes with continued use. Taking the dose with food and using non-enteric-coated aspirin about thirty minutes beforehand reduces it. It is not an allergic reaction."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 2,
+  "stem": "Which laboratory finding on dimethyl fumarate most raises concern for PML risk and warrants reassessment of therapy?",
+  "options": [
+   "An isolated rise in alanine aminotransferase to twice normal",
+   "A mild normocytic anemia with a stable hemoglobin level",
+   "Prolonged severe lymphopenia with counts below 500 per cubic millimeter",
+   "A transient eosinophilia during the first month of treatment"
+  ],
+  "rationale": "The rare PML cases reported with fumarates occurred almost entirely in patients with prolonged severe lymphopenia. Complete blood counts are checked before starting, at six months, and every six to twelve months thereafter, and the drug is generally held when the absolute lymphocyte count stays below 500 for six months or more."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 1,
+  "stem": "A patient who received alemtuzumab two years ago presents with new easy bruising and petechiae. Which complication is most likely?",
+  "options": [
+   "Aplastic anemia caused by direct marrow suppression",
+   "Immune thrombocytopenia, a known delayed autoimmune effect",
+   "Disseminated intravascular coagulation from occult infection",
+   "Thrombotic thrombocytopenic purpura from a drug interaction"
+  ],
+  "rationale": "Alemtuzumab causes delayed secondary autoimmunity through disordered immune reconstitution, most often thyroid disease, immune thrombocytopenia, and anti-glomerular basement membrane disease. Risk persists for years, which is why monthly blood counts, creatinine, and urinalysis continue for 48 months after the last dose, with thyroid testing quarterly."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 0,
+  "stem": "Which assessment is required before each dose of mitoxantrone?",
+  "options": [
+   "Left ventricular ejection fraction, because of cumulative cardiotoxicity",
+   "A chest radiograph to screen for pulmonary fibrosis",
+   "Serum amylase and lipase to screen for pancreatitis",
+   "Audiometry to detect drug-related hearing loss"
+  ],
+  "rationale": "Mitoxantrone carries dose-related cardiotoxicity, so ejection fraction is assessed before every dose and cumulative exposure is capped near 140 mg/m2. It also carries a risk of treatment-related acute leukemia that persists after discontinuation. These risks have moved it to a rarely used position now that safer high-efficacy options exist."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 3,
+  "stem": "A patient reports chest tightness, flushing, and palpitations lasting fifteen minutes immediately after a glatiramer acetate injection, with a normal examination afterward. What is this?",
+  "options": [
+   "An anaphylactic reaction requiring epinephrine and transfer",
+   "A myocardial ischemic event requiring urgent cardiac workup",
+   "A panic attack that should be referred for psychiatric care",
+   "An immediate post-injection systemic reaction, which is benign and self-limited"
+  ],
+  "rationale": "This reaction occurs in a substantial minority of patients at some point, begins within minutes, resolves spontaneously within about thirty minutes, and leaves no sequelae. It has no airway involvement, no urticaria, and no hypotension, which is what separates it from anaphylaxis. Patients are counselled about it in advance so it is not mistaken for a cardiac event."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 1,
+  "stem": "Which laboratory monitoring is required for a patient on interferon beta therapy?",
+  "options": [
+   "Serum immunoglobulins and lymphocyte subsets every six months",
+   "Liver function tests and complete blood count at intervals during therapy",
+   "Fasting lipid panel and hemoglobin A1c twice yearly",
+   "Serum creatinine kinase and aldolase every three months"
+  ],
+  "rationale": "Interferon beta can cause transaminase elevation, leukopenia, and thrombocytopenia, so liver enzymes and blood counts are checked at baseline, at intervals in the first months, and periodically thereafter. Depression screening and thyroid function are also part of routine follow-up, and flu-like symptoms are managed with timing and antipyretics."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.2",
+  "difficulty": "medium",
+  "correct_answer": 2,
+  "stem": "A patient with known MS develops worsening of longstanding right leg weakness over two days, with a temperature of 38.3 C and dysuria. What is the most likely explanation?",
+  "options": [
+   "A true relapse requiring high-dose corticosteroid treatment",
+   "Conversion from relapsing to secondary progressive disease",
+   "A pseudo-relapse driven by fever and urinary tract infection",
+   "A new spinal cord lesion needing urgent plasma exchange"
+  ],
+  "rationale": "Recurrence of previously experienced deficits in the setting of infection or fever is a pseudo-relapse: raised temperature slows conduction in already demyelinated axons without new inflammation. Treatment is directed at the infection, and symptoms resolve as the fever settles. Giving steroids instead would worsen the infection and treat nothing."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.2",
+  "difficulty": "hard",
+  "correct_answer": 0,
+  "stem": "Which assessment must be completed before starting an anticholinergic for urinary urgency in MS?",
+  "options": [
+   "Post-void residual volume, to exclude incomplete emptying",
+   "Serum potassium, to exclude an electrolyte contribution",
+   "Urodynamic bladder capacity under anesthesia",
+   "Renal ultrasound with Doppler flow studies"
+  ],
+  "rationale": "MS commonly produces detrusor-sphincter dyssynergia and incomplete emptying alongside urgency, and an anticholinergic given to a patient already retaining urine worsens residual volume and raises the risk of infection and upper tract damage. Post-void residual measurement separates storage from emptying failure and determines whether intermittent catheterization is needed alongside."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.2",
+  "difficulty": "hard",
+  "correct_answer": 3,
+  "stem": "A patient with an intrathecal baclofen pump presents with high fever, severe rebound spasticity, and altered mental status. What does this most likely represent?",
+  "options": [
+   "Systemic sepsis from an unrelated source of infection",
+   "Neuroleptic malignant syndrome from an added medication",
+   "An acute MS relapse involving the brainstem",
+   "Acute intrathecal baclofen withdrawal, which is a medical emergency"
+  ],
+  "rationale": "Abrupt interruption of intrathecal baclofen, from pump failure, catheter dislodgement, or an empty reservoir, produces fever, rebound spasticity exceeding baseline, altered mental status, and can progress to rhabdomyolysis, multiorgan failure, and death. Management is urgent restoration of baclofen, oral or intrathecal, plus benzodiazepines, and immediate evaluation of the pump system."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.2",
+  "difficulty": "medium",
+  "correct_answer": 1,
+  "stem": "Which patient should not receive dalfampridine for walking impairment?",
+  "options": [
+   "A patient with a body mass index above 35 kilograms per square metre",
+   "A patient with a history of seizures or a creatinine clearance at or below 50",
+   "A patient currently taking baclofen for lower limb spasticity",
+   "A patient older than 65 years with stable disease"
+  ],
+  "rationale": "Dalfampridine lowers seizure threshold in a dose-dependent way and is renally cleared, so it is contraindicated with any seizure history and with creatinine clearance at or below 50 mL/min. It is a symptomatic agent that improves walking speed in roughly one third of patients, and it should be stopped if no benefit is evident after a short trial."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.1",
+  "difficulty": "medium",
+  "correct_answer": 2,
+  "stem": "Which set of features best defines a true MS relapse?",
+  "options": [
+   "Any change in symptoms lasting more than six hours in any setting",
+   "New symptoms occurring at any interval after a previous episode",
+   "New or worsening symptoms for at least 24 hours without fever or infection, at least 30 days after the last episode",
+   "Any new lesion seen on surveillance MRI, whether or not symptoms are present"
+  ],
+  "rationale": "A relapse requires new or worsening neurological symptoms lasting at least 24 hours in the absence of fever or infection, separated from a previous episode by at least 30 days. The interval requirement distinguishes a new event from continued evolution of the same one, and the fever exclusion separates a relapse from a pseudo-relapse. Asymptomatic MRI activity is radiologic, not clinical, activity."
+ },
+ {
+  "domain": "conceptual",
+  "subdomain": "1.1",
+  "difficulty": "hard",
+  "correct_answer": 0,
+  "stem": "Under the 2017 McDonald criteria, which finding can substitute for demonstrating dissemination in time?",
+  "options": [
+   "Cerebrospinal fluid oligoclonal bands not present in serum",
+   "An elevated cerebrospinal fluid white cell count above 50",
+   "A markedly elevated serum inflammatory marker such as CRP",
+   "A positive serum aquaporin-4 immunoglobulin G antibody"
+  ],
+  "rationale": "The 2017 revision allows CSF-specific oligoclonal bands to substitute for dissemination in time in a patient with a typical clinically isolated syndrome who meets dissemination in space, which permits earlier diagnosis and earlier treatment. A positive aquaporin-4 antibody points instead to NMOSD and argues against MS."
+ },
+ {
+  "domain": "conceptual",
+  "subdomain": "1.3",
+  "difficulty": "hard",
+  "correct_answer": 2,
+  "stem": "A patient has a longitudinally extensive cord lesion spanning four vertebral segments and intractable hiccups and vomiting. Which diagnosis should be considered before starting an MS therapy?",
+  "options": [
+   "Primary progressive multiple sclerosis",
+   "Clinically isolated syndrome of the spinal cord",
+   "Neuromyelitis optica spectrum disorder with area postrema syndrome",
+   "Radiologically isolated syndrome of the cervical cord"
+  ],
+  "rationale": "Longitudinally extensive transverse myelitis across three or more vertebral segments and area postrema syndrome are hallmarks of NMOSD, and aquaporin-4 antibody testing should precede treatment. The distinction is not academic: interferon beta, natalizumab, and sphingosine-1-phosphate modulators can substantially worsen NMOSD."
+ },
+ {
+  "domain": "conceptual",
+  "subdomain": "1.2",
+  "difficulty": "medium",
+  "correct_answer": 1,
+  "stem": "Which infection has the strongest epidemiologic evidence as a risk factor for developing MS?",
+  "options": [
+   "Cytomegalovirus infection acquired in early childhood",
+   "Epstein-Barr virus infection, particularly symptomatic mononucleosis",
+   "Herpes simplex virus type 1 reactivation in adolescence",
+   "Varicella zoster virus infection at any age"
+  ],
+  "rationale": "Epstein-Barr virus infection is now the most strongly supported environmental risk factor, with large longitudinal cohort data showing that seroconversion markedly precedes and raises MS risk, and that MS is very rare in seronegative individuals. Symptomatic infectious mononucleosis carries additional risk, and the effect compounds with smoking, low vitamin D, and adolescent obesity."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 2,
+  "stem": "Which combination of factors places a patient on natalizumab at highest risk for progressive multifocal leukoencephalopathy?",
+  "options": [
+   "Seronegative JCV status, prior immunosuppressant use, and therapy beyond 24 months",
+   "Seropositive JCV status with a low index, no prior immunosuppression, under 12 months",
+   "Seropositive JCV status with a high index, prior immunosuppression, and over 24 months",
+   "Seropositive JCV status with a high index but fewer than 12 months of exposure"
+  ],
+  "rationale": "The three established PML risk factors are JCV antibody seropositivity with a higher antibody index, prior immunosuppressant exposure, and treatment duration beyond 24 months. Risk rises sharply when all three are present. Seronegative patients carry very low risk but are retested every six months because seroconversion occurs."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 3,
+  "stem": "A patient on natalizumab develops progressive right-sided weakness and new confusion over three weeks. What is the priority action?",
+  "options": [
+   "Begin a five-day course of intravenous methylprednisolone at 1 g daily",
+   "Schedule routine surveillance imaging at the next four-month interval",
+   "Give the next scheduled infusion on time and observe the clinical response",
+   "Hold the drug and obtain urgent MRI with JCV testing of cerebrospinal fluid"
+  ],
+  "rationale": "Subacute progression over weeks with cognitive or behavioral change is the PML pattern, unlike a relapse, which evolves over days and is usually focal. Natalizumab is held, urgent MRI is obtained, and CSF is sent for JC virus PCR. Steroids before excluding PML risk delaying the diagnosis, though they are used later to manage immune reconstitution inflammatory syndrome."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 2,
+  "stem": "Which screening test must be completed before the first dose of ocrelizumab?",
+  "options": [
+   "Baseline pulmonary function testing with spirometry and diffusion capacity",
+   "Nerve conduction studies of the upper and lower extremities bilaterally",
+   "Hepatitis B screening, including surface antigen and core antibody",
+   "Twenty-four hour ambulatory blood pressure and heart rate monitoring"
+  ],
+  "rationale": "Anti-CD20 therapy can reactivate hepatitis B, including in patients who are surface-antigen negative but core-antibody positive, so screening is required before the first dose and hepatology input is needed if positive. Baseline immunoglobulins and a review of vaccination status are also completed before starting."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "hard",
+  "correct_answer": 0,
+  "stem": "A patient starting ofatumumab needs several vaccinations. What is the appropriate timing?",
+  "options": [
+   "Live vaccines four weeks and non-live two weeks before the first dose",
+   "Any vaccine may be given at any point once therapy has been established",
+   "Live vaccines are acceptable during therapy if the interval is extended",
+   "All vaccination should be deferred until the therapy is discontinued"
+  ],
+  "rationale": "Live attenuated vaccines should precede B-cell depletion by at least four weeks and are contraindicated during therapy; non-live vaccines should precede it by at least two weeks for best response. Non-live vaccines, including seasonal influenza, remain safe during treatment but the antibody response is blunted, so they are still given rather than withheld."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 3,
+  "stem": "A patient starting dimethyl fumarate reports facial flushing and warmth after each dose. What is the most appropriate guidance?",
+  "options": [
+   "Stop the drug immediately, since flushing indicates a hypersensitivity reaction",
+   "Move permanently to an every-other-day schedule to limit the reaction",
+   "Pretreat with a systemic corticosteroid thirty minutes before each dose",
+   "Take it with food and consider aspirin beforehand, as this eases with time"
+  ],
+  "rationale": "Flushing is a prostaglandin-mediated effect that affects a large minority of patients, is usually most prominent in the first month, and generally diminishes with continued use. Taking the dose with food and using non-enteric-coated aspirin about thirty minutes beforehand reduces it. It is not an allergic reaction."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 0,
+  "stem": "Which assessment is required before each dose of mitoxantrone?",
+  "options": [
+   "Left ventricular ejection fraction, given cumulative cardiotoxicity",
+   "A chest radiograph to screen for interstitial pulmonary fibrosis",
+   "Serum amylase and lipase to screen for subclinical pancreatitis",
+   "Formal audiometry to detect drug-related sensorineural hearing loss"
+  ],
+  "rationale": "Mitoxantrone carries dose-related cardiotoxicity, so ejection fraction is assessed before every dose and cumulative exposure is capped near 140 mg/m2. It also carries a risk of treatment-related acute leukemia that persists after discontinuation. These risks have moved it to a rarely used position now that safer high-efficacy options exist."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.2",
+  "difficulty": "medium",
+  "correct_answer": 3,
+  "stem": "A patient reports chest tightness, flushing, and palpitations lasting fifteen minutes immediately after a glatiramer acetate injection, with a normal examination afterward. What is this?",
+  "options": [
+   "An anaphylactic reaction requiring intramuscular epinephrine and transfer",
+   "An ischemic cardiac event requiring urgent troponin and ECG evaluation",
+   "A panic attack warranting referral for psychiatric evaluation and therapy",
+   "An immediate post-injection systemic reaction, benign and self-limited"
+  ],
+  "rationale": "This reaction occurs in a substantial minority of patients at some point, begins within minutes, resolves spontaneously within about thirty minutes, and leaves no sequelae. It has no airway involvement, no urticaria, and no hypotension, which is what separates it from anaphylaxis. Patients are counselled about it in advance so it is not mistaken for a cardiac event."
+ },
+ {
+  "domain": "clinical",
+  "subdomain": "2.1.1",
+  "difficulty": "medium",
+  "correct_answer": 2,
+  "stem": "Which set of features best defines a true MS relapse?",
+  "options": [
+   "Any neurological change lasting more than six hours, in any clinical setting",
+   "Any new neurological symptom occurring at any interval after a prior episode",
+   "New or worsening symptoms for 24 hours without fever, 30 days after the last",
+   "Any new lesion on surveillance MRI, whether or not symptoms accompany it"
+  ],
+  "rationale": "A relapse requires new or worsening neurological symptoms lasting at least 24 hours in the absence of fever or infection, separated from a previous episode by at least 30 days. The interval requirement distinguishes a new event from continued evolution of the same one, and the fever exclusion separates a relapse from a pseudo-relapse. Asymptomatic MRI activity is radiologic, not clinical, activity."
+ },
+ {
+  "domain": "conceptual",
+  "subdomain": "1.3",
+  "difficulty": "hard",
+  "correct_answer": 2,
+  "stem": "A patient has a longitudinally extensive cord lesion spanning four vertebral segments and intractable hiccups and vomiting. Which diagnosis should be considered before starting an MS therapy?",
+  "options": [
+   "Primary progressive multiple sclerosis with spinal cord predominance",
+   "Clinically isolated syndrome affecting the cervical spinal cord alone",
+   "Neuromyelitis optica spectrum disorder with area postrema syndrome",
+   "Radiologically isolated syndrome involving the cervical spinal cord"
+  ],
+  "rationale": "Longitudinally extensive transverse myelitis across three or more vertebral segments and area postrema syndrome are hallmarks of NMOSD, and aquaporin-4 antibody testing should precede treatment. The distinction is not academic: interferon beta, natalizumab, and sphingosine-1-phosphate modulators can substantially worsen NMOSD."
+ },
+ {
+  "domain": "conceptual",
+  "subdomain": "1.2",
+  "difficulty": "medium",
+  "correct_answer": 1,
+  "stem": "Which infection has the strongest epidemiologic evidence as a risk factor for developing MS?",
+  "options": [
+   "Cytomegalovirus infection acquired during early childhood years",
+   "Epstein-Barr virus infection, especially symptomatic mononucleosis",
+   "Herpes simplex virus type 1 reactivation during adolescence",
+   "Varicella zoster virus infection occurring at any age in life"
+  ],
+  "rationale": "Epstein-Barr virus infection is now the most strongly supported environmental risk factor, with large longitudinal cohort data showing that seroconversion markedly precedes and raises MS risk, and that MS is very rare in seronegative individuals. Symptomatic infectious mononucleosis carries additional risk, and the effect compounds with smoking, low vitamin D, and adolescent obesity."
+ }
+]

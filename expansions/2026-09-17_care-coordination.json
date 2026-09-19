@@ -1,0 +1,141 @@
+[
+{"domain":"conceptual","subdomain":"1.2","difficulty":"hard","correct_answer":2,
+ "stem":"What does current evidence indicate about MS in Black and Hispanic populations in the United States?",
+ "options":["MS is essentially absent in these populations and rarely needs consideration","Disease course is uniformly milder than in non-Hispanic White patients","Disease can be more aggressive, yet diagnosis is often later and access poorer","Presentation and outcomes are identical once income is accounted for"],
+ "rationale":"Black patients in particular show more aggressive disease with greater disability accrual and more opticospinal involvement, alongside later diagnosis, lower enrollment in trials, and reduced access to specialty care and high-efficacy therapy. Treating MS as a disease of one population delays diagnosis in everyone else."},
+
+{"domain":"conceptual","subdomain":"1.3","difficulty":"hard","correct_answer":0,
+ "stem":"Which feature most suggests pediatric-onset rather than adult-onset MS?",
+ "options":["A higher relapse rate early on with better recovery from each event","A markedly faster accumulation of irreversible physical disability","An almost complete absence of cognitive involvement in the early years","A near-universal primary progressive course from the first presentation"],
+ "rationale":"Children typically have a higher early relapse frequency with more complete recovery, and reach disability milestones at an older age than adults but a younger chronological age. Cognitive involvement is a substantial concern because it develops during active schooling. Primary progressive onset is very rare in children."},
+
+{"domain":"clinical","subdomain":"2.3","difficulty":"hard","correct_answer":1,
+ "stem":"Which consideration is most important when managing MS in a patient over 60?",
+ "options":["Relapse frequency typically rises, so therapy should be escalated","Infection risk from immunosuppression rises while relapse activity declines","Disease-modifying therapy should be continued unchanged indefinitely","Progression at this age is always attributable to the MS itself"],
+ "rationale":"Inflammatory activity declines with age while immunosenescence raises infection and malignancy risk, which shifts the risk-benefit balance and makes de-escalation or discontinuation a legitimate discussion in stable older patients. Progression at this age also has competing explanations, including vascular disease, deconditioning, and comorbidity."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"medium","correct_answer":3,
+ "stem":"Which member of the interdisciplinary team is best positioned to assess a patient's ability to continue working as an accountant despite cognitive changes?",
+ "options":["The physical therapist, who evaluates mobility and endurance","The speech-language pathologist, who evaluates communication","The social worker, who evaluates financial and benefit needs","The occupational therapist, who evaluates function in work tasks"],
+ "rationale":"Occupational therapy assesses performance of actual work tasks and recommends cognitive and environmental strategies and accommodations. Neuropsychology characterizes the deficits themselves, and vocational rehabilitation addresses job retention or retraining. The referral question determines the discipline, and these roles are commonly conflated."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"medium","correct_answer":0,
+ "stem":"Which element is most important when a patient transitions from a pediatric to an adult MS service?",
+ "options":["A structured handover with the patient prepared to manage their own care","An immediate change of every medication to adult formulations","A complete restart of the diagnostic workup by the receiving team","Transfer of records only, with the family arranging the first visit"],
+ "rationale":"Transition is a planned process rather than a transfer date, and it should build self-management skills, medication knowledge, and appointment independence in advance while ensuring the receiving team has the full history. Unstructured transition is a well-documented point of disengagement and treatment interruption in chronic disease."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"hard","correct_answer":2,
+ "stem":"When is palliative care appropriately introduced for a patient with MS?",
+ "options":["Only when the patient is expected to live less than six months","Only after all disease-modifying options have been exhausted","Alongside active treatment, wherever symptom burden is high","Only at the point that a patient declines further hospitalization"],
+ "rationale":"Palliative care addresses symptom burden, goals of care, and caregiver support and runs concurrently with disease-directed treatment at any stage. Conflating it with hospice, which is a prognosis-based benefit, delays referral for patients with severe spasticity, pain, or dysphagia who would benefit years earlier."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"medium","correct_answer":1,
+ "stem":"A care partner reports exhaustion and says they have stopped seeing friends. What is the most appropriate nursing action?",
+ "options":["Reassure them that this is normal and will pass with time","Assess for caregiver strain and connect them to respite and support resources","Advise them to reduce the care they provide to the patient","Direct the concern to the patient to resolve within the family"],
+ "rationale":"Caregiver strain predicts both caregiver morbidity and breakdown of the home care arrangement, so it is assessed directly rather than normalized. Respite services, support groups, social work referral, and realistic planning are the interventions. The care partner is legitimately within the nurse's scope of concern."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"medium","correct_answer":3,
+ "stem":"Which situation is least suitable for a telehealth follow-up visit in MS care?",
+ "options":["Reviewing laboratory monitoring results on an established therapy","Discussing family planning and timing of a therapy change","Assessing mood and screening for depressive symptoms","Evaluating a possible new relapse with subtle gait change"],
+ "rationale":"Telehealth handles counseling, education, medication review, and monitoring results well and removes real travel and fatigue barriers. A suspected relapse needs a hands-on neurological examination to separate true new deficit from pseudo-relapse and to gauge severity, which video cannot reliably substitute for."},
+
+{"domain":"clinical","subdomain":"2.3","difficulty":"hard","correct_answer":0,
+ "stem":"A patient scheduled for elective surgery is on an anti-CD20 therapy. Which perioperative issue most warrants attention?",
+ "options":["Heightened infection risk, warranting timing discussion and vigilant wound care","An absolute contraindication to general anesthesia while on the therapy","A requirement to reverse the therapy with plasma exchange beforehand","A need to give a corticosteroid course prior to the induction of anesthesia"],
+ "rationale":"B-cell depletion raises infection risk and blunts vaccine response, so elective procedures are ideally timed within the dosing cycle and surgical site infection is monitored closely. Anesthesia itself is not contraindicated, and stress-dose steroids apply only to patients with adrenal suppression from repeated or chronic corticosteroid exposure."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"hard","correct_answer":2,
+ "stem":"A patient with MS is admitted for pneumonia and becomes markedly weaker and more confused than their baseline. What is the most likely explanation?",
+ "options":["A new demyelinating relapse triggered by the pulmonary infection","Progression to secondary progressive disease during the admission","Systemic infection unmasking existing deficits, plus possible delirium","An adverse reaction to the antibiotic that requires immediate change"],
+ "rationale":"Infection, fever, hypoxia, and metabolic derangement all worsen conduction in demyelinated pathways and precipitate delirium, particularly where cognitive reserve is already reduced. The deficits resolve as the infection is treated. Labelling this a relapse leads to steroids that worsen the infection and delay the real treatment."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":1,
+ "stem":"Which assessment finding best distinguishes MS-related weakness from deconditioning in a patient reporting reduced walking distance?",
+ "options":["The presence of fatigue at the end of a walking test","Upper motor neuron signs such as hyperreflexia and spasticity","A reported preference for sitting rather than standing activity","A gradual onset of the symptom over several months"],
+ "rationale":"Upper motor neuron signs including hyperreflexia, clonus, extensor plantar responses, and spastic tone point to a central lesion rather than disuse. Fatigue, gradual onset, and activity avoidance occur in both. The distinction matters because deconditioning is reversible with exercise while central weakness needs a different plan."},
+
+{"domain":"advocacy","subdomain":"3.1","difficulty":"hard","correct_answer":3,
+ "stem":"A patient in a rural area must travel four hours for infusions and is considering stopping treatment. Which intervention most directly addresses this barrier?",
+ "options":["Counseling on the importance of maintaining the current therapy","Arranging more frequent telephone follow-up between infusions","Referring the patient for evaluation of transportation anxiety","Exploring home infusion or a therapy that does not require chair time"],
+ "rationale":"A four-hour travel burden is a structural barrier, and it is addressed structurally: home infusion where the payer and drug allow it, a local infusion site, or a switch to a self-administered agent of comparable efficacy. Counselling a patient to persist through an unmanageable logistical burden does not change the burden."},
+
+{"domain":"advocacy","subdomain":"3.5","difficulty":"medium","correct_answer":2,
+ "stem":"A patient with progressive disability asks about long-term care insurance. What should the nurse convey?",
+ "options":["Existing health insurance always covers long-term custodial care","Medicare pays for indefinite custodial nursing home placement","Medicare does not cover long-term custodial care, which is a common misconception","Long-term care insurance can be purchased at any point after diagnosis"],
+ "rationale":"Medicare covers limited skilled nursing after a qualifying hospital stay, not indefinite custodial care, and Medicaid becomes the payer only after substantial spend-down. Long-term care insurance is generally unavailable or prohibitively priced after an MS diagnosis, so early financial planning and a social work referral matter."},
+
+{"domain":"advocacy","subdomain":"3.6","difficulty":"hard","correct_answer":0,
+ "stem":"A patient asks the nurse not to record their MS diagnosis in a shared electronic record accessible to other departments. What is the most appropriate response?",
+ "options":["Explain the clinical risks of omission and explore the specific privacy concern","Agree to leave the diagnosis out of the record as the patient requested","Record it but restrict access without telling the patient it was documented","Refer the request to the privacy officer without further discussion"],
+ "rationale":"Omitting a diagnosis creates real clinical risk, since another clinician may prescribe an interacting drug or misread a presentation. The productive response is to understand what the patient fears, often employment or insurance consequences, address it accurately, and explain what protections exist. Covert restriction breaks trust and does not resolve the concern."},
+
+{"domain":"advocacy","subdomain":"3.4","difficulty":"medium","correct_answer":1,
+ "stem":"Which information should be verified before a patient's first infusion is scheduled at a hospital outpatient department?",
+ "options":["Whether the patient prefers a morning or an afternoon appointment","Whether prior authorization and the site of care are both approved","Whether the patient has arranged for someone to drive them home","Whether the patient has completed the clinic satisfaction survey"],
+ "rationale":"Authorization for the drug and approval of the site of care are separate determinations, and a drug approved at a freestanding centre may be denied at a hospital outpatient department at a much higher facility rate. Verifying both before scheduling prevents a large surprise bill that becomes the patient's problem retroactively."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"hard","correct_answer":2,
+ "stem":"A patient from a culture where family makes health decisions collectively wants their adult children present for all treatment discussions. How should the nurse proceed?",
+ "options":["Meet with the patient alone to ensure decisions are free from family influence","Direct all treatment discussion to the eldest child as the family spokesperson","Confirm the patient's own wishes about involvement, then include the family as asked","Explain that clinic policy requires one-to-one discussion of treatment options"],
+ "rationale":"Autonomy includes the right to delegate or share decision-making, so the nurse confirms with the patient what they want rather than assuming either individualist or collectivist preferences. Cultural humility means asking rather than applying a template. The confirmation itself should occur in a way that allows a free answer."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"medium","correct_answer":3,
+ "stem":"A patient nods and says yes to every teaching point but cannot describe the plan afterward. What does this most likely indicate?",
+ "options":["Deliberate non-adherence to the recommended treatment plan","An acute cognitive change requiring urgent neurological evaluation","A hearing impairment that has not previously been documented","Possible limited health literacy, which teach-back would reveal"],
+ "rationale":"Nodding agreement without retention is a recognized marker of limited health literacy, which patients often conceal out of embarrassment and which is not predicted by education or occupation. Teach-back detects it without singling anyone out, and plain language, chunked information, and written reinforcement are the response."},
+
+{"domain":"education","subdomain":"4.2","difficulty":"medium","correct_answer":0,
+ "stem":"Which outcome measure best demonstrates the effectiveness of a new MS patient education program?",
+ "options":["Change in patient self-management behaviour and knowledge after the program","The total number of patients who attended the education sessions","The number of educational handouts distributed during the period","Staff satisfaction with the format and delivery of the program"],
+ "rationale":"Attendance and materials distributed are process measures that describe activity rather than effect. Demonstrating effectiveness requires outcome measures: change in knowledge, self-management behaviour, adherence, or clinical results. Distinguishing the two is the difference between reporting effort and evaluating impact."},
+
+{"domain":"education","subdomain":"4.2","difficulty":"hard","correct_answer":1,
+ "stem":"An MS nurse is asked to precept a new graduate on the infusion unit. Which approach best supports skill development?",
+ "options":["Assign the full patient load early to build confidence quickly","Increase independence progressively while remaining available for support","Have the new graduate observe only for the first three months","Provide correction only at the end of each scheduled shift"],
+ "rationale":"Graduated responsibility with real-time availability matches the competence-development progression, giving the learner authentic responsibility without exposing patients to risk. Prolonged passive observation stalls development, and full independence too early produces error and erodes confidence. Timely feedback is more useful than retrospective review."},
+
+{"domain":"research","subdomain":"5.1","difficulty":"hard","correct_answer":2,
+ "stem":"A trial reports a number needed to treat of 8 for the primary outcome and a number needed to harm of 200 for a serious adverse event. How is this best interpreted?",
+ "options":["The drug should not be used, since any serious harm outweighs benefit","The two figures cannot be compared with each other in any meaningful way","Benefit occurs far more often than serious harm, though both must be discussed","The drug benefits 8 percent of patients and harms 200 percent of them"],
+ "rationale":"Placing NNT and NNH on the same scale makes the trade-off legible: one patient benefits for every eight treated, while one experiences the serious harm for every two hundred. The judgment still depends on how severe each outcome is and on the individual patient's values, which is exactly what the comparison is meant to inform."},
+
+{"domain":"research","subdomain":"5.2","difficulty":"hard","correct_answer":3,
+ "stem":"Why is a trial's exclusion of patients over 55 relevant when applying its results in clinic?",
+ "options":["It means the reported results are statistically invalid as published","It indicates the trial was not approved by an institutional review board","It shows the randomization procedure failed to balance the groups","It limits external validity, so the findings may not extend to older patients"],
+ "rationale":"External validity, or generalizability, concerns whether trial findings apply to patients outside the enrolled population. MS trials commonly exclude older patients, those with high disability, and those with significant comorbidity, which is precisely the population seen in clinic. This is a limitation of applicability, not of internal validity."},
+
+{"domain":"research","subdomain":"5.3","difficulty":"medium","correct_answer":0,
+ "stem":"An MS trial's primary endpoint was not significant, but the authors highlight a significant result in one subgroup. How should this be interpreted?",
+ "options":["As hypothesis-generating, since subgroup findings are prone to chance","As proof that the drug works in that particular subgroup of patients","As grounds to disregard the negative primary endpoint entirely","As a reason to apply the drug broadly across all patient groups"],
+ "rationale":"Multiple subgroup comparisons inflate the false-positive rate, and post hoc subgroup findings from a negative trial require prospective confirmation before they change practice. Prespecification, biological plausibility, and a formal test of interaction are what separate a credible subgroup effect from noise."},
+
+{"domain":"research","subdomain":"5.4","difficulty":"medium","correct_answer":2,
+ "stem":"An industry-funded MS trial is published with authors employed by the sponsor. What is the appropriate response?",
+ "options":["Disregard the findings entirely because of the funding source","Accept the findings as published, since peer review is sufficient","Appraise the methods critically while noting the disclosed interests","Wait for an independent replication before reading the paper at all"],
+ "rationale":"Industry funding is routine in drug trials and is not by itself disqualifying; what matters is whether the design, analysis, and reporting hold up, and whether the protocol was registered and the outcomes reported as prespecified. Disclosure exists so the reader can weigh it, alongside methodological appraisal rather than instead of it."},
+
+{"domain":"research","subdomain":"5.5","difficulty":"hard","correct_answer":1,
+ "stem":"Why has brain volume loss been adopted as an outcome measure in MS trials?",
+ "options":["It can be measured reliably from a single scan at one time point","It reflects neurodegeneration and correlates with cognitive and physical decline","It replaces the need for clinical outcome measures in modern trial design","It is unaffected by hydration status, treatment effects, or scanner variation"],
+ "rationale":"Accelerated brain atrophy occurs from early in MS, correlates with disability and cognitive impairment better than T2 lesion burden does, and captures the neurodegenerative component that lesion counts miss. It requires serial scans with consistent technique, and pseudoatrophy from resolving inflammation after starting therapy is a known confounder."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"hard","correct_answer":3,
+ "stem":"A patient is stopping fingolimod to begin a different therapy. Which risk should be anticipated during the transition?",
+ "options":["A prolonged hypersensitivity reaction to the incoming therapy","Persistent bradycardia lasting several weeks after the last dose","Irreversible macular edema developing after discontinuation","Rebound disease activity exceeding the pretreatment baseline"],
+ "rationale":"Withdrawal of sphingosine-1-phosphate modulators and of natalizumab can be followed by severe rebound activity, sometimes worse than before treatment, as sequestered lymphocytes re-enter circulation. Transitions are planned with attention to washout length, lymphocyte recovery, and prompt initiation of the next agent rather than an open-ended gap."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"medium","correct_answer":0,
+ "stem":"Which principle should guide the washout period when switching between disease-modifying therapies?",
+ "options":["Balance infection risk from overlap against disease rebound from a long gap","Always allow at least six months between any two therapies","Never allow any gap, since therapies may always be overlapped safely","Base the interval solely on how long the patient took the previous agent"],
+ "rationale":"Switch planning weighs the residual immunologic effect of the outgoing drug, the mechanism of the incoming one, lymphocyte and immunoglobulin recovery, and the patient's disease activity. Long empiric washouts invite rebound, particularly after natalizumab or an S1P modulator, while immediate overlap of two immunosuppressants raises infection risk."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"medium","correct_answer":2,
+ "stem":"A patient with spasticity asks whether stretching still matters now that they take baclofen. What is the accurate response?",
+ "options":["Stretching can be stopped once the medication dose is stable","Stretching is only useful before the medication has taken effect","Daily stretching and positioning remain essential alongside medication","Stretching should be avoided because it can provoke painful spasms"],
+ "rationale":"Pharmacologic and physical management of spasticity are complementary: medication reduces tone while stretching, positioning, and range of motion preserve muscle length and prevent contracture. Stopping the physical program allows fixed contractures that no drug will reverse. Some spasticity also aids transfers, so the goal is modulation rather than elimination."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"hard","correct_answer":1,
+ "stem":"A patient has intention tremor that worsens as the hand approaches a target, severely limiting self-feeding. Which intervention is most appropriate to try first?",
+ "options":["A course of high-dose corticosteroid to reduce the tremor","Occupational therapy with weighted utensils and adaptive equipment","Immediate referral for deep brain stimulation evaluation","Addition of an antispasticity agent at the maximum tolerated dose"],
+ "rationale":"Cerebellar intention tremor in MS responds poorly to medication, and adaptive strategies including weighted utensils, limb stabilization, and environmental modification usually deliver the most functional benefit first. Deep brain stimulation is considered for severe refractory tremor in selected patients after conservative measures have been tried."}
+]

@@ -1,0 +1,141 @@
+[
+{"domain":"clinical","subdomain":"2.3","difficulty":"medium","correct_answer":2,
+ "stem":"A postpartum patient on ocrelizumab asks whether she can breastfeed. What is the most accurate response?",
+ "options":["Breastfeeding is contraindicated for the entire duration of anti-CD20 therapy","She must express and discard all milk for thirty days following each infusion","Transfer into milk is minimal and breastfeeding is generally compatible","She may breastfeed only if the infant is given no vaccines of any kind"],
+ "rationale":"Monoclonal antibodies are large proteins with poor oral bioavailability and minimal measured transfer into breast milk, so anti-CD20 therapy is generally regarded as compatible with breastfeeding. Infant live vaccination schedules warrant a conversation with pediatrics, but the two considerations are separate and neither requires stopping breastfeeding."},
+
+{"domain":"conceptual","subdomain":"1.1","difficulty":"easy","correct_answer":1,
+ "stem":"Which cell produces myelin in the central nervous system?",
+ "options":["The Schwann cell, which also myelinates peripheral nerves","The oligodendrocyte, which myelinates several axons at once","The astrocyte, which forms the glial scar after injury","The microglial cell, which serves as the resident macrophage"],
+ "rationale":"Oligodendrocytes myelinate central axons, each one wrapping segments of up to roughly fifty axons, which is why the loss of a single oligodendrocyte affects multiple fibres. Schwann cells serve the peripheral nervous system and are not the target in MS. Astrocytes form the gliotic scar and microglia mediate innate immune responses."},
+
+{"domain":"conceptual","subdomain":"1.1","difficulty":"easy","correct_answer":3,
+ "stem":"What is the functional consequence of demyelination of a central axon?",
+ "options":["The axon is permanently severed at the site of myelin loss","Neurotransmitter release from the axon terminal is abolished","The axon regenerates a new myelin sheath within a few hours","Saltatory conduction is impaired, so conduction slows or blocks"],
+ "rationale":"Myelin enables saltatory conduction between nodes of Ranvier; losing it slows conduction and can block it entirely, which produces the clinical deficit. Axonal transection occurs in MS but is a separate process and is the principal driver of permanent disability. Remyelination happens but is incomplete and slow."},
+
+{"domain":"conceptual","subdomain":"1.1","difficulty":"easy","correct_answer":0,
+ "stem":"Approximately what proportion of people are diagnosed with relapsing-remitting MS at onset?",
+ "options":["About 85 percent","About 50 percent","About 30 percent","About 10 percent"],
+ "rationale":"Roughly 85 percent of patients present with a relapsing-remitting course and about 10 to 15 percent with primary progressive disease. A substantial share of untreated relapsing patients transition to secondary progressive MS over the following decades, though this appears less frequent in the era of effective therapy."},
+
+{"domain":"conceptual","subdomain":"1.2","difficulty":"easy","correct_answer":2,
+ "stem":"How does MS prevalence vary with geographic latitude?",
+ "options":["Prevalence is highest at the equator and falls toward the poles","Prevalence is uniform worldwide once age is taken into account","Prevalence generally increases with distance from the equator","Prevalence relates only to altitude and not to latitude at all"],
+ "rationale":"MS is more prevalent at higher latitudes, a gradient usually attributed to sunlight exposure and vitamin D status though genetic ancestry and other factors contribute. Migration studies suggest that moving before adolescence shifts risk toward the new region, which points to an environmental exposure acting early in life."},
+
+{"domain":"conceptual","subdomain":"1.2","difficulty":"easy","correct_answer":1,
+ "stem":"What is the approximate female-to-male ratio in relapsing-remitting MS?",
+ "options":["About one to one, with no sex difference","About three to one, with female predominance","About one to three, with male predominance","About ten to one, with female predominance"],
+ "rationale":"Relapsing-remitting MS affects women roughly three times as often as men, and the ratio has risen over recent decades for reasons that are not fully explained. Primary progressive MS is closer to equal between the sexes and tends to present a decade later, in the fourth or fifth decade."},
+
+{"domain":"conceptual","subdomain":"1.4","difficulty":"easy","correct_answer":3,
+ "stem":"What does Lhermitte sign describe?",
+ "options":["Transient blurred vision brought on by a hot shower or exercise","Involuntary rhythmic eye movement noted on lateral gaze testing","Painful spasm of the facial muscles triggered by chewing food","An electric sensation down the spine produced by neck flexion"],
+ "rationale":"Lhermitte sign is a brief electric-shock sensation travelling down the spine and sometimes into the limbs on neck flexion, reflecting a demyelinating lesion in the cervical cord. It is common in MS but not specific to it. Transient symptom worsening with heat is Uhthoff phenomenon, a separate finding."},
+
+{"domain":"conceptual","subdomain":"1.4","difficulty":"easy","correct_answer":0,
+ "stem":"What is Uhthoff phenomenon?",
+ "options":["Transient worsening of symptoms with a rise in body temperature","Permanent loss of vision following a single episode of optic neuritis","Progressive weakness that develops during a course of corticosteroids","A sustained increase in spasticity occurring in cold environments"],
+ "rationale":"A rise in core temperature from fever, exercise, hot weather, or a hot bath transiently impairs conduction in demyelinated axons, producing symptoms that reverse completely on cooling. It is not a relapse and needs no steroid treatment. Recognizing it prevents both unnecessary treatment and unnecessary alarm."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"easy","correct_answer":2,
+ "stem":"Which disease-modifying therapy is given by subcutaneous injection that the patient administers at home?",
+ "options":["Ocrelizumab, given by intravenous infusion in a clinic","Natalizumab, given by intravenous infusion every four weeks","Glatiramer acetate, given by subcutaneous self-injection","Alemtuzumab, given by intravenous infusion over several days"],
+ "rationale":"Glatiramer acetate is self-administered subcutaneously, as are interferon beta-1b, ofatumumab, and subcutaneous interferon beta-1a. Route matters practically because self-administered agents fall under pharmacy benefit and require injection training, while infused agents fall under medical benefit and require chair time."},
+
+{"domain":"clinical","subdomain":"2.1.2","difficulty":"easy","correct_answer":1,
+ "stem":"Which of these disease-modifying therapies is taken as an oral tablet or capsule?",
+ "options":["Interferon beta-1a, given by intramuscular injection","Dimethyl fumarate, taken twice daily by mouth","Ocrelizumab, given by intravenous infusion twice a year","Glatiramer acetate, given by subcutaneous injection"],
+ "rationale":"The oral agents include the fumarates, teriflunomide, cladribine, and the sphingosine-1-phosphate modulators fingolimod, siponimod, ozanimod, and ponesimod. Oral route improves convenience and adherence but does not imply lower risk: each carries its own monitoring requirements."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"easy","correct_answer":3,
+ "stem":"Which symptom is reported by the largest proportion of people with MS?",
+ "options":["Trigeminal neuralgia affecting one side of the face","Complete loss of vision in at least one eye","Dysphagia sufficient to require diet modification","Fatigue that interferes with daily activity"],
+ "rationale":"Fatigue affects around 80 percent of people with MS and is frequently ranked the single most disabling symptom, including by people who are working and have low physical disability. It is also poorly correlated with lesion burden, which is why it is often underestimated by observers."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"easy","correct_answer":0,
+ "stem":"A patient asks why a hot shower makes their leg weakness noticeably worse for a short time. What is the best explanation?",
+ "options":["Heat slows conduction in nerves that have lost myelin, and it reverses on cooling","Heat causes new inflammatory lesions to form in the spinal cord","Hot water lowers blood pressure enough to weaken the leg muscles","Heat permanently damages the remaining myelin around the affected nerves"],
+ "rationale":"Raised temperature reduces the safety factor for conduction in demyelinated axons, producing transient symptoms that resolve fully once temperature returns to normal. Explaining this reassures the patient and supports practical strategies such as cooler showers, cooling garments, and timing activity."},
+
+{"domain":"clinical","subdomain":"2.1.1","difficulty":"easy","correct_answer":2,
+ "stem":"What is the standard first-line treatment for a disabling acute MS relapse?",
+ "options":["Oral prednisone 20 mg daily continued for one month","Intravenous immunoglobulin given over five consecutive days","High-dose corticosteroid, typically methylprednisolone for three to five days","Immediate initiation of a high-efficacy disease-modifying therapy"],
+ "rationale":"High-dose corticosteroid shortens relapse duration and speeds recovery, though it does not alter the eventual degree of recovery or long-term disability. High-dose oral regimens appear comparable to intravenous. Mild sensory relapses often need no treatment at all, and a DMT is for prevention rather than acute management."},
+
+{"domain":"clinical","subdomain":"2.2","difficulty":"easy","correct_answer":1,
+ "stem":"Which self-care measure should be taught to a patient performing intermittent self-catheterization?",
+ "options":["Limit fluid intake severely to reduce the number of catheterizations","Catheterize on a regular schedule and use clean technique each time","Reuse the same catheter for a full week before replacing it","Catheterize only when a sense of bladder fullness is noticed"],
+ "rationale":"Regularly scheduled catheterization prevents overdistension, which is what drives infection and upper tract damage, and clean technique is adequate for home use. Waiting for the sensation of fullness fails because that sensation is often impaired, and fluid restriction concentrates urine and raises infection risk."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"easy","correct_answer":3,
+ "stem":"Which statement should be included when teaching a patient starting interferon beta therapy?",
+ "options":["Flu-like symptoms indicate an allergy and require stopping the drug","Injection sites should be reused to keep the reaction in one area","Alcohol should be applied to the site immediately before injecting","Flu-like symptoms are common early and can be eased by bedtime dosing"],
+ "rationale":"Flu-like symptoms affect most patients starting interferon, are worst in the early weeks, and are managed by gradual dose escalation, bedtime administration, and an antipyretic before the injection. Sites are rotated to prevent injection-site reactions and lipoatrophy, and the skin should be dry before injecting."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"medium","correct_answer":0,
+ "stem":"A patient starting a self-injected DMT expresses fear of needles. Which intervention is most likely to support successful self-administration?",
+ "options":["Graded practice with an autoinjector and a saline demonstration","Arranging for a family member to give every injection permanently","Recommending the patient close their eyes during each injection","Switching the patient to an infused therapy without further discussion"],
+ "rationale":"Needle anxiety responds to graded exposure with a trainer device, autoinjector use, site rotation planning, and topical anesthetic or ice. Building the patient's own capability supports long-term independence and adherence. Reflexively switching to an infused agent adds chair time and different risks for a problem that is usually solvable."},
+
+{"domain":"education","subdomain":"4.1","difficulty":"medium","correct_answer":2,
+ "stem":"A newly diagnosed patient says they want to read everything about MS immediately. What is the most helpful nursing response?",
+ "options":["Advise against reading anything until the treatment plan is settled","Provide a comprehensive printed packet covering every aspect of MS","Direct the patient to vetted sources and offer to review what they find","Tell the patient that most online information about MS is inaccurate"],
+ "rationale":"Information seeking is an adaptive coping response, and the useful intervention is steering it toward credible sources while offering to work through what the patient finds. Discouraging it damages trust and pushes the patient toward unfiltered sources; a comprehensive packet at diagnosis usually exceeds what can be processed."},
+
+{"domain":"education","subdomain":"4.2","difficulty":"medium","correct_answer":1,
+ "stem":"An infusion nurse unfamiliar with MS asks why patients are observed after a natalizumab infusion. What is the accurate explanation?",
+ "options":["To confirm the dose was fully delivered before discharging the patient","To monitor for hypersensitivity reactions, which occur within about an hour","To measure the immediate effect on the patient's walking speed","To draw the post-infusion drug levels required for the next dose"],
+ "rationale":"Hypersensitivity reactions to natalizumab typically occur during or within an hour of the infusion, which is the basis for the observation period, and reactions after a treatment gap raise the question of anti-natalizumab antibodies. No post-infusion level is drawn and no immediate functional effect is expected."},
+
+{"domain":"advocacy","subdomain":"3.2","difficulty":"medium","correct_answer":3,
+ "stem":"A patient asks about a clinic offering stem cell infusions for MS for a large cash payment, not part of any trial. What should the nurse convey?",
+ "options":["The treatment is likely effective but not yet covered by insurance","Cash-pay clinics are held to the same oversight as registered trials","Insurance denial is the only meaningful concern with such a clinic","Unregulated cash-pay procedures carry real risk and no demonstrated benefit"],
+ "rationale":"Direct-to-consumer stem cell clinics operate outside the trial framework, charge substantial sums, and have caused serious harm including infection, tumour formation, and vision loss. Autologous hematopoietic stem cell transplantation is a genuine and studied intervention for selected aggressive MS, but it is performed in accredited centres, which is the distinction to draw."},
+
+{"domain":"advocacy","subdomain":"3.2","difficulty":"medium","correct_answer":0,
+ "stem":"A patient is deciding between two DMTs with different efficacy and risk profiles. Which approach best reflects shared decision-making?",
+ "options":["Present the benefits and risks of each and elicit what matters to the patient","Recommend the higher-efficacy agent, since disease control is the priority","Present the options and leave the patient to decide without input","Defer entirely to whichever agent the insurer prefers on formulary"],
+ "rationale":"Shared decision-making requires the clinician to supply accurate comparative information and the patient to supply their own values about risk tolerance, route, monitoring burden, and family planning. Leaving the patient alone with the data abdicates the clinician's contribution, and deciding for them abdicates the patient's."},
+
+{"domain":"advocacy","subdomain":"3.4","difficulty":"medium","correct_answer":2,
+ "stem":"A specialty pharmacy reports the patient has not refilled their DMT for two months. What is the most appropriate first step?",
+ "options":["Document non-adherence in the chart and take no further action","Notify the insurer that the patient has stopped taking the therapy","Contact the patient to identify the reason for the lapse in refills","Discontinue the prescription and remove the patient from the registry"],
+ "rationale":"A refill gap has many causes: cost, side effects, a lapsed authorization, a shipping problem, an address change, or a decision to stop that was never communicated. Each has a different remedy, and none of them is discoverable without asking. Refill data is a useful signal precisely because it prompts the conversation early."},
+
+{"domain":"research","subdomain":"5.1","difficulty":"easy","correct_answer":1,
+ "stem":"What does a p-value of 0.03 indicate about a study result?",
+ "options":["There is a 3 percent chance the treatment has no effect at all","A result this extreme would occur 3 percent of the time if the null were true","The treatment produced a 3 percent improvement over the comparator","Ninety-seven percent of patients in the study benefited from the treatment"],
+ "rationale":"The p-value is the probability of observing a result at least this extreme if the null hypothesis were true. It says nothing about the probability that the hypothesis is true, nothing about effect size, and nothing about clinical importance. A statistically significant result can still be clinically trivial, which is why effect size and confidence intervals matter more."},
+
+{"domain":"research","subdomain":"5.2","difficulty":"easy","correct_answer":2,
+ "stem":"Which source sits at the top of a typical hierarchy of evidence for a therapy question?",
+ "options":["A large well-conducted prospective cohort study","Consensus recommendations from an expert panel","A systematic review of randomized controlled trials","A detailed case series from a specialist centre"],
+ "rationale":"Systematic reviews and meta-analyses of randomized trials occupy the top tier for therapy questions, followed by individual randomized trials, then cohort and case-control studies, then case series and expert opinion. The hierarchy applies to therapy questions specifically; questions about prognosis, harm, or lived experience are best answered by other designs."},
+
+{"domain":"research","subdomain":"5.3","difficulty":"medium","correct_answer":3,
+ "stem":"Why is allocation concealment distinct from blinding in a randomized trial?",
+ "options":["They are different terms for the same procedural safeguard","Allocation concealment applies only to trials with an active comparator","Blinding occurs before randomization and concealment occurs after it","Concealment prevents foreknowledge of the next assignment at enrollment"],
+ "rationale":"Allocation concealment protects the randomization sequence so that whoever enrolls a participant cannot know the upcoming assignment, preventing selection bias at entry. Blinding operates after assignment and prevents performance and detection bias. A trial can be unblinded by necessity yet still have concealed allocation."},
+
+{"domain":"research","subdomain":"5.5","difficulty":"medium","correct_answer":0,
+ "stem":"A trial reports a statistically significant improvement in a walking measure that is far smaller than patients can perceive. What concept does this illustrate?",
+ "options":["A result below the minimal clinically important difference","A failure of the study's allocation concealment procedure","A type II error arising from insufficient statistical power","A violation of the intention-to-treat analysis principle"],
+ "rationale":"The minimal clinically important difference is the smallest change a patient perceives as meaningful. With a large enough sample, trivially small differences become statistically significant, so significance and importance must be judged separately. This is why trial reports should state both the effect size and the threshold for meaningful change."},
+
+{"domain":"research","subdomain":"5.4","difficulty":"medium","correct_answer":1,
+ "stem":"What does clinical equipoise mean in the context of a randomized trial?",
+ "options":["All participants have an equal chance of receiving the active drug","Genuine uncertainty exists in the expert community about which arm is better","The trial's arms are balanced for age, sex, and baseline disability","Investigators must remain blinded to the assignment throughout the study"],
+ "rationale":"Equipoise is the ethical precondition for randomization: if the community of experts genuinely does not know which arm is superior, assigning by chance does not knowingly disadvantage anyone. When accumulating data resolves that uncertainty, equipoise is lost and the trial should stop, which is one function of a data monitoring committee."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"medium","correct_answer":2,
+ "stem":"A patient reports uncontrollable episodes of laughing and crying that do not match how they feel. What is this?",
+ "options":["A major depressive episode presenting atypically in MS","A conversion reaction related to the stress of diagnosis","Pseudobulbar affect, from disruption of corticobulbar pathways","A recognized adverse effect of high-dose corticosteroid therapy"],
+ "rationale":"Pseudobulbar affect is involuntary emotional expression disconnected from the underlying mood state, caused by disrupted corticobulbar control. It is distressing and socially isolating, frequently mistaken for depression, and responds to dextromethorphan-quinidine or to tricyclics and SSRIs. Naming it for the patient and family is itself therapeutic."},
+
+{"domain":"clinical","subdomain":"2.4","difficulty":"hard","correct_answer":3,
+ "stem":"Which factor most consistently predicts employment loss in people with MS?",
+ "options":["The total number of T2 lesions counted on brain MRI","The specific disease-modifying therapy the patient receives","The number of relapses recorded in the first year after diagnosis","Cognitive impairment and fatigue, more than physical disability"],
+ "rationale":"Unemployment in MS correlates more strongly with cognitive dysfunction and fatigue than with EDSS or lesion burden, which is why these invisible symptoms deserve systematic screening. Early identification supports workplace accommodation under the ADA and vocational rehabilitation referral while the patient still holds the job."}
+]

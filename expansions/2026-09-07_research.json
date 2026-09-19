@@ -1,0 +1,366 @@
+{
+  "batch": "2026-09-07-research",
+  "source": "Core curriculum chs 1/9 and standard research methodology - original paraphrase, no verbatim text",
+  "questions": [
+    {
+      "id": "q0656",
+      "domain": "research",
+      "subdomain": "5.1",
+      "difficulty": "easy",
+      "stem": "In research terminology used in MS studies, a testable statement predicting the relationship between two variables is called a:",
+      "options": [
+        "Hypothesis",
+        "Diagnosis",
+        "Case report",
+        "Anecdote"
+      ],
+      "correct_answer": 0,
+      "rationale": "A hypothesis is a testable prediction about the relationship between variables; it guides study design, data collection, and the statistical tests chosen."
+    },
+    {
+      "id": "q0657",
+      "domain": "research",
+      "subdomain": "5.1",
+      "difficulty": "easy",
+      "stem": "In a randomized clinical trial of a new MS therapy, what is the main purpose of the standard-treatment (control) group?",
+      "options": [
+        "To provide a comparison against which the effect of the experimental intervention is measured",
+        "To be denied all medical care by design",
+        "To prevent the study from being published",
+        "To increase side effects on purpose"
+      ],
+      "correct_answer": 0,
+      "rationale": "A control group (active treatment or placebo) allows investigators to attribute observed differences to the intervention rather than to placebo effect, natural history, or the passage of time."
+    },
+    {
+      "id": "q0658",
+      "domain": "research",
+      "subdomain": "5.1",
+      "difficulty": "easy",
+      "stem": "Why are participants in a randomized DMT trial assigned to treatment arms by chance?",
+      "options": [
+        "To distribute known and unknown confounding factors evenly across groups",
+        "To shorten the duration of the trial",
+        "To guarantee every participant receives the new drug",
+        "Because nurses prefer random scheduling"
+      ],
+      "correct_answer": 0,
+      "rationale": "Random assignment balances confounders between groups so that, on average, the groups are comparable; any remaining outcome difference can then plausibly be attributed to the intervention rather than selection bias."
+    },
+    {
+      "id": "q0659",
+      "domain": "research",
+      "subdomain": "5.1",
+      "difficulty": "medium",
+      "stem": "A study measures disability (EDSS) in 500 people with MS on a single day. Which research design does this describe?",
+      "options": [
+        "Cross-sectional",
+        "Prospective cohort",
+        "Randomized controlled trial",
+        "Case-control"
+      ],
+      "correct_answer": 0,
+      "rationale": "A cross-sectional design measures exposure and outcome at one point in time - a snapshot of a population. Cohort studies follow people forward over time; RCTs randomize an intervention; case-control studies begin with outcome status and look back."
+    },
+    {
+      "id": "q0660",
+      "domain": "research",
+      "subdomain": "5.1",
+      "difficulty": "medium",
+      "stem": "The degree to which results of an MS trial can be attributed to the intervention itself, free of systematic error, refers to the study's:",
+      "options": [
+        "Internal validity",
+        "External validity",
+        "Face validity",
+        "Test-retest reliability"
+      ],
+      "correct_answer": 0,
+      "rationale": "Internal validity is freedom from confounding and bias within the study. External validity is the extent to which results generalize to real-world MS populations and practice settings."
+    },
+    {
+      "id": "q0661",
+      "domain": "research",
+      "subdomain": "5.1",
+      "difficulty": "medium",
+      "stem": "A researcher combines the results of 12 eligible randomized trials of the same MS intervention using statistical pooling. This is a:",
+      "options": [
+        "Meta-analysis",
+        "Case series",
+        "Chart review",
+        "Pilot study"
+      ],
+      "correct_answer": 0,
+      "rationale": "A meta-analysis statistically pools findings from individual studies (usually RCTs) selected through a systematic review. It increases precision and helps resolve conflicting single-trial results."
+    },
+    {
+      "id": "q0662",
+      "domain": "research",
+      "subdomain": "5.1",
+      "difficulty": "hard",
+      "stem": "Why do case reports and case series sit at the bottom of the hierarchy of treatment evidence?",
+      "options": [
+        "They lack comparison groups and are vulnerable to confounding, so they generate rather than confirm hypotheses",
+        "They are always fraudulent",
+        "They use too many participants to be credible",
+        "Regulations require them to be performed before every RCT"
+      ],
+      "correct_answer": 0,
+      "rationale": "Without a comparator or randomization, observed outcomes cannot be confidently attributed to the intervention, and natural history can mimic treatment effect. Case reports and series remain valuable for rare phenomena and hypothesis generation."
+    },
+    {
+      "id": "q0663",
+      "domain": "research",
+      "subdomain": "5.1",
+      "difficulty": "hard",
+      "stem": "In a double-blind MS trial, blinding is intended primarily to reduce:",
+      "options": [
+        "Bias in outcome assessment and reporting by participants and raters",
+        "The true efficacy of the drug",
+        "The cost of conducting the study",
+        "The need for ethics review"
+      ],
+      "correct_answer": 0,
+      "rationale": "Blinding reduces performance and detection bias: when neither participants nor raters know the assignment, reported symptoms and measured outcomes are less likely to be influenced by expectations."
+    },
+    {
+      "id": "q0664",
+      "domain": "research",
+      "subdomain": "5.2",
+      "difficulty": "easy",
+      "stem": "Which ethical principle requires that participants in an MS study understand the risks and benefits and voluntarily agree to take part?",
+      "options": [
+        "Respect for persons (autonomy), as operationalized through informed consent",
+        "Justice as cost allocation",
+        "Falsification of records",
+        "Confidentiality of advertising"
+      ],
+      "correct_answer": 0,
+      "rationale": "Informed consent operationalizes respect for autonomy: participants receive a full explanation of risks and benefits, comprehend it, agree voluntarily, and retain the right to withdraw at any time without penalty."
+    },
+    {
+      "id": "q0665",
+      "domain": "research",
+      "subdomain": "5.2",
+      "difficulty": "easy",
+      "stem": "Before an MS study involving human participants begins, the protocol is reviewed by an institutional review board (IRB/REB). The primary purpose of this review is to:",
+      "options": [
+        "Protect the rights, safety, and welfare of research participants",
+        "Approve marketing of the sponsor's drugs",
+        "Guarantee funding for the study",
+        "Choose the winning treatment arm in advance"
+      ],
+      "correct_answer": 0,
+      "rationale": "IRB/REB review ensures risks are minimized and reasonable relative to anticipated benefits, informed consent is adequate, and vulnerable participants are protected. It is a safeguard for participants, not a funding or marketing mechanism."
+    },
+    {
+      "id": "q0666",
+      "domain": "research",
+      "subdomain": "5.2",
+      "difficulty": "medium",
+      "stem": "The obligation to maximize the potential benefits of an MS trial while minimizing its harms expresses which ethical principle?",
+      "options": [
+        "Beneficence",
+        "Justice (fair distribution of burdens and benefits)",
+        "Autonomy (respecting the participant's choices)",
+        "Confidentiality (protecting research records)"
+      ],
+      "correct_answer": 0,
+      "rationale": "Beneficence is the duty to act in the participant's best interest - maximizing benefits and minimizing harms. Related but distinct: non-maleficence (do no harm), justice (fair selection and distribution of burdens and benefits), and respect for autonomy (voluntary choice)."
+    },
+    {
+      "id": "q0667",
+      "domain": "research",
+      "subdomain": "5.2",
+      "difficulty": "medium",
+      "stem": "A nurse researcher conducts a self-administered survey of adults with MS about their experiences of care, with no intervention or risk. Which IRB classification most likely applies?",
+      "options": [
+        "Exempt or minimal-risk classification with lighter review",
+        "Full continuing review with monitoring visits every two weeks",
+        "No ethical review is ever required for surveys",
+        "It must always be classified as high-risk"
+      ],
+      "correct_answer": 0,
+      "rationale": "Adult survey-only studies generally involve no more than minimal risk and commonly qualify for exemption, though most institutions still require IRB notification or determination. The key is that no ethics review is never the correct default."
+    },
+    {
+      "id": "q0668",
+      "domain": "research",
+      "subdomain": "5.2",
+      "difficulty": "medium",
+      "stem": "An MS trial enrolls participants with significant cognitive impairment. Which additional protection is most appropriate?",
+      "options": [
+        "Consent from a legally authorized representative, together with the participant's own assent when possible",
+        "Enrolling the participant with no consent at all because research takes priority",
+        "Consent obtained only from the sponsor's sales representative",
+        "No individual consent - IRB approval automatically covers all participants"
+      ],
+      "correct_answer": 0,
+      "rationale": "Vulnerable participants with impaired decision-making require consent from a legally authorized representative plus the participant's assent when feasible. IRB approval authorizes the study; it never substitutes for individual consent."
+    },
+    {
+      "id": "q0669",
+      "domain": "research",
+      "subdomain": "5.2",
+      "difficulty": "hard",
+      "stem": "Which practice VIOLATES the principle of justice in MS research?",
+      "options": [
+        "Selecting participants only because they are easy to recruit, without regard to who will benefit from the results",
+        "Randomly assigning participants to treatment arms",
+        "Requiring written informed consent",
+        "Reporting results, including null findings"
+      ],
+      "correct_answer": 0,
+      "rationale": "Justice requires fair selection of subjects and a fair distribution of the burdens and benefits of research. Convenience-only recruitment can systematically exploit or exclude populations whose needs the research is meant to address."
+    },
+    {
+      "id": "q0670",
+      "domain": "research",
+      "subdomain": "5.3",
+      "difficulty": "easy",
+      "stem": "When integrating evidence into MS care, which source of evidence generally ranks HIGHEST in the evidence hierarchy for treatment questions?",
+      "options": [
+        "A systematic review or meta-analysis of well-conducted randomized controlled trials",
+        "A single anecdotal case report",
+        "A nurse's personal opinion with no reference to the literature",
+        "An industry brochure without clinical data"
+      ],
+      "correct_answer": 0,
+      "rationale": "The standard hierarchy for treatment questions places systematic reviews/meta-analyses of RCTs at the top, followed by individual RCTs, cohort studies, case-control studies, case series, and expert opinion - reflecting increasing control of bias and generalizability."
+    },
+    {
+      "id": "q0671",
+      "domain": "research",
+      "subdomain": "5.3",
+      "difficulty": "medium",
+      "stem": "A nurse frames a clinical question: 'In adults with relapsing MS (P), does structured exercise (I) versus usual care (C) improve six-minute walk distance (O) within 12 weeks (T)?' Which format is this?",
+      "options": [
+        "PICOT",
+        "SOAP",
+        "SBAR",
+        "ABCDE"
+      ],
+      "correct_answer": 0,
+      "rationale": "PICOT (Population, Intervention, Comparator, Outcome, Time) structures a focused clinical question that can actually be answered by searching the literature. SOAP is a documentation format; SBAR is for handoff communication."
+    },
+    {
+      "id": "q0672",
+      "domain": "research",
+      "subdomain": "5.3",
+      "difficulty": "medium",
+      "stem": "Before applying a newly published MS rehabilitation guideline to clinic practice, which appraisal question should come FIRST?",
+      "options": [
+        "Are the results valid, clinically significant, and applicable to my own patient population?",
+        "How many pages long is the guideline?",
+        "Was it published in a glossy magazine?",
+        "Does the journal accept letters to the editor?"
+      ],
+      "correct_answer": 0,
+      "rationale": "Critical appraisal starts with validity (were confounders controlled?), clinical importance (are the effects meaningful?), and applicability (do the patients and setting match?). Only evidence that passes these checks deserves implementation."
+    },
+    {
+      "id": "q0673",
+      "domain": "research",
+      "subdomain": "5.3",
+      "difficulty": "hard",
+      "stem": "A unit implements a new MS bladder-management protocol derived from a published trial. Which indicator BEST evaluates whether the evidence-based change is working in practice?",
+      "options": [
+        "Changes in patient outcomes (for example, fewer catheterizations) relative to baseline, plus fidelity to the protocol",
+        "Whether the protocol is printed and posted",
+        "The number of protocol copies distributed",
+        "Staff sentiment alone, with no outcome data"
+      ],
+      "correct_answer": 0,
+      "rationale": "Evidence-based practice requires evaluation: outcome measures compared with the unit's own baseline establish whether change occurred, and fidelity data establish whether the protocol was actually delivered as intended. Process artifacts (pamphlets, postings) do not measure effect."
+    },
+    {
+      "id": "q0674",
+      "domain": "research",
+      "subdomain": "5.4",
+      "difficulty": "easy",
+      "stem": "Research that carries a basic-science finding such as a myelin antigen into the clinic, and brings a clinical observation such as heat-related worsening back to the laboratory, is called:",
+      "options": [
+        "Translational research",
+        "Retrospective chart abstraction",
+        "Pure epidemiology",
+        "Post-market surveillance only"
+      ],
+      "correct_answer": 0,
+      "rationale": "Translational research bridges laboratory discovery and clinical application in both directions. In MS, it has moved immune-pathology findings into therapies and turned bedside observations into new research questions."
+    },
+    {
+      "id": "q0675",
+      "domain": "research",
+      "subdomain": "5.4",
+      "difficulty": "medium",
+      "stem": "Experimental allergic encephalomyelitis (EAE) has historically served MS research by:",
+      "options": [
+        "Providing an animal model for testing immune mechanisms and potential treatments before human studies",
+        "Serving as a definitive diagnostic test in living humans",
+        "Replacing the need for clinical trials in humans",
+        "Acting as a treatment for relapses"
+      ],
+      "correct_answer": 0,
+      "rationale": "The EAE animal model, studied from the 1970s era of MS research onward, allowed investigation of immune mechanisms and early testing of candidates such as copolymer 1. It informs - but never replaces - well-designed human trials."
+    },
+    {
+      "id": "q0676",
+      "domain": "research",
+      "subdomain": "5.4",
+      "difficulty": "hard",
+      "stem": "Which activity BEST represents the specialist MS nurse's contribution to translational research?",
+      "options": [
+        "Identifying clinically relevant questions, enrolling and engaging patients, and monitoring outcomes and adverse events at the bedside",
+        "Performing all statistical analyses solo in isolation",
+        "Designing MRI protocols without radiologists",
+        "Publishing results without ethics approval"
+      ],
+      "correct_answer": 0,
+      "rationale": "Nurses sit at the interface of research and care: they translate clinical problems into answerable questions, recruit and retain participants, collect outcome and safety data, and carry findings back into practice - a core nurse role in research per the curriculum."
+    },
+    {
+      "id": "q0677",
+      "domain": "research",
+      "subdomain": "5.5",
+      "difficulty": "easy",
+      "stem": "A patient completes a standardized questionnaire about the severity of her fatigue and its effect on daily activities. This data type is known as:",
+      "options": [
+        "A patient-reported outcome",
+        "A blood assay",
+        "An MRI lesion count",
+        "A cerebrospinal fluid protein level"
+      ],
+      "correct_answer": 0,
+      "rationale": "Patient-reported outcomes (PROs) capture the patient's own perspective on symptoms, function, and quality of life. They are central in MS trials because key features such as fatigue and pain are inherently subjective."
+    },
+    {
+      "id": "q0678",
+      "domain": "research",
+      "subdomain": "5.5",
+      "difficulty": "medium",
+      "stem": "A fatigue scale that yields nearly identical scores when administered twice on the same day under the same conditions demonstrates high:",
+      "options": [
+        "Test-retest reliability",
+        "External validity",
+        "Randomization quality",
+        "Hypothesis specificity"
+      ],
+      "correct_answer": 0,
+      "rationale": "Reliability is the consistency of a measurement tool across repeated administrations. Reliability and validity are distinct: a measure can be consistent (reliable) without measuring what it claims to measure (valid) - and the reverse can also occur."
+    },
+    {
+      "id": "q0679",
+      "domain": "research",
+      "subdomain": "5.5",
+      "difficulty": "hard",
+      "stem": "Why do MS disease-modifying therapy trials typically combine objective disability endpoints such as confirmed EDSS progression and MRI lesion counts with patient-reported outcomes?",
+      "options": [
+        "Because objective scales and imaging miss important patient-centered dimensions such as fatigue and pain",
+        "Because patient-reported outcomes must replace all objective measures",
+        "Because EDSS and MRI are unvalidated in MS",
+        "Because patient reports are automatically more accurate than relapse measures"
+      ],
+      "correct_answer": 0,
+      "rationale": "MS is multidimensional: relapses, disability progression, imaging activity, and subjective symptoms all carry meaning for patients. Combining objective endpoints (EDSS progression, lesion burden) with PROs makes trials more sensitive and clinically meaningful."
+    }
+  ]
+}
