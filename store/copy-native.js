@@ -16,4 +16,10 @@ if (!fs.existsSync(src)) {
   process.exit(1);
 }
 fs.copyFileSync(src, dst);
-console.log("copied:", src, "->", dst);
+const out = fs.readFileSync(dst, "utf8");
+if (out.includes("MS-CERT-CAPACITOR-STUB") || !/capacitor/i.test(out)) {
+  console.error("copied file does not look like the real Capacitor bridge:", dst);
+  process.exit(1);
+}
+console.log("copied:", src, "->", dst, "(" + out.length + " bytes)");
+console.log("NOTE: re-run `npx cap sync` so android/ and ios/ pick it up.");

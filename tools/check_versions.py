@@ -50,6 +50,19 @@ def main():
           bool(m_bank) and int(m_bank.group(1)) == real,
           "bank.js=%s canonical=%d" % (m_bank and m_bank.group(1), real))
 
+    # sw.js precaches this file, so it must exist in a hostable tree — but
+    # the web build intentionally carries the committed stub; only the
+    # store build (node store/copy-native.js) replaces it with the bridge.
+    cap = os.path.join(PWA, "js", "capacitor.js")
+    check("js/capacitor.js present (stub ok for web build)",
+          os.path.isfile(cap),
+          "repo lost the stub; store builds need node store/copy-native.js")
+    if os.path.isfile(cap):
+        cap_txt = open(cap, encoding="utf-8").read()
+        if "MS-CERT-CAPACITOR-STUB" in cap_txt:
+            print("  INFO  capacitor.js is the web stub — correct for "
+                  "hosting/PWA; store builds replace it")
+
     if failures:
         print("VERSION CHECK: FAILED")
         return 1

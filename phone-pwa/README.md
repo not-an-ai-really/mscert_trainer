@@ -6,15 +6,15 @@ the MS-Cert question bank. No account, no server at runtime — the entire
 
 | | |
 | --- | --- |
-| Bank source | `../tools/questions.json` (compiled into `js/bank.js` at build time) |
-| Requirements | Any modern phone browser (iOS Safari / Android Chrome). Node for the build tools |
-| Build | `node ../tools/build_bank.js` from the repo root |
+| Bank source | `../questions_complete.json` (compiled into `js/bank.js` at build time) |
+| Requirements | Any modern phone browser (iOS Safari / Android Chrome). Python 3 for the build tools |
+| Build | `python tools\build_bank_js.py` from the repo root |
 
 ## Use it on your phone
 
 ### Option A — from this PC (immediate, same WiFi)
 
-1. Run **`../tools/serve-local.bat`**.
+1. Run **`../start-local-server.bat`** from the repo root.
 2. Open the printed `PHONE_URL` (e.g. `http://192.168.1.23:8080`) on the phone,
    on the same network.
 3. Browser menu → **Add to Home Screen** (iOS: Share → Add to Home Screen;
@@ -52,17 +52,22 @@ device's local storage and nowhere else. See `../PRIVACY.md`.
 
 ## Update the question bank
 
-Edit `../tools/questions.json`, or append a batch with the helper, then
-rebuild:
+Append a validated batch (see `../expansions\` for format), regenerate, and
+bump versions — all from the repo root:
 
-```bash
-node tools/add_questions.js batch.json   # optional: append + validate new items
-node tools/audit_bank.js                 # quality gate; non-zero exit on defects
-node tools/build_bank.js                 # regenerate js/bank.js, bump sw VERSION
+```bat
+python tools\add_questions.py expansions\<new-batch>.json   rem validate + merge
+python tools\build_bank_js.py    rem regenerate js/bank.js (BANK_COUNT included)
+rem bump the cache version so phones replace the old bank:
+rem   phone-pwa\sw.js  const VERSION = "vX.Y.Z"
+rem   phone-pwa\js\app.js  APP_VERSION
+check.bat    rem full audit + smoke test + syntax + version consistency
 ```
 
-`build_bank.js` bumps the service worker `VERSION` itself, so installed phones
-pick up the new bank on next load. Bump `CONTENT_REVIEWED` in `js/app.js`
-whenever clinical content is reviewed — it is shown on the About screen.
+The service worker `VERSION` bump (not the build script) is what makes
+installed phones pick up the new bank on next load. Bump
+`CONTENT_REVIEWED` in `js/app.js` whenever clinical content is reviewed
+— it is shown on the About screen.
 
-Do not hand-edit `js/bank.js`; it is generated and will be overwritten.
+Do not hand-edit `js/bank.js` or `js/capacitor.js`; `bank.js` is generated
+and `capacitor.js` is a stub that store builds replace with the real bridge.

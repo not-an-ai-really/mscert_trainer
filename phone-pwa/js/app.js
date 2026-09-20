@@ -3,7 +3,7 @@
    lives in localStorage. Works offline once loaded (see sw.js). */
 "use strict";
 
-const APP_VERSION = "1.3.0";
+const APP_VERSION = "1.3.1";
 // Date the clinical content was last reviewed. Surface it in About and bump
 // it with every content pass — store review for health apps asks for this.
 const CONTENT_REVIEWED = "September 2026";

@@ -1,5 +1,7 @@
 node_modules/
 android/
 ios/
-phone-pwa/js/capacitor.js
 *.log
+# NOTE: phone-pwa/js/capacitor.js is deliberately TRACKED - it ships as the
+# web stub (see store/BUILD_GUIDE.md); store builds overwrite it via
+# `node store/copy-native.js` after npm install.

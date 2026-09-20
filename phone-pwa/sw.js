@@ -6,7 +6,7 @@
 */
 "use strict";
 
-const VERSION = "v1.3.0"; // native shell features (haptics, notifications)
+const VERSION = "v1.3.1"; // hostable web build: capacitor stub committed, SW install no longer 404s
 const CACHE = "mscert-" + VERSION;
 
 const PRECACHE = [

@@ -1,6 +1,7 @@
 @echo off
 rem MS-Cert Trainer - one-click local server.
-rem Serves this folder on the LAN so a phone on the same WiFi can open it.
+rem Serves the PWA (phone-pwa as document root) on the LAN so a phone on
+rem the same WiFi can open it directly at PHONE_URL.
 setlocal
 cd /d "%~dp0"
 
@@ -14,5 +15,5 @@ echo (Install/offline features need HTTPS - see the publishing guide.)
 echo Keep this window open while you study. Ctrl+C stops the server.
 echo.
 
-python -m http.server 8080 --bind 0.0.0.0
+python -m http.server 8080 --bind 0.0.0.0 --directory phone-pwa
 endlocal

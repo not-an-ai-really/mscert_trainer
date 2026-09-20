@@ -11,8 +11,12 @@ but the app still runs as a PWA (the native calls no-op outside the shell).
   daily study-reminder toggle, next-morning "review your misses" nudge.
   All native calls feature-detected; web build unchanged.
 - `phone-pwa/index.html` — loads `js/capacitor.js` (bridge), new reminder UI
-- `phone-pwa/sw.js` — v1.3.0, precaches `js/capacitor.js`
-- `store/copy-native.js` — copies the core bridge JS into the web bundle
+- `phone-pwa/js/capacitor.js` — ships as a **~1 KB web stub** (`"MS-CERT-CAPACITOR-
+  STUB"` marker) so the hosted PWA tree is self-contained: sw.js precaches it and
+  a 404 there would abort service-worker install and kill offline mode
+- `phone-pwa/sw.js` — v1.3.1, precaches `js/capacitor.js`
+- `store/copy-native.js` — copies the core bridge JS into the web bundle,
+  **overwriting the stub**, and sanity-checks the result
 - Listings + review notes: `store/APPSTORE_LISTING.md`, `store/PLAYSTORE_LISTING.md`
 
 ## One-time setup (on the machine with Android Studio / Xcode)
@@ -30,6 +34,10 @@ Notes:
   and `ios/App/App/public/`, and wires the `@capacitor/haptics` and
   `@capacitor/local-notifications` plugins into both native projects.
 - Re-run `node store/copy-native.js && npx cap sync` after ANY web change.
+- After `copy-native.js`, confirm `phone-pwa\js\capacitor.js` is the real
+  bridge (tens of KB, prints its byte count) and NOT the ~1 KB stub —
+  shipping the stub to a store build means no haptics/notifications, which
+  is a silent regression.
 - App ID: `com.notanai.mscerttrainer` (in `capacitor.config.ts`). If it's
   taken, change it BEFORE your first build/signing — not after.
 - `android/` and `ios/` are git-ignored (see `.gitignore`); they are
@@ -75,5 +83,6 @@ Notes:
 ## Versioning
 
 - Store version: 1.0 (build 1) for both.
-- In-app `APP_VERSION` in `phone-pwa/js/app.js` is now `1.3.0`; bump with
-  every content/code pass and note it in release notes.
+- In-app `APP_VERSION` in `phone-pwa/js/app.js` is now `1.3.1`; bump it (and
+  the matching `VERSION` in `phone-pwa/sw.js`) with every content/code pass
+  and note it in release notes.

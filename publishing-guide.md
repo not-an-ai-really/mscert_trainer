@@ -1,6 +1,6 @@
 # MS-Cert Trainer — Publishing Guide (phone app)
 
-Goal: get the 589-question PWA onto Jeff's phone as a real "app" —
+Goal: get the 799-question PWA onto Jeff's phone as a real "app" —
 icon on the home screen, launches full-screen, **works offline**, no
 account, no PC needed after it's hosted once.
 
@@ -8,7 +8,7 @@ The app is packaged and checked:
 
 ```
 phone-pwa\                <- the app (self-contained, no server required)
-mscert-phone-pwa-v1.1.0.zip
+mscert-phone-pwa-v1.3.1.zip
 check.bat                 <- one-command verification suite (all passing)
 ```
 
@@ -36,8 +36,9 @@ for a personal study tool.
 
 ## Option B first (do this today, no hosting at all)
 
-1. On the PC, in `mscert\phone-pwa`, double-click **`start.bat`**.
-2. It prints a `PHONE_URL` like `http://192.168.1.23:8080`.
+1. On the PC, in the `mscert` folder, double-click **`start-local-server.bat`**.
+2. It prints a `PHONE_URL` like `http://192.168.1.23:8080` (serves `phone-pwa`
+   at that exact URL).
 3. On the phone (connected to the **same WiFi**), open that URL in
    Chrome/Safari.
 4. Use it right away. Optionally: browser menu → **Add to Home Screen**
@@ -53,10 +54,10 @@ the keeper.
 
 ### What you are uploading
 
-**The contents** of `mscert\phone-pwa` (8 items):
+**The contents** of `mscert\phone-pwa`:
 
 ```
-index.html  sw.js  manifest.webmanifest  css\  js\  icons\
+index.html  sw.js  manifest.webmanifest  css\  js\  icons\  README.md
 ```
 
 Do **not** upload the parent `mscert` folder, `tools`, or the zipped
@@ -141,7 +142,7 @@ rem 3. regenerate the embedded bank file
 python tools\build_bank_js.py
 
 rem 4. bump the cache version so phones replace the old bank
-rem    — edit ONE number in phone-pwa\sw.js   (const VERSION = "v1.1.0")
+rem    — edit ONE number in phone-pwa\sw.js   (const VERSION = "v1.3.1")
 rem    — edit the matching one in phone-pwa\js\app.js  (APP_VERSION)
 
 rem 5. run the whole check suite (audit + PWA test + JS syntax + versions)
@@ -184,7 +185,7 @@ study content — another reason to keep the hosted version personal.
 
 ## What to remember
 
-- **The app has no server.** All 589 questions and all your progress
+- **The app has no server.** All 799 questions and all your progress
   live on the device; nothing is uploaded or tracked.
 - **Offline works only on HTTPS hosts** (Netlify/GitHub Pages/Cloudflare
   all qualify — Option B on the LAN does not).
@@ -192,4 +193,4 @@ study content — another reason to keep the hosted version personal.
   screen ("Reset progress" line) if you ever want a clean slate.
 - The desktop trainer (`desktop-trainer\`) and web trainer
   (`web-trainer\`) both read the same `questions_complete.json`, so they
-  automatically use the 589-question bank.
+  automatically use the 799-question bank.
