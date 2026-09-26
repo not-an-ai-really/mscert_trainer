@@ -4747,9 +4747,9 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS on ocrelizumab is pregnant. What is the recommendation for management?",
       "options": [
-        "Continue through pregnancy",
-        "Switch to high-dose steroids",
-        "Increase dosing frequency",
+        "Continue through pregnancy with monitoring",
+        "Switch to high-dose steroids for the remainder",
+        "Increase the dosing frequency during pregnancy",
         "Discontinue at least 6 months before conception"
       ],
       "correct_answer": 3,
@@ -4807,9 +4807,9 @@
       "difficulty": "hard",
       "stem": "A patient with MS has severe heat sensitivity. Which intervention is most effective for long-term management?",
       "options": [
-        "Long-term corticosteroids",
-        "Daily cold baths",
-        "Heat exposure therapy",
+        "Long-term corticosteroids daily",
+        "Daily cold baths for the rest of the year",
+        "Heat exposure therapy to build tolerance",
         "Cooling vests and lifestyle modifications"
       ],
       "correct_answer": 3,
@@ -4822,10 +4822,10 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS on fingolimod has a heart rate of 48 bpm and symptomatic bradycardia. What is the management?",
       "options": [
-        "Continue with ECG monitoring",
+        "Continue with routine ECG monitoring",
         "Hold fingolimod and evaluate for pacemaker",
-        "Switch to oral therapy",
-        "Reduce to 0.58 mg and monitor"
+        "Switch to another oral therapy immediately",
+        "Reduce to 0.58 mg and keep monitoring"
       ],
       "correct_answer": 1,
       "rationale": "Symptomatic bradycardia on fingolimod requires holding the medication and evaluating for underlying cardiac conduction issues. Patients with first-degree AV block or symptomatic bradycardia may require cardiac evaluation and potential pacemaker placement before re-initiation or switching DMT."
@@ -4852,10 +4852,10 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS on high-efficacy DMT develops PML confirmed on MRI and CSF. What is the management?",
       "options": [
-        "Increase DMT dose",
+        "Increase the DMT dose for better control",
         "Discontinue DMT and initiate immune reconstitution",
-        "Add antifungal therapy",
-        "Continue DMT with monitoring"
+        "Add antifungal therapy for the infection",
+        "Continue the DMT with closer monitoring"
       ],
       "correct_answer": 1,
       "rationale": "PML requires immediate discontinuation of the causative DMT (especially natalizumab) and supportive care. Immune reconstitution is critical; immune recovery can worsen PML (IRIS), requiring careful monitoring."
@@ -4867,10 +4867,10 @@
       "difficulty": "medium",
       "stem": "Which intervention is most helpful for MS patients with urinary incontinence and mobility issues?",
       "options": [
-        "Restrict fluid intake",
+        "Restrict fluid intake throughout the day",
         "Scheduled toileting and assistive devices",
-        "Bladder removal",
-        "Indwelling catheter"
+        "Bladder removal as the definitive option",
+        "Indwelling catheter for all voiding"
       ],
       "correct_answer": 1,
       "rationale": "Scheduled toileting (timed voiding) combined with assistive devices (walker, commode) maximizes continence and safety for MS patients with mobility limitations, preserving independence while preventing accidents."
@@ -4883,9 +4883,9 @@
       "stem": "A patient starting fingolimod requires which baseline cardiac evaluation?",
       "options": [
         "ECG to assess heart rate and PR interval",
-        "Echocardiogram",
-        "Stress test",
-        "Cardiac catheterization"
+        "Echocardiogram to check the valves",
+        "Stress test before the first dose",
+        "Cardiac catheterization for the baseline"
       ],
       "correct_answer": 0,
       "rationale": "Baseline ECG is required before starting fingolimod to assess resting heart rate and PR interval. Patients with heart block or significant bradycardia require cardiac evaluation before initiation."
@@ -5032,10 +5032,10 @@
       "difficulty": "hard",
       "stem": "A patient with severe MS has complex bowel dysfunction with constipation and overflow incontinence. What is the management approach?",
       "options": [
-        "Restrict all fluids",
+        "Restrict all fluids to control incontinence",
         "Structured bowel program with scheduled bowel care",
-        "High-dose opioids",
-        "Stool softeners only"
+        "High-dose opioids for the bowel issue",
+        "Stool softeners only, no schedule"
       ],
       "correct_answer": 1,
       "rationale": "A structured bowel program including scheduled toilet time, fiber, hydration, and possibly stool softeners/laxatives provides comprehensive management of MS-related bowel dysfunction, addressing both constipation and incontinence."
@@ -5107,9 +5107,9 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS on dimethyl fumarate develops facial flushing after 6 months of treatment. What is the appropriate action?",
       "options": [
-        "Discontinue immediately",
-        "Add high-dose steroids",
-        "Switch to placebo",
+        "Discontinue the therapy immediately",
+        "Add high-dose steroids for the flushing",
+        "Switch to placebo for comparison",
         "Take with food and consider dose reduction"
       ],
       "correct_answer": 3,
@@ -5122,10 +5122,10 @@
       "difficulty": "hard",
       "stem": "A patient with severe MS has severe speech difficulties (dysarthria) and cannot eat safely. What is the management?",
       "options": [
-        "Isolation",
-        "IV antibiotics",
+        "Isolation from the care team",
+        "IV antibiotics for the swallowing issue",
         "Speech therapy and modified diet, consider feeding tube",
-        "Force feeding"
+        "Force feeding to prevent further weight loss"
       ],
       "correct_answer": 2,
       "rationale": "Speech-language pathology evaluation determines safe swallowing strategies, diet modifications, and need for feeding tube. Comprehensive management addresses both communication and nutrition needs."
@@ -5168,9 +5168,9 @@
       "stem": "Which intervention is recommended for MS patients with heat sensitivity?",
       "options": [
         "Cooling vests and air conditioning",
-        "Hot tubs daily",
-        "No precautions",
-        "Exercise in heat"
+        "Hot tubs daily for muscle relaxation",
+        "No precautions needed at all",
+        "Exercise in the heat to build tolerance"
       ],
       "correct_answer": 0,
       "rationale": "Cooling strategies including vests, air conditioning, cool showers, and avoiding peak heat exposure help manage Uhthoff phenomenon and improve quality of life for MS patients with heat sensitivity."
@@ -5183,9 +5183,9 @@
       "stem": "Which laboratory monitoring is required for patients on teriflunomide?",
       "options": [
         "Liver function tests and pregnancy testing",
-        "Only pregnancy testing",
-        "Only CBC",
-        "No monitoring required"
+        "Only pregnancy testing each month",
+        "Only a complete blood count",
+        "No laboratory monitoring required"
       ],
       "correct_answer": 0,
       "rationale": "Teriflunomide requires monthly liver function monitoring for the first 6 months and pregnancy testing due to teratogenicity. Women must use two contraceptive methods during treatment and for 2 months after."
@@ -5227,9 +5227,9 @@
       "difficulty": "medium",
       "stem": "Which intervention is most effective for MS patients with severe fatigue?",
       "options": [
-        "Corticosteroids",
-        "Antibiotics",
-        "Dalfampridine",
+        "Corticosteroids for the fatigue",
+        "Antibiotics for the underlying cause",
+        "Dalfampridine for the fatigue",
         "Rest, energy conservation, and exercise"
       ],
       "correct_answer": 3,
@@ -5242,10 +5242,10 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS on fingolimod develops macular edema 2 months after starting treatment. What is the management?",
       "options": [
-        "Add topical antibiotics",
+        "Add topical antibiotics for the eye area",
         "Discontinue fingolimod and refer to ophthalmology",
-        "Continue with monitoring",
-        "Increase dose"
+        "Continue with monitoring each month",
+        "Increase the fingolimod dose"
       ],
       "correct_answer": 1,
       "rationale": "New onset macular edema on fingolimod requires discontinuation of the medication and ophthalmologic evaluation. Patients should have baseline and periodic eye exams, particularly in first 3-4 months."
@@ -5272,10 +5272,10 @@
       "difficulty": "hard",
       "stem": "A patient with severe MS has severe bladder dysfunction with both retention and urgency. What is the most comprehensive management?",
       "options": [
-        "Indwelling catheter only",
-        "Anticholinergic only",
+        "Indwelling catheter only for the retention issues",
+        "Anticholinergic only for the urgency symptoms",
         "Clean intermittent catheterization (CIC) plus anticholinergic",
-        "No intervention"
+        "No intervention at this stage"
       ],
       "correct_answer": 2,
       "rationale": "Combined management using CIC for retention and anticholinergics for overactivity provides comprehensive bladder care for mixed voiding dysfunction, preventing complications while maintaining continence."
@@ -5302,10 +5302,10 @@
       "difficulty": "medium",
       "stem": "Which intervention is recommended for MS patients with sexual dysfunction?",
       "options": [
-        "Steroid therapy",
-        "Surgery only",
+        "Steroid therapy as the first-line treatment option",
+        "Surgery only, with no conservative options",
         "Phosphodiesterase inhibitors and communication counseling",
-        "No treatment available"
+        "No treatment is available for the symptoms"
       ],
       "correct_answer": 2,
       "rationale": "MS-related sexual dysfunction can be treated with PDE5 inhibitors (sildenafil, etc.) for erectile dysfunction, lubricants for vaginal dryness, and counseling for psychological aspects. Open communication is essential."
@@ -5333,9 +5333,9 @@
       "stem": "A patient with severe MS has dysphagia with risk of aspiration. What is the first-line management?",
       "options": [
         "Speech therapy and diet modification",
-        "Immediate intubation",
-        "No intervention",
-        "IV fluids only"
+        "Immediate intubation at the bedside",
+        "No intervention until symptoms resolve",
+        "IV fluids only for the intake"
       ],
       "correct_answer": 0,
       "rationale": "Speech-language pathology evaluation for swallowing assessment, diet modification (thickened liquids, soft foods), and compensatory strategies are first-line for dysphagia management in MS."
@@ -5377,9 +5377,9 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS on natalizumab has JCV antibody negative status but develops new MRI lesions. What is the consideration?",
       "options": [
-        "Add corticosteroids indefinitely",
-        "Continue natalizumab without change",
-        "Increase natalizumab dose",
+        "Add corticosteroids indefinitely for disease control",
+        "Continue natalizumab without any change",
+        "Increase the natalizumab dose",
         "JCV conversion may have occurred; retest and consider switch"
       ],
       "correct_answer": 3,
@@ -5407,9 +5407,9 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS on dimethyl fumarate develops severe lymphopenia (lymphocytes 300/mm³). What is the management?",
       "options": [
-        "Continue with monitoring",
-        "Add immunosuppressants",
-        "Increase dose",
+        "Continue with monitoring each week",
+        "Add immunosuppressants for protection",
+        "Increase the fumarate dose",
         "Hold therapy until lymphocytes recover >500/mm³"
       ],
       "correct_answer": 3,
@@ -5422,9 +5422,9 @@
       "difficulty": "hard",
       "stem": "A patient with severe progressive MS has global disability and requires 24-hour care. What support is most appropriate?",
       "options": [
-        "Isolation",
-        "Hospitalization only",
-        "No support available",
+        "Isolation from the family",
+        "Hospitalization only, no home care",
+        "No support available for the family at home",
         "Home health care and assistive devices assessment"
       ],
       "correct_answer": 3,
@@ -5452,10 +5452,10 @@
       "difficulty": "medium",
       "stem": "Which lifestyle modification is recommended for MS patients with fatigue?",
       "options": [
-        "Complete bed rest",
+        "Complete bed rest for the fatigue",
         "Regular moderate exercise and energy conservation",
-        "Strenuous exercise daily",
-        "No lifestyle changes"
+        "Strenuous exercise daily, no rest periods",
+        "No lifestyle changes recommended"
       ],
       "correct_answer": 1,
       "rationale": "Regular moderate exercise and energy conservation strategies are evidence-based interventions for MS fatigue. Programs should be individualized and started at low intensity, gradually progressing."
@@ -5467,10 +5467,10 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS on fingolimod has a heart rate of 52 bpm and no symptoms. What is the management?",
       "options": [
-        "Add beta-blockers",
-        "Discontinue immediately",
+        "Add beta-blockers for the rate",
+        "Discontinue the therapy immediately",
         "Continue with extended cardiac monitoring",
-        "Increase dose"
+        "Increase the dose for efficacy"
       ],
       "correct_answer": 2,
       "rationale": "Asymptomatic bradycardia on fingolimod requires extended cardiac monitoring (7+ hours) after first dose. If no conduction abnormalities develop, treatment may continue with cardiac surveillance."
@@ -5482,9 +5482,9 @@
       "difficulty": "hard",
       "stem": "A patient with MS has severe bladder retention with post-void residual >300 mL and recurrent UTIs. What is the management?",
       "options": [
-        "Fluid restriction",
-        "No intervention",
-        "Anticholinergics only",
+        "Fluid restriction for the retention",
+        "No intervention is needed at all",
+        "Anticholinergics only for the bladder",
         "Clean intermittent catheterization (CIC)"
       ],
       "correct_answer": 3,
@@ -5528,9 +5528,9 @@
       "stem": "A patient with RRMS on natalizumab develops a suspected PML (new neurological symptoms with JCV positive). What is the management?",
       "options": [
         "Discontinue natalizumab and evaluate with MRI and CSF",
-        "Add immunosuppressants",
-        "Continue natalizumab",
-        "Increase natalizumab dose"
+        "Add immunosuppressants for the new symptoms",
+        "Continue natalizumab with monitoring",
+        "Increase the natalizumab dose"
       ],
       "correct_answer": 0,
       "rationale": "PML requires immediate natalizumab discontinuation and comprehensive evaluation (MRI, CSF JC virus PCR). Rapid immunological reconstitution after discontinuation can worsen PML (IRIS)."
@@ -5542,9 +5542,9 @@
       "difficulty": "medium",
       "stem": "Which intervention is recommended for MS patients with sleep disturbance?",
       "options": [
-        "Caffeine at night",
-        "No sleep allowed",
-        "Sedatives only",
+        "Caffeine at night for the alertness levels",
+        "No sleep allowed for a week",
+        "Sedatives only, no hygiene work",
         "Sleep hygiene education and regular schedule"
       ],
       "correct_answer": 3,
@@ -5572,9 +5572,9 @@
       "difficulty": "hard",
       "stem": "A patient with severe MS has severe dysphagia with aspiration and recurrent pneumonia. What is the definitive management?",
       "options": [
-        "Thickened liquids only",
-        "No intervention",
-        "Antibiotics only",
+        "Thickened liquids only for all meals",
+        "No intervention for the aspiration",
+        "Antibiotics only for the pneumonia",
         "PEG tube placement for nutrition and hydration"
       ],
       "correct_answer": 3,
@@ -5648,9 +5648,9 @@
       "stem": "In the pathophysiology of multiple sclerosis, what is the primary pathological process that occurs at the onset of the disease?",
       "options": [
         "Disruption of the blood-brain barrier and immune cell infiltration",
-        "Oligodendrocyte hyperplasia",
-        "Demyelination without inflammation",
-        "Axonal regeneration"
+        "Oligodendrocyte hyperplasia before the first lesion appears",
+        "Demyelination without any inflammatory component",
+        "Axonal regeneration at the time of disease onset"
       ],
       "correct_answer": 0,
       "rationale": "The initial pathological process in MS involves disruption of the blood-brain barrier, which allows autoreactive T cells and other immune cells to infiltrate the CNS, initiating the inflammatory cascade that leads to demyelination and axonal damage."
@@ -5662,10 +5662,10 @@
       "difficulty": "hard",
       "stem": "Which cellular component is primarily responsible for remyelination in MS, and what is a key limitation of this process in established disease?",
       "options": [
-        "Endothelial cells - they cannot penetrate CNS tissue",
-        "Microglia - they cause excessive demyelination",
+        "Endothelial cells - they cannot penetrate CNS tissue at all stages",
+        "Microglia - they cause excessive demyelination in all lesions",
         "Oligodendrocyte precursor cells - differentiation and maturation are impaired",
-        "Astrocytes - they cannot generate myelin"
+        "Astrocytes - they cannot generate myelin in the CNS"
       ],
       "correct_answer": 2,
       "rationale": "Oligodendrocyte precursor cells (OPCs) are responsible for remyelination, but in MS, their differentiation and maturation into functional oligodendrocytes become impaired over time, particularly in chronic lesions where remyelination fails to occur."
@@ -5692,10 +5692,10 @@
       "difficulty": "hard",
       "stem": "A researcher is studying the role of oligodendrocytes in MS. Which statement best describes their function in the CNS?",
       "options": [
-        "They provide structural support and maintain extracellular ion balance",
-        "They primarily function as immune cells to clear cellular debris",
+        "They provide structural support and maintain extracellular ion balance in the CNS",
+        "They primarily function as immune cells to clear cellular debris in lesions",
         "They produce myelin sheaths that insulate axons and facilitate rapid signal conduction",
-        "They form the blood-brain barrier to protect the CNS"
+        "They form the blood-brain barrier to protect the CNS from the blood"
       ],
       "correct_answer": 2,
       "rationale": "Oligodendrocytes are glial cells in the CNS responsible for producing and maintaining myelin sheaths around axons. This myelination allows for rapid saltatory conduction of nerve impulses. In MS, oligodendrocytes and their myelin are targets of autoimmune attack."
@@ -5708,9 +5708,9 @@
       "stem": "What is the significance of neuroaxonal loss in MS pathophysiology, particularly regarding clinical disability?",
       "options": [
         "It is irreversible and correlates with permanent disability and disease progression",
-        "It primarily occurs during remyelination and is reversible",
-        "It is the primary early event that causes all initial symptoms",
-        "It is a compensatory mechanism that improves neurological function"
+        "It primarily occurs during remyelination and is fully reversible over time",
+        "It is the primary early event that causes all of the initial symptoms",
+        "It is a compensatory mechanism that improves neurological function overall"
       ],
       "correct_answer": 0,
       "rationale": "Neuroaxonal loss is a critical feature of MS pathophysiology. Unlike demyelination, axonal damage is irreversible and correlates strongly with permanent disability accumulation and disease progression, particularly in progressive forms of MS."
@@ -5737,10 +5737,10 @@
       "difficulty": "hard",
       "stem": "How does the blood-brain barrier (BBB) disruption contribute to MS pathology?",
       "options": [
-        "BBB disruption allows peripheral immune cells and antibodies to enter the CNS and initiate inflammation",
+        "BBB disruption allows immune cells and antibodies to enter the CNS and initiate inflammation",
         "BBB disruption prevents all immune cells from entering, protecting the CNS",
-        "BBB disruption is a late event that occurs only in end-stage disease",
-        "BBB disruption leads to increased myelin production as a compensatory mechanism"
+        "BBB disruption is a late event that occurs only in end-stage forms",
+        "BBB disruption leads to increased myelin production as a compensatory mechanism over time"
       ],
       "correct_answer": 0,
       "rationale": "Blood-brain barrier disruption is an early event in MS pathogenesis. The breakdown of the BBB allows peripheral immune cells (T cells, B cells, monocytes) and inflammatory mediators to enter the CNS, initiating the inflammatory cascade that leads to demyelination and axonal damage."
@@ -5752,10 +5752,10 @@
       "difficulty": "medium",
       "stem": "Which neuroanatomical feature best explains why MS patients may experience multiple, seemingly unrelated neurological symptoms?",
       "options": [
-        "MS selectively affects only motor pathways",
-        "MS primarily affects peripheral nerves",
-        "MS only affects the spinal cord",
-        "MS lesions can occur anywhere in the CNS, including brain, optic nerves, and spinal cord"
+        "MS selectively affects only the motor pathways and spares other tracts",
+        "MS primarily affects the peripheral nerves and the nerve root zone",
+        "MS only affects the spinal cord and never the brain or optic nerves",
+        "MS lesions can occur anywhere in the CNS - brain, optic nerves, spinal cord"
       ],
       "correct_answer": 3,
       "rationale": "Multiple sclerosis is characterized by disseminated CNS lesions that can occur in any area including optic nerves, brainstem, cerebellum, cerebral white matter, and spinal cord. This multifocal nature explains the wide variety of possible symptoms depending on lesion location."
@@ -5782,10 +5782,10 @@
       "difficulty": "hard",
       "stem": "A researcher wants to track cognitive processing speed changes over time in an MS clinical trial. Which component of the MSFC is most appropriate?",
       "options": [
-        "Fatigue Severity Scale",
-        "9-Hole Peg Test",
-        "Timed 25-Foot Walk",
-        "Paced Auditory Serial Addition Test (PASAT) or Symbol Digit Modalities Test (SDMT)"
+        "Fatigue Severity Scale (FSS) for symptoms",
+        "9-Hole Peg Test (9HPT) for dexterity",
+        "Timed 25-Foot Walk (T25FW) for mobility",
+        "Symbol Digit Modalities Test (SDMT) or PASAT"
       ],
       "correct_answer": 3,
       "rationale": "The Paced Auditory Serial Addition Test (PASAT) or Symbol Digit Modalities Test (SDMT) are the cognitive components of the MSFC, specifically designed to assess processing speed and working memory, which are commonly affected in MS."
@@ -5843,9 +5843,9 @@
       "stem": "A 55-year-old patient has an EDSS score of 6.0. What functional status does this score indicate?",
       "options": [
         "Unilateral walking aid (cane) required beyond 100 meters",
-        "Wheelchair-bound but self-care intact",
-        "Moderate disability, walking without aid",
-        "Normal neurological function"
+        "Wheelchair-bound but self-care still intact",
+        "Moderate disability, walking without any aid",
+        "Normal neurological function on exam"
       ],
       "correct_answer": 0,
       "rationale": "An EDSS score of 6.0 indicates unilateral walking assistance is needed beyond 100 meters (typically a cane or crutch). This represents a significant disability level where walking is impaired but the patient is still ambulatory with support."
@@ -5887,10 +5887,10 @@
       "difficulty": "medium",
       "stem": "Which of the following is an established benefit of rehabilitation strategies in MS care?",
       "options": [
-        "Rehabilitation can reverse demyelination",
-        "Rehabilitation can improve function, compensate for deficits, and enhance quality of life",
-        "Rehabilitation replaces the need for DMTs",
-        "Rehabilitation eliminates all MS symptoms"
+        "Rehabilitation can reverse demyelination and restore the myelin",
+        "Rehabilitation improves function and quality of life, compensating for deficits",
+        "Rehabilitation replaces the need for all disease-modifying therapies",
+        "Rehabilitation eliminates all MS symptoms and stops progression"
       ],
       "correct_answer": 1,
       "rationale": "Rehabilitation strategies in MS focus on improving functional abilities, compensating for deficits through adaptive techniques and assistive devices, and enhancing quality of life. While rehabilitation cannot reverse demyelination, it is a cornerstone of comprehensive MS care."
@@ -5902,10 +5902,10 @@
       "difficulty": "hard",
       "stem": "A patient with significant spasticity affecting mobility and ADLs requires therapeutic intervention. Which approach combines multiple modalities for optimal management?",
       "options": [
-        "Surgery as first-line treatment",
-        "Comprehensive approach including stretching, physical therapy, medications, and sometimes botulinum toxin or intrathecal baclofen",
-        "Rest and immobilization",
-        "Pharmacotherapy only"
+        "Surgery as the first-line treatment for the spasticity",
+        "A comprehensive, multimodal approach combining several therapies",
+        "Rest and immobilization for the affected limbs",
+        "Pharmacotherapy only, without any other therapy"
       ],
       "correct_answer": 1,
       "rationale": "Optimal spasticity management in MS requires a comprehensive, multimodal approach including regular stretching, physical and occupational therapy, oral antispasticity medications (baclofen, tizanidine), and for severe cases, targeted interventions like botulinum toxin injections or intrathecal baclofen pumps."
@@ -5917,10 +5917,10 @@
       "difficulty": "medium",
       "stem": "Psychosocial interventions in MS care are primarily aimed at addressing which aspect of the disease?",
       "options": [
-        "Only physical symptoms",
-        "Replacing medical treatments",
-        "The emotional, psychological, and social impact of living with a chronic neurological condition",
-        "Eliminating the need for rehabilitation"
+        "Only the physical symptoms of the disease",
+        "Replacing the medical treatments entirely",
+        "The emotional, psychological, and social impact of MS",
+        "Eliminating the need for any rehabilitation"
       ],
       "correct_answer": 2,
       "rationale": "Psychosocial interventions address the emotional, psychological, and social impact of MS, including depression, anxiety, stress management, coping strategies, and social support. These are essential components of comprehensive MS care that complement medical and rehabilitation treatments."

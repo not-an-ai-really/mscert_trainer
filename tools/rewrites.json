@@ -418,5 +418,221 @@
     "Swallowing exercises only",
     "Speech-language therapy for articulation",
     "Voice amplification devices alone"
+  ],
+  "q0395": [
+    "Continue through pregnancy with monitoring",
+    "Switch to high-dose steroids for the remainder",
+    "Increase the dosing frequency during pregnancy",
+    "Discontinue at least 6 months before conception"
+  ],
+  "q0399": [
+    "Long-term corticosteroids daily",
+    "Daily cold baths for the rest of the year",
+    "Heat exposure therapy to build tolerance",
+    "Cooling vests and lifestyle modifications"
+  ],
+  "q0400": [
+    "Continue with routine ECG monitoring",
+    "Hold fingolimod and evaluate for pacemaker",
+    "Switch to another oral therapy immediately",
+    "Reduce to 0.58 mg and keep monitoring"
+  ],
+  "q0402": [
+    "Increase the DMT dose for better control",
+    "Discontinue DMT and initiate immune reconstitution",
+    "Add antifungal therapy for the infection",
+    "Continue the DMT with closer monitoring"
+  ],
+  "q0403": [
+    "Restrict fluid intake throughout the day",
+    "Scheduled toileting and assistive devices",
+    "Bladder removal as the definitive option",
+    "Indwelling catheter for all voiding"
+  ],
+  "q0404": [
+    "ECG to assess heart rate and PR interval",
+    "Echocardiogram to check the valves",
+    "Stress test before the first dose",
+    "Cardiac catheterization for the baseline"
+  ],
+  "q0414": [
+    "Restrict all fluids to control incontinence",
+    "Structured bowel program with scheduled bowel care",
+    "High-dose opioids for the bowel issue",
+    "Stool softeners only, no schedule"
+  ],
+  "q0419": [
+    "Discontinue the therapy immediately",
+    "Add high-dose steroids for the flushing",
+    "Switch to placebo for comparison",
+    "Take with food and consider dose reduction"
+  ],
+  "q0420": [
+    "Isolation from the care team",
+    "IV antibiotics for the swallowing issue",
+    "Speech therapy and modified diet, consider feeding tube",
+    "Force feeding to prevent further weight loss"
+  ],
+  "q0423": [
+    "Cooling vests and air conditioning",
+    "Hot tubs daily for muscle relaxation",
+    "No precautions needed at all",
+    "Exercise in the heat to build tolerance"
+  ],
+  "q0424": [
+    "Liver function tests and pregnancy testing",
+    "Only pregnancy testing each month",
+    "Only a complete blood count",
+    "No laboratory monitoring required"
+  ],
+  "q0427": [
+    "Corticosteroids for the fatigue",
+    "Antibiotics for the underlying cause",
+    "Dalfampridine for the fatigue",
+    "Rest, energy conservation, and exercise"
+  ],
+  "q0428": [
+    "Add topical antibiotics for the eye area",
+    "Discontinue fingolimod and refer to ophthalmology",
+    "Continue with monitoring each month",
+    "Increase the fingolimod dose"
+  ],
+  "q0430": [
+    "Indwelling catheter only for the retention issues",
+    "Anticholinergic only for the urgency symptoms",
+    "Clean intermittent catheterization (CIC) plus anticholinergic",
+    "No intervention at this stage"
+  ],
+  "q0432": [
+    "Steroid therapy as the first-line treatment option",
+    "Surgery only, with no conservative options",
+    "Phosphodiesterase inhibitors and communication counseling",
+    "No treatment is available for the symptoms"
+  ],
+  "q0434": [
+    "Speech therapy and diet modification",
+    "Immediate intubation at the bedside",
+    "No intervention until symptoms resolve",
+    "IV fluids only for the intake"
+  ],
+  "q0437": [
+    "Add corticosteroids indefinitely for disease control",
+    "Continue natalizumab without any change",
+    "Increase the natalizumab dose",
+    "JCV conversion may have occurred; retest and consider switch"
+  ],
+  "q0439": [
+    "Continue with monitoring each week",
+    "Add immunosuppressants for protection",
+    "Increase the fumarate dose",
+    "Hold therapy until lymphocytes recover >500/mm³"
+  ],
+  "q0440": [
+    "Isolation from the family",
+    "Hospitalization only, no home care",
+    "No support available for the family at home",
+    "Home health care and assistive devices assessment"
+  ],
+  "q0442": [
+    "Complete bed rest for the fatigue",
+    "Regular moderate exercise and energy conservation",
+    "Strenuous exercise daily, no rest periods",
+    "No lifestyle changes recommended"
+  ],
+  "q0443": [
+    "Add beta-blockers for the rate",
+    "Discontinue the therapy immediately",
+    "Continue with extended cardiac monitoring",
+    "Increase the dose for efficacy"
+  ],
+  "q0444": [
+    "Fluid restriction for the retention",
+    "No intervention is needed at all",
+    "Anticholinergics only for the bladder",
+    "Clean intermittent catheterization (CIC)"
+  ],
+  "q0447": [
+    "Discontinue natalizumab and evaluate with MRI and CSF",
+    "Add immunosuppressants for the new symptoms",
+    "Continue natalizumab with monitoring",
+    "Increase the natalizumab dose"
+  ],
+  "q0448": [
+    "Caffeine at night for the alertness levels",
+    "No sleep allowed for a week",
+    "Sedatives only, no hygiene work",
+    "Sleep hygiene education and regular schedule"
+  ],
+  "q0450": [
+    "Thickened liquids only for all meals",
+    "No intervention for the aspiration",
+    "Antibiotics only for the pneumonia",
+    "PEG tube placement for nutrition and hydration"
+  ],
+  "q0455": [
+    "Disruption of the blood-brain barrier and immune cell infiltration",
+    "Oligodendrocyte hyperplasia before the first lesion appears",
+    "Demyelination without any inflammatory component",
+    "Axonal regeneration at the time of disease onset"
+  ],
+  "q0456": [
+    "Endothelial cells - they cannot penetrate CNS tissue at all stages",
+    "Microglia - they cause excessive demyelination in all lesions",
+    "Oligodendrocyte precursor cells - differentiation and maturation are impaired",
+    "Astrocytes - they cannot generate myelin in the CNS"
+  ],
+  "q0458": [
+    "They provide structural support and maintain extracellular ion balance in the CNS",
+    "They primarily function as immune cells to clear cellular debris in lesions",
+    "They produce myelin sheaths that insulate axons and facilitate rapid signal conduction",
+    "They form the blood-brain barrier to protect the CNS from the blood"
+  ],
+  "q0459": [
+    "It is irreversible and correlates with permanent disability and disease progression",
+    "It primarily occurs during remyelination and is fully reversible over time",
+    "It is the primary early event that causes all of the initial symptoms",
+    "It is a compensatory mechanism that improves neurological function overall"
+  ],
+  "q0461": [
+    "BBB disruption allows immune cells and antibodies to enter the CNS and initiate inflammation",
+    "BBB disruption prevents all immune cells from entering, protecting the CNS",
+    "BBB disruption is a late event that occurs only in end-stage forms",
+    "BBB disruption leads to increased myelin production as a compensatory mechanism over time"
+  ],
+  "q0462": [
+    "MS selectively affects only the motor pathways and spares other tracts",
+    "MS primarily affects the peripheral nerves and the nerve root zone",
+    "MS only affects the spinal cord and never the brain or optic nerves",
+    "MS lesions can occur anywhere in the CNS - brain, optic nerves, spinal cord"
+  ],
+  "q0464": [
+    "Fatigue Severity Scale (FSS) for symptoms",
+    "9-Hole Peg Test (9HPT) for dexterity",
+    "Timed 25-Foot Walk (T25FW) for mobility",
+    "Symbol Digit Modalities Test (SDMT) or PASAT"
+  ],
+  "q0468": [
+    "Unilateral walking aid (cane) required beyond 100 meters",
+    "Wheelchair-bound but self-care still intact",
+    "Moderate disability, walking without any aid",
+    "Normal neurological function on exam"
+  ],
+  "q0471": [
+    "Rehabilitation can reverse demyelination and restore the myelin",
+    "Rehabilitation improves function and quality of life, compensating for deficits",
+    "Rehabilitation replaces the need for all disease-modifying therapies",
+    "Rehabilitation eliminates all MS symptoms and stops progression"
+  ],
+  "q0472": [
+    "Surgery as the first-line treatment for the spasticity",
+    "A comprehensive, multimodal approach combining several therapies",
+    "Rest and immobilization for the affected limbs",
+    "Pharmacotherapy only, without any other therapy"
+  ],
+  "q0473": [
+    "Only the physical symptoms of the disease",
+    "Replacing the medical treatments entirely",
+    "The emotional, psychological, and social impact of MS",
+    "Eliminating the need for any rehabilitation"
   ]
 }
