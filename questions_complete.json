@@ -2467,10 +2467,10 @@
       "difficulty": "medium",
       "stem": "Which factor is most predictive of faster disability progression in MS?",
       "options": [
-        "High vitamin D levels",
-        "Younger age at onset",
+        "High vitamin D levels at baseline",
+        "Younger age at onset alone",
         "Incomplete recovery from early relapses",
-        "Female sex"
+        "Female sex at presentation"
       ],
       "correct_answer": 2,
       "rationale": "Incomplete recovery from early relapses is a strong predictor of faster disability progression."
@@ -2512,10 +2512,10 @@
       "difficulty": "easy",
       "stem": "What is the first-line treatment for acute MS relapses?",
       "options": [
-        "Interferon beta",
+        "Interferon beta started immediately",
         "High-dose IV methylprednisolone",
-        "Plasma exchange",
-        "Oral prednisone"
+        "Plasma exchange as the first step",
+        "Oral prednisone at a low dose"
       ],
       "correct_answer": 1,
       "rationale": "High-dose intravenous methylprednisolone is the first-line treatment for acute MS relapses to shorten relapse duration."
@@ -2662,9 +2662,9 @@
       "difficulty": "hard",
       "stem": "A patient with progressive MS and severe dysphagia requiring feeding tube placement has not responded to conservative management. Which intervention is most appropriate?",
       "options": [
-        "Gastrojejunostomy tube",
-        "Nasogastric tube",
-        "Parenteral nutrition",
+        "Gastrojejunostomy tube placement",
+        "Nasogastric tube for long-term feeding",
+        "Parenteral nutrition via a central line",
         "Percutaneous endoscopic gastrostomy (PEG) tube"
       ],
       "correct_answer": 3,
@@ -2722,10 +2722,10 @@
       "difficulty": "medium",
       "stem": "Which teaching method is most effective for reinforcing complex MS treatment regimens?",
       "options": [
-        "Video viewing",
-        "Handout distribution",
+        "Video viewing of a demonstration",
+        "Handout distribution at discharge",
         "Demonstration with return demonstration",
-        "Lecture with slides"
+        "Lecture with slides only"
       ],
       "correct_answer": 2,
       "rationale": "Demonstration with return demonstration (teach-back method) is most effective for complex psychomotor skills like medication administration, ensuring patient understanding and competence."
@@ -2752,10 +2752,10 @@
       "difficulty": "medium",
       "stem": "Which symptom distinguishes MS-related fatigue from normal tiredness?",
       "options": [
-        "Proportional to physical activity",
+        "Proportional to physical activity level",
         "Disproportionate to exertion and worsens with heat",
-        "Responsive to stimulant medication",
-        "Improves with rest"
+        "Responsive to stimulant medication quickly",
+        "Improves with rest and sleep"
       ],
       "correct_answer": 1,
       "rationale": "MS fatigue is typically disproportionate to exertion, worsens with heat exposure (Uhthoff phenomenon), and does not significantly improve with rest - distinguishing it from normal tiredness."
@@ -2812,9 +2812,9 @@
       "difficulty": "medium",
       "stem": "Which activity best supports professional development for MS nurses seeking certification maintenance?",
       "options": [
-        "Attending one conference every 5 years",
-        "Supervising nursing students",
-        "Reading nursing journals occasionally",
+        "Attending one conference every five years",
+        "Supervising nursing students on the unit",
+        "Reading nursing journals occasionally over the year",
         "Completing 15 contact hours of MS-specific CE annually"
       ],
       "correct_answer": 3,
@@ -2843,9 +2843,9 @@
       "stem": "Which intervention is most effective for managing MS-related tremor that impairs daily activities?",
       "options": [
         "Physical therapy with weighted utensils",
-        "Deep brain stimulation",
-        "Plasma exchange",
-        "High-dose corticosteroids"
+        "Deep brain stimulation surgery",
+        "Plasma exchange for the tremor",
+        "High-dose corticosteroids daily"
       ],
       "correct_answer": 0,
       "rationale": "Physical therapy with weighted utensils and adaptive devices is first-line for managing tremor that impairs daily function. Deep brain stimulation is reserved for severe, medication-refractory tremor."
@@ -2858,8 +2858,8 @@
       "stem": "A patient with MS requires a lumbar puncture but refuses due to fear. The family insists on the procedure. What is the nurse's priority action?",
       "options": [
         "Perform the procedure without consent",
-        "Overrule patient's decision as family insists",
-        "Postpone the procedure indefinitely",
+        "Overrule the patient's decision as the family insists",
+        "Postpone the procedure indefinitely without review",
         "Respect patient's refusal and explore alternative diagnostics"
       ],
       "correct_answer": 3,
@@ -2887,9 +2887,9 @@
       "difficulty": "medium",
       "stem": "Which factor is most consistently identified in the literature as a driver of non-adherence to injectable MS disease-modifying therapy?",
       "options": [
-        "Younger age at diagnosis alone",
-        "Lack of a printed medication guide",
-        "Living in an urban area",
+        "Younger age at diagnosis alone, other factors aside",
+        "Lack of a printed medication guide at hand",
+        "Living in an urban area with care nearby",
         "Injection-related side effects and injection fatigue"
       ],
       "correct_answer": 3,
@@ -3023,9 +3023,9 @@
       "stem": "When a patient with MS seeks complementary therapies, what is the nurse's best approach?",
       "options": [
         "Discuss evidence, risks, and benefits while respecting patient autonomy",
-        "Prescribe approved complementary products",
-        "Discourage all non-conventional treatments",
-        "Refer immediately to alternative medicine specialist"
+        "Prescribe approved complementary products as the treatment",
+        "Discourage all non-conventional treatments without discussion",
+        "Refer immediately to an alternative medicine specialist for care"
       ],
       "correct_answer": 0,
       "rationale": "The nurse should engage in open discussion about evidence, potential risks/benefits, and interactions with conventional treatments while respecting patient autonomy in treatment choice."
@@ -3112,10 +3112,10 @@
       "difficulty": "hard",
       "stem": "An open-label MS trial reports a large treatment effect on a clinician-rated disability scale. Which bias most directly threatens this result?",
       "options": [
-        "Publication bias",
+        "Publication bias in the trial's reporting",
         "Performance and detection bias from inadequate blinding",
-        "Attrition bias",
-        "Recall bias"
+        "Attrition bias from early participant dropout",
+        "Recall bias in the outcome interviews"
       ],
       "correct_answer": 1,
       "rationale": "Without blinding, both participants and assessors may alter behavior and rating (performance and detection bias), which inflates effects on subjective or clinician-rated outcomes such as EDSS. This is why MS trials use blinded, independent EDSS raters separate from the treating clinician."
@@ -3307,10 +3307,10 @@
       "difficulty": "medium",
       "stem": "Which intervention is most effective for managing MS-related bladder overactivity?",
       "options": [
-        "Bladder training alone",
+        "Bladder training alone, no medication",
         "Behavioral modifications plus antimuscarinics",
-        "Urinary diversion",
-        "Surgical augmentation"
+        "Urinary diversion as the first option",
+        "Surgical augmentation of the bladder"
       ],
       "correct_answer": 1,
       "rationale": "Combined behavioral modifications (fluid management, timed voiding) and antimuscarinic medications (e.g., oxybutynin, solifenacin) are first-line for bladder overactivity."
@@ -3322,10 +3322,10 @@
       "difficulty": "hard",
       "stem": "A patient with MS facing insurance denial for an off-label medication uses which strategy for appeal?",
       "options": [
-        "Social media appeal",
-        "Insurance company complaint form",
+        "Social media appeal to gain public pressure",
+        "Insurance company complaint form as the first step",
         "Medical necessity documentation with peer-reviewed evidence",
-        "Patient apology letter"
+        "Patient apology letter to the payer's team"
       ],
       "correct_answer": 2,
       "rationale": "Appeals for off-label use require comprehensive documentation demonstrating medical necessity supported by peer-reviewed literature, clinical guidelines, and treatment history."
@@ -3367,10 +3367,10 @@
       "difficulty": "medium",
       "stem": "Which DMT is associated with lunar facies as a potential side effect?",
       "options": [
-        "Glatiramer acetate",
-        "Fingolimod",
+        "Glatiramer acetate over time",
+        "Fingolimod after several months",
         "Corticosteroids (used for relapses)",
-        "Interferon beta"
+        "Interferon beta with chronic use"
       ],
       "correct_answer": 2,
       "rationale": "Lunar facies (moon face) is a potential side effect of chronic corticosteroid use for MS relapses, not a side effect of disease-modifying therapies."
@@ -3457,9 +3457,9 @@
       "difficulty": "hard",
       "stem": "A patient with MS expresses interest in an unproven stem cell therapy. What is the nurse's priority action?",
       "options": [
-        "Prescribe approved alternatives",
-        "Refer to the treatment center",
-        "Document refusal to discuss",
+        "Prescribe approved alternatives immediately",
+        "Refer to the stem cell treatment center",
+        "Document refusal to discuss the therapy",
         "Provide information about risks and lack of evidence"
       ],
       "correct_answer": 3,
@@ -3608,9 +3608,9 @@
       "stem": "A patient with MS refuses a recommended treatment. What is the nurse's ethical obligation?",
       "options": [
         "Respect patient autonomy after ensuring informed decision",
-        "Administer treatment anyway",
-        "Report the patient to authorities",
-        "Continue to pressure the patient"
+        "Administer the treatment anyway regardless",
+        "Report the patient to authorities for refusal",
+        "Continue to pressure the patient to agree"
       ],
       "correct_answer": 0,
       "rationale": "Respect for autonomy requires honoring the patient's informed refusal after ensuring they understand risks, benefits, and alternatives."
@@ -3652,10 +3652,10 @@
       "difficulty": "medium",
       "stem": "Which symptom management approach is most appropriate for MS-related bladder retention?",
       "options": [
-        "Antibiotic prophylaxis",
+        "Antibiotic prophylaxis long term",
         "Clean intermittent self-catheterization",
-        "Bladder stimulants",
-        "Fluid restriction"
+        "Bladder stimulants for the retention",
+        "Fluid restriction at all times"
       ],
       "correct_answer": 1,
       "rationale": "Clean intermittent self-catheterization (CISC) is the gold standard for managing neurogenic bladder with retention, preventing complications like UTIs and renal damage."
@@ -3817,10 +3817,10 @@
       "difficulty": "medium",
       "stem": "Which assessment tool evaluates functional mobility in MS?",
       "options": [
-        "FSS",
+        "FSS (Fatigue Severity Scale)",
         "Timed 25-Foot Walk",
-        "EDSS",
-        "SDMT"
+        "EDSS (Expanded Disability Status Scale)",
+        "SDMT (Symbol Digit Modalities Test)"
       ],
       "correct_answer": 1,
       "rationale": "The Timed 25-Foot Walk (T25FW) is a component of the MSFC and is highly sensitive for detecting changes in lower extremity function and mobility."
@@ -3968,9 +3968,9 @@
       "stem": "Which intervention has strongest evidence for improving upper extremity function in MS?",
       "options": [
         "Occupational therapy with task-specific training",
-        "High-dose corticosteroids",
-        "Passive range of motion",
-        "Plasma exchange"
+        "High-dose corticosteroids for the weakness",
+        "Passive range of motion exercises only",
+        "Plasma exchange for the upper limbs"
       ],
       "correct_answer": 0,
       "rationale": "Occupational therapy with task-specific training has strong evidence for improving upper extremity function and daily living activities in MS."
@@ -4042,9 +4042,9 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS develops progressive weakness despite ongoing DMT. MRI shows no new lesions. What is the most likely explanation?",
       "options": [
-        "Medication non-adherence",
+        "Medication non-adherence over the past months",
         "Progressive neurodegeneration independent of inflammation",
-        "Non-MS diagnosis",
+        "Non-MS diagnosis mimicking the progression",
         "Treatment failure with clinical progression"
       ],
       "correct_answer": 1,
@@ -4178,9 +4178,9 @@
       "stem": "A patient with RRMS on fingolimod develops macular edema. What is the appropriate management?",
       "options": [
         "Discontinue fingolimod and treat with topical therapy",
-        "Switch to oral therapy immediately",
-        "Add acetazolamide",
-        "Continue with ophthalmology monitoring"
+        "Switch to another oral therapy immediately",
+        "Add acetazolamide for the edema",
+        "Continue with ophthalmology monitoring only"
       ],
       "correct_answer": 0,
       "rationale": "Fingolimod is associated with macular edema, particularly in the first 3-4 months. New onset macular edema requires discontinuation of fingolimod and treatment of the edema with topical therapy."
@@ -4252,10 +4252,10 @@
       "difficulty": "hard",
       "stem": "A patient on daclizumab (Zinbryta) presents with liver injury signs and rash. What is the critical action?",
       "options": [
-        "Add hepatoprotective medication",
-        "Continue with liver monitoring",
+        "Add hepatoprotective medication to the regimen",
+        "Continue with closer liver monitoring",
         "Immediately discontinue and evaluate for hepatic injury",
-        "Reduce dose and continue"
+        "Reduce the dose and continue treatment"
       ],
       "correct_answer": 2,
       "rationale": "Daclizumab was associated with serious inflammatory hepatic injury and autoimmune conditions, leading to its voluntary withdrawal from the market. Any signs of liver injury require immediate discontinuation and hepatic workup."
@@ -4312,9 +4312,9 @@
       "difficulty": "medium",
       "stem": "A patient with MS reports painful nocturnal leg spasms. Which agent is most appropriate to add, given the symptom pattern?",
       "options": [
-        "A long-acting opioid",
-        "Dantrolene during the day",
-        "Cyclobenzaprine",
+        "A long-acting opioid at bedtime",
+        "Dantrolene taken during the day",
+        "Cyclobenzaprine as needed",
         "Low-dose baclofen or tizanidine at bedtime"
       ],
       "correct_answer": 3,
@@ -4327,10 +4327,10 @@
       "difficulty": "hard",
       "stem": "A patient with MS and severe spasticity unresponsive to oral medications is being considered for intrathecal baclofen. What is the critical screening requirement?",
       "options": [
-        "EEG",
-        "Liver function tests",
+        "EEG before the pump is implanted",
+        "Liver function tests repeated monthly",
         "Baclofen trial with intrathecal dose",
-        "Brain MRI"
+        "Brain MRI before implantation"
       ],
       "correct_answer": 2,
       "rationale": "A screening test dose of intrathecal baclofen (via lumbar puncture) is required before pump implantation to assess response and rule out severe adverse reactions to intrathecal administration."
@@ -4357,9 +4357,9 @@
       "difficulty": "medium",
       "stem": "Which intervention is most appropriate for MS-related cognitive slowing?",
       "options": [
-        "Ritalin only",
-        "High-dose steroids",
-        "Complete rest",
+        "Ritalin only, without rehabilitation",
+        "High-dose steroids for the slowing",
+        "Complete rest for several weeks",
         "Cognitive rehabilitation and energy conservation"
       ],
       "correct_answer": 3,
@@ -4373,9 +4373,9 @@
       "stem": "Non-pharmacologic measures have failed for a patient with disabling MS fatigue, and secondary causes have been excluded. Which statement about pharmacologic options is accurate?",
       "options": [
         "Amantadine and modafinil are used off-label, with modest and inconsistent trial evidence",
-        "Dalfampridine is indicated for fatigue",
-        "Methylphenidate is the recommended first-line pharmacologic agent",
-        "Modafinil is superior to placebo in all MS fatigue trials"
+        "Dalfampridine is indicated for the treatment of MS fatigue",
+        "Methylphenidate is the recommended first-line pharmacologic agent for fatigue",
+        "Modafinil is superior to placebo in all published MS fatigue trials"
       ],
       "correct_answer": 0,
       "rationale": "Amantadine and modafinil are the agents most often tried for MS fatigue, both off-label. A large comparative trial found neither superior to placebo overall, and both carry side effects, so any trial should be time-limited with a predefined response measure. Dalfampridine is approved only to improve walking."
@@ -4417,9 +4417,9 @@
       "difficulty": "medium",
       "stem": "Which intervention is first-line for MS-related sexual dysfunction in males?",
       "options": [
-        "Testosterone replacement",
-        "Counseling only",
-        "Penile prosthesis",
+        "Testosterone replacement after workup",
+        "Counseling only, no medication",
+        "Penile prosthesis as first-line",
         "Phosphodiesterase inhibitors (e.g., sildenafil)"
       ],
       "correct_answer": 3,
@@ -4447,10 +4447,10 @@
       "difficulty": "hard",
       "stem": "A patient with MS has severe fatigue and morning stiffness. Which intervention addresses both circadian rhythm and symptom management?",
       "options": [
-        "Morning caffeine only",
-        "No specific timing recommendations",
+        "Morning caffeine only for the stiffness",
+        "No specific timing recommendations at all",
         "Evening-dosed baclofen and consistent sleep schedule",
-        "Corticosteroids at bedtime"
+        "Corticosteroids taken at bedtime"
       ],
       "correct_answer": 2,
       "rationale": "Evening-dosed baclofen can help with nocturnal spasms and morning stiffness. Maintaining a consistent sleep schedule addresses fatigue and circadian rhythm disturbances common in MS."
@@ -4462,10 +4462,10 @@
       "difficulty": "medium",
       "stem": "Which medication class is most effective for MS-related tremor?",
       "options": [
-        "Antibiotics",
+        "Antibiotics for the tremor",
         "Beta-blockers and anticholinergics",
-        "NSAIDs",
-        "Antihistamines"
+        "NSAIDs taken as needed",
+        "Antihistamines at bedtime"
       ],
       "correct_answer": 1,
       "rationale": "Propranolol (beta-blocker) and primidone (anticonvulsant with anticholinergic properties) are the best studied for intention tremor in MS, though response rates are modest. Multiple agents may be needed."
@@ -4477,9 +4477,9 @@
       "difficulty": "hard",
       "stem": "A patient with MS has severe bladder urgency and frequency causing sleep disruption. Which medication is most appropriate for nocturia?",
       "options": [
-        "Mirabegron at bedtime",
-        "Furosemide at bedtime",
-        "Solifenacin at bedtime",
+        "Mirabegron at bedtime for the urgency",
+        "Furosemide at bedtime to dry out",
+        "Solifenacin at bedtime for the bladder",
         "Oxybutynin immediately before bedtime"
       ],
       "correct_answer": 3,
@@ -4537,10 +4537,10 @@
       "difficulty": "medium",
       "stem": "A patient with RRMS is starting alemtuzumab. Which pre-medication is typically administered before each infusion?",
       "options": [
-        "Prednisone only",
+        "Prednisone only before each infusion",
         "Antihistamine, acetaminophen, and corticosteroid",
-        "No pre-medication required",
-        "Antibiotic prophylaxis only"
+        "No pre-medication required at all",
+        "Antibiotic prophylaxis only, no others"
       ],
       "correct_answer": 1,
       "rationale": "Pre-medication with corticosteroids (prednisone), antihistamine, and acetaminophen is required before each alemtuzumab infusion to reduce infusion reaction severity. Prophylactic antiviral therapy is also recommended."
@@ -4552,10 +4552,10 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS has persistent high disease activity despite multiple DMTs. Which patient population might benefit from autologous hematopoietic stem cell transplant (AHSCT)?",
       "options": [
-        "Patients with PPMS only",
-        "Patients with stable RRMS",
+        "Patients with PPMS only, with no other forms eligible",
+        "Patients with stable RRMS on a single DMT",
         "Patients with aggressive RRMS refractory to multiple DMTs",
-        "All patients with MS"
+        "All patients with MS at the time of diagnosis"
       ],
       "correct_answer": 2,
       "rationale": "AHSCT is being investigated for patients with highly active RRMS who have failed multiple high-efficacy DMTs. This aggressive intervention may halt disease progression but carries significant risks including treatment-related mortality."
@@ -4612,10 +4612,10 @@
       "difficulty": "medium",
       "stem": "Which route of corticosteroid administration is standard for MS relapse treatment?",
       "options": [
-        "Oral prednisone taper",
+        "Oral prednisone taper over weeks",
         "Intravenous methylprednisolone without taper",
-        "Topical corticosteroids",
-        "Intramuscular dexamethasone"
+        "Topical corticosteroids applied locally",
+        "Intramuscular dexamethasone injection"
       ],
       "correct_answer": 1,
       "rationale": "High-dose IV methylprednisolone (typically 1000 mg daily for 3-5 days) without an oral taper is the standard for MS relapses. Oral prednisone alone without tapering is less effective."
@@ -4627,10 +4627,10 @@
       "difficulty": "hard",
       "stem": "A patient with severe MS has global communication difficulties. Which intervention is most appropriate for communication support?",
       "options": [
-        "Isolation",
-        "Oral antibiotics",
+        "Isolation from the care team and family",
+        "Oral antibiotics for the communication difficulty",
         "Augmentative and alternative communication (AAC) devices",
-        "Sedation"
+        "Sedation to reduce the patient's distress"
       ],
       "correct_answer": 2,
       "rationale": "AAC devices, ranging from picture boards to high-tech speech-generating devices, help patients with severe communication difficulties maintain independence and quality of life."
@@ -4643,9 +4643,9 @@
       "stem": "A patient with MS has severe constipation refractory to fiber and fluids. Which laxative class is most appropriate?",
       "options": [
         "Osmotic laxatives (e.g., polyethylene glycol)",
-        "Stimulant laxatives only",
-        "Enemas only",
-        "Bulk-forming laxatives"
+        "Stimulant laxatives only, long term",
+        "Enemas only as the sole measure",
+        "Bulk-forming laxatives alone"
       ],
       "correct_answer": 0,
       "rationale": "Osmotic laxatives like polyethylene glycol (Miralax) are effective and safe for MS-related constipation. They draw water into the bowel to soften stool without the dependency risks of stimulant laxatives."
@@ -4657,10 +4657,10 @@
       "difficulty": "hard",
       "stem": "A patient with MS has severe bladder dysfunction with urinary retention and incontinence. Which bladder management strategy is most comprehensive?",
       "options": [
-        "Indwelling catheter alone",
-        "Anticholinergics alone",
+        "Indwelling catheter alone for long-term management",
+        "Anticholinergics alone for the dysfunction",
         "Intermittent catheterization combined with anticholinergics",
-        "No intervention"
+        "No intervention at this time"
       ],
       "correct_answer": 2,
       "rationale": "Combined approach using intermittent catheterization for retention and anticholinergics for overactivity provides comprehensive bladder management for patients with mixed voiding dysfunction in MS."
@@ -4687,9 +4687,9 @@
       "difficulty": "hard",
       "stem": "A patient with RRMS on natalizumab is JCV antibody positive with high index (>1.5). What is the risk-benefit consideration?",
       "options": [
-        "Increase dose to improve efficacy",
-        "Continue without concern",
-        "Switch to placebo",
+        "Increase the dose to improve efficacy",
+        "Continue treatment without concern",
+        "Switch to placebo for comparison",
         "High PML risk; consider discontinuing natalizumab"
       ],
       "correct_answer": 3,
@@ -4703,9 +4703,9 @@
       "stem": "Which intervention is most helpful for MS patients experiencing cognitive fatigue?",
       "options": [
         "Scheduled rest breaks and energy conservation",
-        "Continuous stimulation",
-        "Sleep deprivation",
-        "Increasing workload"
+        "Continuous stimulation through the day",
+        "Sleep deprivation to reset the rhythm",
+        "Increasing the workload to build stamina"
       ],
       "correct_answer": 0,
       "rationale": "Energy conservation techniques, scheduled rest breaks, and task prioritization are effective strategies for managing MS-related cognitive fatigue. Pushing through fatigue often worsens symptoms."
@@ -4717,10 +4717,10 @@
       "difficulty": "hard",
       "stem": "A patient with MS has severe dysarthria affecting communication. Which intervention is first-line?",
       "options": [
-        "Tracheostomy",
-        "Swallowing exercises",
+        "Tracheostomy for airway protection",
+        "Swallowing exercises only",
         "Speech-language therapy for articulation",
-        "Voice amplification devices"
+        "Voice amplification devices alone"
       ],
       "correct_answer": 2,
       "rationale": "Speech-language pathology evaluation and therapy for dysarthria (articulation training, breathing exercises, pacing strategies) is the first-line intervention for communication difficulties in MS."
