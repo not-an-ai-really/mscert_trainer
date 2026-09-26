@@ -1,0 +1,188 @@
+{
+  "q007": [
+    "Central Africa and other equatorial regions",
+    "Mid-latitude regions (e.g., Canada, northern US, Europe)",
+    "Tropical regions near the equator (coastal zones)",
+    "South America and other tropical lowland regions"
+  ],
+  "q010": [
+    "Astrocytes (glial support cells)",
+    "T cells (CD4+ and CD8+)",
+    "Microglia (resident macrophages)",
+    "B cells (antibody producers)"
+  ],
+  "q011": [
+    "Direct axonal transection before any demyelination",
+    "Primary oligodendrocyte apoptosis as the first event",
+    "Microglial activation without any blood-brain barrier disruption",
+    "Blood-brain barrier disruption followed by inflammatory cell infiltration"
+  ],
+  "q012": [
+    "High lesion load on T2-weighted MRI regardless of activity",
+    "Slowly expanding lesions with inactive edges and remyelination",
+    "Gadolinium enhancement indicating active inflammation",
+    "Acute inflammatory cell infiltrates in the CSF"
+  ],
+  "q016": [
+    "Switch to a high-efficacy DMT (e.g., natalizumab, fingolimod, or ocrelizumab)",
+    "Continue current therapy with closer monitoring and follow-up MRI",
+    "Add physical therapy to the existing treatment regimen",
+    "Prescribe symptomatic treatment for relapse features only"
+  ],
+  "q024": [
+    "Increase DMT frequency to suppress the fatigue",
+    "Prescribe modafinil immediately without non-drug measures first",
+    "Educate on energy conservation and cooling strategies",
+    "Start cognitive rehabilitation as the first intervention"
+  ],
+  "q035": [
+    "Predictable and continuous medication coverage",
+    "Minimal insurance complexity across payers",
+    "Single-specialist management without referrals",
+    "Coordinated care across multiple disciplines"
+  ],
+  "q043": [
+    "Increased viral exposure from international travel",
+    "Dietary changes reducing vitamin D synthesis",
+    "Genetic mutations induced by environmental toxins",
+    "Gene-environment interactions affecting immune regulation"
+  ],
+  "q055": [
+    "Severe hypertension requiring urgent control",
+    "Liver toxicity with rising transaminases",
+    "Pulmonary fibrosis over the treatment course",
+    "Progressive multifocal leukoencephalopathy (PML)"
+  ],
+  "q058": [
+    "Immediately hold ocrelizumab and initiate diagnostic workup",
+    "Administer IV methylprednisolone for presumed relapse",
+    "Start antiviral therapy targeting JC virus",
+    "Schedule plasma exchange for the suspected lesion"
+  ],
+  "q060": [
+    "Initiate modafinil therapy as the first step",
+    "Refer for cognitive rehabilitation before any other measure",
+    "Prescribe amantadine and reassess in two weeks",
+    "Implement energy conservation techniques and cooling strategies"
+  ],
+  "q068": [
+    "Plasma exchange for acute immune activity",
+    "Botulinum toxin injection for the weak hands",
+    "High-dose steroids for the weakness",
+    "Occupational therapy with adaptive equipment"
+  ],
+  "q073": [
+    "Spasticity management program for the upper limbs",
+    "Dysphagia therapy focused on swallow safety",
+    "Hand therapy for fine motor control",
+    "Cognitive rehabilitation with computer training"
+  ],
+  "q078": [
+    "Continuous walking exercises through the fatigue",
+    "Increasing medication dosage to push through",
+    "Prioritizing activities and using adaptive equipment",
+    "Eliminating all physical activity to rest fully"
+  ],
+  "q079": [
+    "Cooling gel packs applied to the hottest areas",
+    "Partial body immersion with circulating chilled water",
+    "Air conditioning set to a comfortable temperature",
+    "Ice packs only, applied as needed throughout the day"
+  ],
+  "q083": [
+    "Anticonvulsants (e.g., gabapentin)",
+    "Acetaminophen around the clock",
+    "NSAIDs taken as needed",
+    "Opioid analgesics as first-line therapy"
+  ],
+  "q089": [
+    "Avoiding saliva production before meals",
+    "Eating large meals when energy allows",
+    "Consuming only liquids to reduce effort",
+    "Changing head position during swallowing"
+  ],
+  "q090": [
+    "It only affects physical function, not mood",
+    "It does not occur in people with MS",
+    "It is primarily psychological in origin",
+    "It can affect both physical and psychological domains"
+  ],
+  "q092": [
+    "Energy conservation and pacing strategies",
+    "Complete work leave for several months",
+    "High-dose stimulants only, without pacing",
+    "Continuous bed rest to restore energy"
+  ],
+  "q095": [
+    "Symbol Digit Modalities Test (SDMT)",
+    "Timed 25-Foot Walk for mobility",
+    "EDSS (Expanded Disability Status Scale)",
+    "9-Hole Peg Test for hand dexterity"
+  ],
+  "q0106": [
+    "Switch to over-the-counter alternatives meanwhile",
+    "Patient pays out-of-pocket until coverage renews",
+    "Appeal with clinical documentation and physician letter",
+    "Discontinue treatment temporarily to save cost"
+  ],
+  "q0107": [
+    "Patient advocacy hospital committee on call",
+    "National Multiple Sclerosis Society Legal Resources",
+    "State medical board licensing office",
+    "General legal aid society for civil matters"
+  ],
+  "q0108": [
+    "Friend testimony about the patient's condition",
+    "Personal journal entries describing daily limits",
+    "Medical records and functional limitations assessment",
+    "Employer performance reviews from the last year"
+  ],
+  "q0111": [
+    "Confront the discriminator directly in the moment",
+    "Contact employer HR department on the spot",
+    "Document incident and provide resource information",
+    "Refer immediately to legal counsel without record"
+  ],
+  "q0114": [
+    "Methylphenidate started at a low dose and titrated up",
+    "Modafinil at the usual starting dose from the first week",
+    "Amantadine prescribed as the first-line treatment",
+    "A structured fatigue-management and energy-conservation program"
+  ],
+  "q0123": [
+    "Blood-brain barrier disruption and systemic inflammation",
+    "Decreased oxidative stress across the body",
+    "Enhanced remyelination capacity in neurons",
+    "Increased vitamin D absorption from the diet"
+  ],
+  "q0124": [
+    "Gadolinium-enhancing lesions on the current scan",
+    "Cerebral atrophy measured over the years",
+    "Multiple T2 hyperintense lesions overall",
+    "Lesions with slowly expanding borders and paramagnetic rim"
+  ],
+  "q0181": [
+    "Reinforced, ongoing education with practice",
+    "Written materials only, reviewed once",
+    "Lecture-based instruction without follow-up",
+    "One-time educational session at diagnosis"
+  ],
+  "q0189": [
+    "Cognitive rehabilitation for the fatigue",
+    "Cooling strategies and environment control",
+    "High-dose corticosteroids for the symptoms",
+    "Increased physical activity to build tolerance"
+  ],
+  "q0196": [
+    "No medication is FDA-approved for MS fatigue; agents are used off-label",
+    "Modafinil is approved specifically for MS-related fatigue treatment",
+    "Amantadine is approved for the treatment of MS-related fatigue",
+    "Dalfampridine is approved for the treatment of MS fatigue"
+  ],
+  "q0200": [
+    "American Academy of Neurology practice council",
+    "International Organization of MS Nurses (IOMSN)",
+    "National MS Society community programs",
+    "Multiple Sclerosis Coalition for patients"
+  ]
+}

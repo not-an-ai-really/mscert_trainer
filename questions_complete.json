@@ -97,10 +97,10 @@
       "difficulty": "medium",
       "stem": "MS prevalence is highest in which geographic regions?",
       "options": [
-        "Central Africa",
+        "Central Africa and other equatorial regions",
         "Mid-latitude regions (e.g., Canada, northern US, Europe)",
-        "Near the equator (tropical zones)",
-        "South America"
+        "Tropical regions near the equator (coastal zones)",
+        "South America and other tropical lowland regions"
       ],
       "correct_answer": 1,
       "rationale": "MS prevalence increases with distance from the equator. Highest rates are found in mid-latitude regions such as Canada, northern US, Europe, southern Australia, and New Zealand."
@@ -142,10 +142,10 @@
       "difficulty": "easy",
       "stem": "Which cell type is primarily responsible for myelin destruction in MS lesions?",
       "options": [
-        "Astrocytes",
+        "Astrocytes (glial support cells)",
         "T cells (CD4+ and CD8+)",
-        "Microglia",
-        "B cells"
+        "Microglia (resident macrophages)",
+        "B cells (antibody producers)"
       ],
       "correct_answer": 1,
       "rationale": "T cells, particularly CD4+ helper T cells (Th1 and Th17) and CD8+ cytotoxic T cells, are the primary drivers of inflammation and demyelination in MS lesions. B cells contribute through antibody production and antigen presentation."
@@ -157,9 +157,9 @@
       "difficulty": "medium",
       "stem": "What is the primary pathological event in early MS lesions?",
       "options": [
-        "Direct axonal transection",
-        "Primary oligodendrocyte apoptosis",
-        "Microglial activation without blood-brain barrier disruption",
+        "Direct axonal transection before any demyelination",
+        "Primary oligodendrocyte apoptosis as the first event",
+        "Microglial activation without any blood-brain barrier disruption",
         "Blood-brain barrier disruption followed by inflammatory cell infiltration"
       ],
       "correct_answer": 3,
@@ -172,10 +172,10 @@
       "difficulty": "hard",
       "stem": "Which feature distinguishes 'smoldering' or 'silent' lesions from acute active lesions in MS?",
       "options": [
-        "High lesion load on T2-weighted MRI",
+        "High lesion load on T2-weighted MRI regardless of activity",
         "Slowly expanding lesions with inactive edges and remyelination",
-        "Gadolinium enhancement on MRI",
-        "Acute inflammatory infiltrates in CSF"
+        "Gadolinium enhancement indicating active inflammation",
+        "Acute inflammatory cell infiltrates in the CSF"
       ],
       "correct_answer": 1,
       "rationale": "Smoldering or slowly expanding lesions are characterized by gradual expansion from a well-defined edge over months to years, with minimal inflammation, ongoing demyelination, and some remyelination. They do not show gadolinium enhancement."
@@ -233,9 +233,9 @@
       "stem": "A patient with MS experiencing frequent relapses despite interferon beta treatment. MRI shows new T2 lesions. What is the most appropriate next step?",
       "options": [
         "Switch to a high-efficacy DMT (e.g., natalizumab, fingolimod, or ocrelizumab)",
-        "Continue current therapy with closer monitoring",
-        "Add physical therapy",
-        "Prescribe symptomatic treatment only"
+        "Continue current therapy with closer monitoring and follow-up MRI",
+        "Add physical therapy to the existing treatment regimen",
+        "Prescribe symptomatic treatment for relapse features only"
       ],
       "correct_answer": 0,
       "rationale": "Active disease on MRI with new lesions and continued clinical relapses despite moderate-efficacy therapy indicates treatment failure. Current guidelines recommend escalating to high-efficacy DMTs to prevent cumulative disability."
@@ -352,10 +352,10 @@
       "difficulty": "hard",
       "stem": "A patient with MS presents with severe fatigue that worsens with heat exposure and improves with rest. Which intervention would be most appropriate?",
       "options": [
-        "Increase DMT frequency",
-        "Prescribe modafinil immediately",
+        "Increase DMT frequency to suppress the fatigue",
+        "Prescribe modafinil immediately without non-drug measures first",
         "Educate on energy conservation and cooling strategies",
-        "Start cognitive rehabilitation"
+        "Start cognitive rehabilitation as the first intervention"
       ],
       "correct_answer": 2,
       "rationale": "Uhtoff's phenomenon (symptom worsening with heat) is characteristic of MS. Energy conservation, cooling strategies (cooling vests, air conditioning), and activity pacing are first-line non-pharmacologic interventions for heat-sensitive fatigue."
@@ -517,9 +517,9 @@
       "difficulty": "medium",
       "stem": "Which healthcare system navigation challenge is particularly common for MS patients?",
       "options": [
-        "Predictable medication coverage",
-        "Minimal insurance complexity",
-        "Single specialist management",
+        "Predictable and continuous medication coverage",
+        "Minimal insurance complexity across payers",
+        "Single-specialist management without referrals",
         "Coordinated care across multiple disciplines"
       ],
       "correct_answer": 3,
@@ -637,9 +637,9 @@
       "difficulty": "hard",
       "stem": "Which interaction best explains the rising MS incidence in recent decades?",
       "options": [
-        "Increased viral exposure from travel",
+        "Increased viral exposure from international travel",
         "Dietary changes reducing vitamin D synthesis",
-        "Genetic mutations from environmental toxins",
+        "Genetic mutations induced by environmental toxins",
         "Gene-environment interactions affecting immune regulation"
       ],
       "correct_answer": 3,
@@ -817,9 +817,9 @@
       "difficulty": "medium",
       "stem": "A patient starting natalizumab should be monitored for which serious adverse effect?",
       "options": [
-        "Severe hypertension",
-        "Liver toxicity",
-        "Pulmonary fibrosis",
+        "Severe hypertension requiring urgent control",
+        "Liver toxicity with rising transaminases",
+        "Pulmonary fibrosis over the treatment course",
         "Progressive multifocal leukoencephalopathy (PML)"
       ],
       "correct_answer": 3,
@@ -863,9 +863,9 @@
       "stem": "A patient on ocrelizumab develops a suspected progressive multifocal leukoencephalopathy. What is the priority nursing action?",
       "options": [
         "Immediately hold ocrelizumab and initiate diagnostic workup",
-        "Administer IV methylprednisolone",
-        "Start antiviral therapy",
-        "Schedule plasma exchange"
+        "Administer IV methylprednisolone for presumed relapse",
+        "Start antiviral therapy targeting JC virus",
+        "Schedule plasma exchange for the suspected lesion"
       ],
       "correct_answer": 0,
       "rationale": "PML is a serious risk with anti-CD20 therapies. Hold medication and initiate diagnostic evaluation (MRI, CSF JCV PCR) before further management decisions."
@@ -892,9 +892,9 @@
       "difficulty": "medium",
       "stem": "A patient reports overwhelming fatigue that worsens with heat exposure. What is the most appropriate initial management strategy?",
       "options": [
-        "Initiate modafinil therapy",
-        "Refer for cognitive rehabilitation",
-        "Prescribe amantadine",
+        "Initiate modafinil therapy as the first step",
+        "Refer for cognitive rehabilitation before any other measure",
+        "Prescribe amantadine and reassess in two weeks",
         "Implement energy conservation techniques and cooling strategies"
       ],
       "correct_answer": 3,
@@ -1012,9 +1012,9 @@
       "difficulty": "medium",
       "stem": "Which intervention would best address bilateral hand weakness in MS?",
       "options": [
-        "Plasma exchange",
-        "Botulinum toxin injection",
-        "High-dose steroids",
+        "Plasma exchange for acute immune activity",
+        "Botulinum toxin injection for the weak hands",
+        "High-dose steroids for the weakness",
         "Occupational therapy with adaptive equipment"
       ],
       "correct_answer": 3,
@@ -1087,9 +1087,9 @@
       "difficulty": "hard",
       "stem": "Which cognitive intervention has the strongest evidence for improving processing speed in MS?",
       "options": [
-        "Spasticity management program",
-        "Dysphagia therapy",
-        "Hand therapy",
+        "Spasticity management program for the upper limbs",
+        "Dysphagia therapy focused on swallow safety",
+        "Hand therapy for fine motor control",
         "Cognitive rehabilitation with computer training"
       ],
       "correct_answer": 3,
@@ -1162,10 +1162,10 @@
       "difficulty": "medium",
       "stem": "Which energy conservation strategy is most appropriate for MS fatigue management?",
       "options": [
-        "Continuous walking exercises",
-        "Increasing medication dosage",
+        "Continuous walking exercises through the fatigue",
+        "Increasing medication dosage to push through",
         "Prioritizing activities and using adaptive equipment",
-        "Eliminating all physical activity"
+        "Eliminating all physical activity to rest fully"
       ],
       "correct_answer": 2,
       "rationale": "Prioritizing, pacing, and using adaptive equipment allows patients to conserve energy and maintain function without overwhelming fatigue."
@@ -1177,10 +1177,10 @@
       "difficulty": "medium",
       "stem": "Which cooling method is most effective for severe heat sensitivity in MS?",
       "options": [
-        "Cooling gel packs",
+        "Cooling gel packs applied to the hottest areas",
         "Partial body immersion with circulating chilled water",
-        "Air conditioning",
-        "Ice packs only"
+        "Air conditioning set to a comfortable temperature",
+        "Ice packs only, applied as needed throughout the day"
       ],
       "correct_answer": 1,
       "rationale": "Partial body immersion with circulating chilled water provides localized cooling while maintaining mobility, most effective for widespread thermal sensitivity in MS."
@@ -1238,9 +1238,9 @@
       "stem": "Which pain management approach is most appropriate for neuropathic pain in MS?",
       "options": [
         "Anticonvulsants (e.g., gabapentin)",
-        "Acetaminophen",
-        "NSAIDs",
-        "Opioid analgesics"
+        "Acetaminophen around the clock",
+        "NSAIDs taken as needed",
+        "Opioid analgesics as first-line therapy"
       ],
       "correct_answer": 0,
       "rationale": "Neuropathic pain in MS responds best to anticonvulsants like gabapentin or pregabalin, which modulate nerve hyperexcitability."
@@ -1327,9 +1327,9 @@
       "difficulty": "medium",
       "stem": "Which strategy is most effective for managing swallowing difficulties (dysphagia) in MS?",
       "options": [
-        "Avoiding saliva production",
-        "Eating large meals",
-        "Consuming only liquids",
+        "Avoiding saliva production before meals",
+        "Eating large meals when energy allows",
+        "Consuming only liquids to reduce effort",
         "Changing head position during swallowing"
       ],
       "correct_answer": 3,
@@ -1342,8 +1342,8 @@
       "difficulty": "easy",
       "stem": "Which statement about sexual dysfunction in MS is accurate?",
       "options": [
-        "It only affects physical function",
-        "It does not occur in MS",
+        "It only affects physical function, not mood",
+        "It does not occur in people with MS",
         "It is primarily psychological in origin",
         "It can affect both physical and psychological domains"
       ],
@@ -1373,9 +1373,9 @@
       "stem": "A patient with MS presents with severe fatigue that does not improve with rest. Which intervention has strongest evidence for management?",
       "options": [
         "Energy conservation and pacing strategies",
-        "Complete work leave",
-        "High-dose stimulants only",
-        "Continuous bed rest"
+        "Complete work leave for several months",
+        "High-dose stimulants only, without pacing",
+        "Continuous bed rest to restore energy"
       ],
       "correct_answer": 0,
       "rationale": "Energy conservation and pacing strategies are first-line for managing MS fatigue, often more effective than stimulant medications alone."
@@ -1418,9 +1418,9 @@
       "stem": "Which assessment tool specifically measures cognitive processing speed in MS?",
       "options": [
         "Symbol Digit Modalities Test (SDMT)",
-        "Timed 25-Foot Walk",
-        "EDSS",
-        "9-Hole Peg Test"
+        "Timed 25-Foot Walk for mobility",
+        "EDSS (Expanded Disability Status Scale)",
+        "9-Hole Peg Test for hand dexterity"
       ],
       "correct_answer": 0,
       "rationale": "The Symbol Digit Modalities Test (SDMT) is highly sensitive for detecting cognitive processing speed deficits in MS and is recommended as a core assessment."
@@ -1582,10 +1582,10 @@
       "difficulty": "hard",
       "stem": "Which strategy is most effective for managing insurance denials of MS medications?",
       "options": [
-        "Switch to over-the-counter alternatives",
-        "Patient pays out-of-pocket temporarily",
+        "Switch to over-the-counter alternatives meanwhile",
+        "Patient pays out-of-pocket until coverage renews",
         "Appeal with clinical documentation and physician letter",
-        "Discontinue treatment temporarily"
+        "Discontinue treatment temporarily to save cost"
       ],
       "correct_answer": 2,
       "rationale": "Formal appeal with clinical documentation, supporting physician letter, and adherence to insurance appeal protocols is most effective for denied MS treatments."
@@ -1597,10 +1597,10 @@
       "difficulty": "easy",
       "stem": "Which resource is most appropriate for patients seeking MS-specific legal advocacy?",
       "options": [
-        "Patient advocacy hospital committee",
+        "Patient advocacy hospital committee on call",
         "National Multiple Sclerosis Society Legal Resources",
-        "State medical board",
-        "General legal aid society"
+        "State medical board licensing office",
+        "General legal aid society for civil matters"
       ],
       "correct_answer": 1,
       "rationale": "The National Multiple Sclerosis Society provides MS-specific legal resources and advocacy support for disability, insurance, and employment issues."
@@ -1612,10 +1612,10 @@
       "difficulty": "medium",
       "stem": "Which documentation is essential when advocating for workplace accommodations for MS patients?",
       "options": [
-        "Friend testimony",
-        "Personal journal entries",
+        "Friend testimony about the patient's condition",
+        "Personal journal entries describing daily limits",
         "Medical records and functional limitations assessment",
-        "Employer performance reviews"
+        "Employer performance reviews from the last year"
       ],
       "correct_answer": 2,
       "rationale": "Medical records and functional limitations assessment provide objective documentation required for reasonable accommodation requests under ADA."
@@ -1657,10 +1657,10 @@
       "difficulty": "hard",
       "stem": "When a patient experiences discrimination due to MS, what is the priority nursing action?",
       "options": [
-        "Confront discriminator directly",
-        "Contact employer HR department",
+        "Confront the discriminator directly in the moment",
+        "Contact employer HR department on the spot",
         "Document incident and provide resource information",
-        "Refer immediately to legal counsel"
+        "Refer immediately to legal counsel without record"
       ],
       "correct_answer": 2,
       "rationale": "Documenting the incident and providing resource information (MS Society, ADA, legal aid) empowers the patient while preserving evidence for potential action."
@@ -1702,9 +1702,9 @@
       "difficulty": "easy",
       "stem": "What is considered first-line management for MS-related fatigue?",
       "options": [
-        "Methylphenidate",
-        "Modafinil",
-        "Amantadine",
+        "Methylphenidate started at a low dose and titrated up",
+        "Modafinil at the usual starting dose from the first week",
+        "Amantadine prescribed as the first-line treatment",
         "A structured fatigue-management and energy-conservation program"
       ],
       "correct_answer": 3,
@@ -1838,9 +1838,9 @@
       "stem": "Smoking has been shown to increase MS risk and progression primarily through which mechanism?",
       "options": [
         "Blood-brain barrier disruption and systemic inflammation",
-        "Decreased oxidative stress",
-        "Enhanced remyelination capacity",
-        "Increased vitamin D absorption"
+        "Decreased oxidative stress across the body",
+        "Enhanced remyelination capacity in neurons",
+        "Increased vitamin D absorption from the diet"
       ],
       "correct_answer": 0,
       "rationale": "Smoking promotes blood-brain barrier disruption and systemic inflammation, both of which contribute to MS susceptibility and disease progression. Smokers with MS have higher relapse rates and faster disability accumulation."
@@ -1852,9 +1852,9 @@
       "difficulty": "hard",
       "stem": "Which feature on MRI is most suggestive of chronic active (smoldering) MS lesions?",
       "options": [
-        "Gadolinium-enhancing lesions",
-        "Cerebral atrophy",
-        "Multiple T2 hyperintense lesions",
+        "Gadolinium-enhancing lesions on the current scan",
+        "Cerebral atrophy measured over the years",
+        "Multiple T2 hyperintense lesions overall",
         "Lesions with slowly expanding borders and paramagnetic rim"
       ],
       "correct_answer": 3,
@@ -2108,9 +2108,9 @@
       "stem": "Which approach is most effective for teaching self-management skills to MS patients?",
       "options": [
         "Reinforced, ongoing education with practice",
-        "Written materials only",
-        "Lecture-based instruction",
-        "One-time educational session"
+        "Written materials only, reviewed once",
+        "Lecture-based instruction without follow-up",
+        "One-time educational session at diagnosis"
       ],
       "correct_answer": 0,
       "rationale": "Reinforced, ongoing education with practice is most effective for teaching self-management skills in chronic conditions like MS."
@@ -2212,10 +2212,10 @@
       "difficulty": "easy",
       "stem": "Which intervention is most appropriate for managing heat sensitivity in MS patients?",
       "options": [
-        "Cognitive rehabilitation",
+        "Cognitive rehabilitation for the fatigue",
         "Cooling strategies and environment control",
-        "High-dose corticosteroids",
-        "Increased physical activity"
+        "High-dose corticosteroids for the symptoms",
+        "Increased physical activity to build tolerance"
       ],
       "correct_answer": 1,
       "rationale": "Cooling strategies and environment control are key for managing Uhthoff's phenomenon (heat sensitivity) in MS."
@@ -2303,9 +2303,9 @@
       "stem": "A patient asks which medication is FDA-approved specifically to treat MS-related fatigue. What is the accurate response?",
       "options": [
         "No medication is FDA-approved for MS fatigue; agents are used off-label",
-        "Modafinil is approved for MS fatigue",
-        "Amantadine is approved for MS fatigue",
-        "Dalfampridine is approved for MS fatigue"
+        "Modafinil is approved specifically for MS-related fatigue treatment",
+        "Amantadine is approved for the treatment of MS-related fatigue",
+        "Dalfampridine is approved for the treatment of MS fatigue"
       ],
       "correct_answer": 0,
       "rationale": "No drug carries an FDA indication for MS-related fatigue. Amantadine, modafinil, and stimulants are all prescribed off-label with modest and inconsistent trial evidence. Dalfampridine is approved only to improve walking, not fatigue. Stating this accurately matters for informed consent and for insurance appeals."
@@ -2362,10 +2362,10 @@
       "difficulty": "easy",
       "stem": "Which organization was founded to support and advance MS nursing practice globally?",
       "options": [
-        "American Academy of Neurology",
+        "American Academy of Neurology practice council",
         "International Organization of MS Nurses (IOMSN)",
-        "National MS Society",
-        "Multiple Sclerosis Coalition"
+        "National MS Society community programs",
+        "Multiple Sclerosis Coalition for patients"
       ],
       "correct_answer": 1,
       "rationale": "The International Organization of MS Nurses (IOMSN) was founded to support and advance MS nursing practice globally."
