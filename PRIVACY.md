@@ -1,10 +1,10 @@
-# Privacy Policy — MS-Cert Trainer
+# Privacy Policy — MSRN Exam Prep
 
-**Last updated: 17 September 2026**
+**Last updated: 26 September 2026**
 
 ## Summary
 
-MS-Cert Trainer collects no data. There are no accounts, no sign-in, no
+MSRN Exam Prep collects no data. There are no accounts, no sign-in, no
 analytics, no advertising, no crash reporting, and no third-party code of any
 kind. The app makes no network requests once installed.
 

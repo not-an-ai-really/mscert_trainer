@@ -1,4 +1,4 @@
-r"""Draw the MS-Cert Trainer PWA icons (512 + 192 PNG) with pygame.
+r"""Draw the MSRN Exam Prep PWA icons (512 + 192 PNG) with pygame.
 
 Usage:  python tools\make_icons.py
 

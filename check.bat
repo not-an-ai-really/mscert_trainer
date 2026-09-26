@@ -1,5 +1,5 @@
 @echo off
-rem MS-Cert Trainer - one-command check suite.
+rem MSRN Exam Prep - one-command check suite.
 rem Usage:  check.bat
 setlocal
 cd /d "%~dp0"

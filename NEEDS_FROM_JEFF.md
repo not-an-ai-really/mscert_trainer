@@ -1,4 +1,4 @@
-# MS-Cert Trainer — things only Jeff can do
+# MSRN Exam Prep — things only Jeff can do
 
 Everything code-side is built, checked (`check.bat` all green) and pushed to
 GitHub (`not-an-ai-really/mscert_trainer`, commit `db37005`, v1.3.1). The
@@ -20,7 +20,7 @@ using the app.
       airplane-mode test (close app, kill, reopen — it must still load;
       that exercises the offline cache).
 
-## Route C — real app stores (optional; was deferred earlier — still?)
+## Route C — real app stores (agreed path 2026-09-22: both stores, standalone)
 
 - [ ] **Android**: Google Play Console account ($25 one-time) — identity
       verification, 2FA, and payment are account-level, so Jeff-only.
@@ -42,12 +42,16 @@ using the app.
 - [ ] **Review**: submit, then answer any Apple/Google reviewer messages
       (inbound mail on his accounts).
 
-## Decisions (no action, just say which)
+## Decisions — Jeff answered 2026-09-22 (see the shared todo file)
 
-- [ ] **Route?** A only (recommended) vs. A + Play vs. both stores.
-- [ ] **Name**: keep "MS-Cert Trainer"? The About screen and listings already
-      disclaim any affiliation with the certifying bodies; only a final
-      call on using "MS-Cert" in the store listing is needed.
-- [ ] **Bank polish**: the audit flags 225 questions (28%) where the correct
-      option is conspicuously the longest — a real-test tell. Say the word
-      and I'll do a rewriting pass to equalize option lengths.
+- [x] **Route** — BOTH stores; the app should be compiled and standalone
+      so no hosting is needed. → Capacitor builds: Android AAB here (needs
+      the keystore step), iOS on a Mac (Jeff). Route A kept as fallback +
+      for the privacy-policy URL.
+- [x] **Name** — decided: **"MSRN Exam Prep"** (short name "MSRN Prep").
+      MSRN = Multiple Sclerosis Registered Nurse, the certification the
+      bank prepares for; keeps the credential keyword searchable in both
+      stores. Applied across the app + listings 2026-09-26.
+- [x] **Bank polish** — "yes please": rewriting pass in progress —
+      equalizing option lengths on the 225 flagged questions (28.2%),
+      keeping the key correct and the distractors wrong.

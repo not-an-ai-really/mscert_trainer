@@ -1,4 +1,4 @@
-# MS-Cert Trainer — phone app (PWA)
+# MSRN Exam Prep — phone app (PWA)
 
 A fully client-side, installable, **offline-capable** web app for practicing
 the MS-Cert question bank. No account, no server at runtime — the entire

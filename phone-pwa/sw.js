@@ -1,4 +1,4 @@
-/* MS-Cert Trainer service worker.
+/* MSRN Exam Prep service worker.
    Cache-first for same-origin GETs so the whole app (including the 799-question bank) works with zero connectivity.
 
    Bump VERSION whenever any file changes — old caches are purged on

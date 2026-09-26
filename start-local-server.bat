@@ -1,5 +1,5 @@
 @echo off
-rem MS-Cert Trainer - one-click local server.
+rem MSRN Exam Prep - one-click local server.
 rem Serves the PWA (phone-pwa as document root) on the LAN so a phone on
 rem the same WiFi can open it directly at PHONE_URL.
 setlocal
@@ -8,7 +8,7 @@ cd /d "%~dp0"
 python -c "import socket;s=socket.socket(socket.AF_INET,socket.SOCK_DGRAM);s.connect(('8.8.8.8',80));print('PHONE_URL http://' + s.getsockname()[0] + ':8080')" 2>nul
 
 echo.
-echo Starting MS-Cert Trainer at  http://localhost:8080
+echo Starting MSRN Exam Prep at  http://localhost:8080
 echo On your PHONE (same WiFi):  open the PHONE_URL above, then use your
 echo browser menu  "Add to Home Screen"  to get an app icon.
 echo (Install/offline features need HTTPS - see the publishing guide.)

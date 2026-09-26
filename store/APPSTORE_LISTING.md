@@ -1,8 +1,8 @@
-# App Store listing — MS-Cert Trainer
+# App Store listing — MSRN Exam Prep
 
 ## Facts
 
-- Name: **MS-Cert Trainer**
+- Name: **MSRN Exam Prep**
 - Subtitle: **MS nursing cert practice**
 - Primary category: **Medical** — Secondary: **Education**
 - Content rating: All Ages (no restricted content)
@@ -13,7 +13,7 @@
 
 ## Description (paste into App Store Connect)
 
-MS-Cert Trainer is an offline study companion for nurses preparing for
+MSRN Exam Prep is an offline study companion for nurses preparing for
 Multiple Sclerosis (MS) nursing certification.
 
 The app ships with a 799-question practice bank spanning the five core
@@ -72,7 +72,7 @@ nursing,ms,certification,multiple sclerosis,study,questions,practice,exam,prep,o
 
 ## App Review Information — Notes (paste verbatim)
 
-> MS-Cert Trainer is a fully functional offline application, not a
+> MSRN Exam Prep is a fully functional offline application, not a
 > repackaged website.
 >
 > The entire 799-question practice bank is embedded in the app bundle; no

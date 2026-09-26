@@ -1,6 +1,6 @@
 {
-  "name": "MS-Cert Trainer",
-  "short_name": "MS-Cert",
+  "name": "MSRN Exam Prep",
+  "short_name": "MSRN Prep",
   "description": "Offline practice questions for nurses preparing for MS nursing certification. Study aid only — not medical advice, and not affiliated with any certifying body.",
   "id": "/",
   "start_url": ".",

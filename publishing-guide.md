@@ -1,4 +1,4 @@
-# MS-Cert Trainer — Publishing Guide (phone app)
+# MSRN Exam Prep — Publishing Guide (phone app)
 
 Goal: get the 799-question PWA onto Jeff's phone as a real "app" —
 icon on the home screen, launches full-screen, **works offline**, no
@@ -77,7 +77,7 @@ bank — the app is already self-contained (the bank is embedded in
 5. Open that URL **on your phone's browser** (any network).
 6. **Android (Chrome):** menu (⋮) → **Install app** (or "Add to Home
    screen"). **iOS (Safari):** Share button → **Add to Home Screen**.
-7. Tap the new **MS-Cert** icon. It launches full-screen. Close the
+7. Tap the new **MSRN Prep** icon. It launches full-screen. Close the
    browser, turn off WiFi, and open it again — it still works (offline
    cache).
 
@@ -164,7 +164,7 @@ pays off if you're actually shipping to stores:
 **Android (Google Play)**
 1. Node.js installed. In a project folder: `npm init -y`
    then `npm i @capacitor/core @capacitor/cli`.
-2. `npx cap init "MS-Cert Trainer" com.yourname.mscert --web-dir=phone-pwa`.
+2. `npx cap init "MSRN Exam Prep" com.yourname.mscert --web-dir=phone-pwa`.
 3. `npx cap add android` → `npx cap sync`.
 4. `npx cap open android` (needs Android Studio) → Build → APK.
 5. To distribute to others you must register a **Google Play developer

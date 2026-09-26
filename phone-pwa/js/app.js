@@ -1,4 +1,4 @@
-/* MS-Cert Trainer — PWA logic. Vanilla JS, no dependencies, fully
+/* MSRN Exam Prep — PWA logic. Vanilla JS, no dependencies, fully
    client-side: the question bank ships in bank.js and all progress
    lives in localStorage. Works offline once loaded (see sw.js). */
 "use strict";
@@ -382,7 +382,7 @@ function maybeScheduleMissesReminder() {
     return Native.call("LocalNotifications", "schedule", {
       notifications: [{
         id: 42,
-        title: "MS-Cert Trainer",
+        title: "MSRN Exam Prep",
         body: state.missedIds.length + " questions from yesterday are still open. Review them?",
         date: d,
       }],
@@ -415,7 +415,7 @@ function initDailyReminder() {
     await Native.call("LocalNotifications", "schedule", {
       notifications: [{
         id: 1,
-        title: "MS-Cert Trainer",
+        title: "MSRN Exam Prep",
         body: "Time for a quick MS practice set — ten questions takes about five minutes.",
         daily: true,
         time: [9, 0],

@@ -1,8 +1,8 @@
-# Play Store listing — MS-Cert Trainer
+# Play Store listing — MSRN Exam Prep
 
 ## Facts
 
-- App name: **MS-Cert Trainer** (≤30 chars ✓)
+- App name: **MSRN Exam Prep** (14 chars, ≤30 ✓)
 - Category: Medical
 - Language: English (US)
 - App icon: 512×512 (from `phone-pwa/icons/icon-512.png`)
@@ -18,7 +18,7 @@ Offline MS nursing cert practice — 799 questions with rationales.
 
 ## Full description (≤4000 chars)
 
-MS-Cert Trainer is an offline study companion for nurses preparing for
+MSRN Exam Prep is an offline study companion for nurses preparing for
 Multiple Sclerosis (MS) nursing certification.
 
 The app ships with a 799-question practice bank spanning the five core

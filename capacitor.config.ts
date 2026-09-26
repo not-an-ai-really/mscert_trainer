@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'com.notanai.mscerttrainer',
-  appName: 'MS-Cert Trainer',
+  appName: 'MSRN Exam Prep',
   webDir: 'phone-pwa',
   backgroundColor: '#0b1026',
   server: {
