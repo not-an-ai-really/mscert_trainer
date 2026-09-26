@@ -634,5 +634,245 @@
     "Replacing the medical treatments entirely",
     "The emotional, psychological, and social impact of MS",
     "Eliminating the need for any rehabilitation"
+  ],
+  "q0474": [
+    "All DMTs have equivalent efficacy in progressive MS",
+    "DMTs are ineffective in all forms of progressive MS",
+    "Some DMTs slow disability progression in primary progressive MS",
+    "DMTs work only in relapsing forms and have no role in progressive MS"
+  ],
+  "q0478": [
+    "Expert opinion, RCTs, observational studies, and systematic reviews",
+    "Case series, observational studies, RCTs, and systematic reviews",
+    "Observational studies, RCTs, case series, and expert opinion",
+    "Systematic reviews, RCTs, observational studies, expert opinion"
+  ],
+  "q0482": [
+    "Absence of periventricular lesions on the MRI",
+    "Multiple T2 lesions in characteristic MS locations",
+    "A normal MRI appearance at baseline",
+    "A single spinal cord lesion only"
+  ],
+  "q0483": [
+    "Stable relapsing-remitting MS without progression",
+    "Primary progressive MS from the start",
+    "Secondary progressive MS with active disease",
+    "Benign MS with full recovery"
+  ],
+  "q0484": [
+    "Only sensory symptoms without motor involvement",
+    "Minimal disability despite long disease duration (10+ years)",
+    "Rapid progression requiring wheelchair within 2 years",
+    "No neurological symptoms throughout the disease course"
+  ],
+  "q0485": [
+    "Distinct attacks followed by complete recovery each and every time",
+    "Equal gender distribution favoring males overall",
+    "A younger age of onset on average",
+    "Gradual, continuous progression from onset without distinct relapses"
+  ],
+  "q0504": [
+    "Risk of exercise-induced arrhythmias over time",
+    "Risk of dilated cardiomyopathy",
+    "Risk of bradycardia and AV block during first dose",
+    "Risk of sustained hypertension"
+  ],
+  "q0505": [
+    "Permanently discontinue fingolimod for good",
+    "Temporarily stop fingolimod, treat with topical therapy, consider resuming",
+    "Continue fingolimod with close ophthalmology follow-up visits each month",
+    "Switch to another S1P receptor modulator right away"
+  ],
+  "q0506": [
+    "Ocrelizumab is safe in all trimesters of pregnancy",
+    "Ocrelizumab has no fetal effects and breastfeeding is encouraged",
+    "Ocrelizumab persists in the infant up to 6 months; monitor for immunodeficiency",
+    "Ocrelizumab should be continued throughout pregnancy for maternal benefit"
+  ],
+  "q0508": [
+    "Hepatotoxicity over time",
+    "Insomnia and poor sleep",
+    "Weight gain and appetite changes",
+    "Flushing and gastrointestinal symptoms"
+  ],
+  "q0510": [
+    "Weekly liver function tests for the first 6 months",
+    "Monthly CBC during treatment years to monitor cumulative lymphopenia",
+    "Daily ECG monitoring for QT interval prolongation",
+    "Continuous pulse oximetry during each treatment course period"
+  ],
+  "q0512": [
+    "Resume full dose immediately without monitoring",
+    "Resume full dose with 6-hour cardiac observation period",
+    "Reinitiate with a reduced dose and cardiac monitoring",
+    "Switch to alternative DMT due to loss of efficacy"
+  ],
+  "q0513": [
+    "Thyroid dysfunction (autoimmune thyroid disease)",
+    "Nephropathy (anti-GBM glomerulonephritis)",
+    "Autoimmune hepatitis over the months",
+    "Immune thrombocytopenia (ITP) later on"
+  ],
+  "q0515": [
+    "Hemolytic uremic syndrome; start plasmapheresis immediately",
+    "Vitamin K deficiency; administer vitamin K supplementation",
+    "Alemtuzumab-related anemia; transfuse packed red blood cells",
+    "ITP; treat with IVIG and/or corticosteroids, monitor platelets"
+  ],
+  "q0516": [
+    "Suggests a serious infection requiring antibiotics",
+    "Treat with plasmapheresis and immunosuppression to prevent anti-GBM nephritis",
+    "A benign finding needing no action",
+    "Indicates thyroid dysfunction requiring lifelong levothyroxine therapy"
+  ],
+  "q0518": [
+    "Proceed with infusion regardless of lymphocyte count",
+    "Administer growth factor support and continue ocrelizumab",
+    "Delay the infusion if the lymphocyte count is below 0.5 x 10^9/L",
+    "Switch to a different DMT immediately"
+  ],
+  "q0519": [
+    "Give ocrelizumab with prophylactic antivirals, monitor HBV DNA",
+    "Contraindicated; do not administer ocrelizumab",
+    "Switch to interferon beta as alternative DMT",
+    "Administer ocrelizumab without additional precautions"
+  ],
+  "q0523": [
+    "Inhibition of lymphocyte trafficking into the CNS over time",
+    "Immunomodulation through anti-inflammatory cytokine production",
+    "Reversal of established demyelination",
+    "Depletion of CD20+ B cells in the blood"
+  ],
+  "q0524": [
+    "Inhibition of mitochondrial respiration in cells",
+    "Molecular mimicry inducing Th2 bias and regulatory T-cell activation",
+    "Blockade of voltage-gated potassium channels in the nerves",
+    "Direct antiviral activity against the JC virus"
+  ],
+  "q0525": [
+    "Inhibition of dihydroorotate dehydrogenase",
+    "S1P receptor agonism causing lymphocyte sequestration in nodes",
+    "Blocks alpha-4 integrin, preventing leukocyte adhesion and CNS entry",
+    "Depletion of circulating T and B lymphocytes"
+  ],
+  "q0526": [
+    "Agonist at S1P receptors causing lymphocyte sequestration in lymph nodes",
+    "Inhibition of inflammatory cytokine production across the body",
+    "A monoclonal antibody against alpha-4 integrin",
+    "Depletion of CD20+ B cells in circulation"
+  ],
+  "q0527": [
+    "Direct antiviral activity against many different viruses",
+    "An agonist at S1P receptors on lymphocytes",
+    "Inhibits dihydroorotate dehydrogenase (pyrimidine synthesis)",
+    "A monoclonal antibody against CD52 on cells"
+  ],
+  "q0528": [
+    "Activation of Nrf2 antioxidant pathway and anti-inflammatory effects",
+    "Inhibition of alpha-4 integrin function in the blood vessels",
+    "S1P receptor agonism on lymphocytes",
+    "Depletion of B cells via CD20 targeting on cells"
+  ],
+  "q0529": [
+    "Activation of the Nrf2 antioxidant pathway in cells",
+    "Interferon receptor agonism in the CNS",
+    "Selective depletion of lymphocytes via incorporation into DNA",
+    "S1P receptor modulation on lymphocytes"
+  ],
+  "q0530": [
+    "Inhibition of dihydroorotate dehydrogenase enzyme",
+    "Activation of the Nrf2 antioxidant pathway",
+    "Anti-CD52 monoclonal antibody causing lymphocyte depletion",
+    "S1P receptor agonism on the lymphocytes"
+  ],
+  "q0531": [
+    "An anti-CD52 monoclonal antibody on lymphocytes",
+    "Nrf2 pathway activation in the cells",
+    "S1P receptor agonism on lymphocytes",
+    "Anti-CD20 monoclonal antibody causing B cell depletion"
+  ],
+  "q0532": [
+    "Treatment failure; rituximab is ineffective",
+    "May indicate T-cell mediated progression despite B cell depletion",
+    "Indicates need for corticosteroid supplementation",
+    "Requires immediate infusion due to B cell repopulation"
+  ],
+  "q0534": [
+    "Continue ocrelizumab without any changes",
+    "Increase the ocrelizumab dose further",
+    "Switch to alemtuzumab immediately instead",
+    "Consider delaying infusions until IgG levels recover"
+  ],
+  "q0535": [
+    "Administer additional alemtuzumab doses now",
+    "Switch back to the previous DMT entirely",
+    "Treat with antithyroid medications; may require lifelong therapy",
+    "Permanent discontinuation of all future monitoring visits"
+  ],
+  "q0537": [
+    "An ordinary MS relapse episode",
+    "A paradoxical reaction to natalizumab therapy",
+    "Immune reconstitution inflammatory syndrome (IRIS) - PML",
+    "Toxic leukoencephalopathy from a drug"
+  ],
+  "q0539": [
+    "Only HBV vaccination is required",
+    "Administer all live vaccines immediately after each treatment course",
+    "Update routine vaccines (influenza, pneumococcal); avoid live vaccines",
+    "No vaccinations needed"
+  ],
+  "q0545": [
+    "Injection site reactions and flu-like symptoms",
+    "Severe hypertension over the course",
+    "Dilated cardiomyopathy later",
+    "Hepatotoxicity with liver injury"
+  ],
+  "q0546": [
+    "Discontinue interferon and evaluate for depression treatment",
+    "Increase the interferon dose further",
+    "Continue interferon and just monitor mood",
+    "Switch to glatiramer acetate without any evaluation"
+  ],
+  "q0547": [
+    "Rotate among abdomen, thigh, and upper arm sites",
+    "Use same site daily to minimize confusion",
+    "Use only one site to maintain consistency",
+    "Inject only intramuscularly"
+  ],
+  "q0548": [
+    "No special considerations are needed at all",
+    "Increase the natalizumab dose before traveling",
+    "Discontinue natalizumab before the trip",
+    "Ensure PML-capable care access; carry a medication summary"
+  ],
+  "q0549": [
+    "Interferon beta-1a (weekly injection)",
+    "Siponimod (daily oral tablet)",
+    "Cladribine (weekly dosing in treatment courses)",
+    "Glatiramer acetate (daily injection)"
+  ],
+  "q0550": [
+    "Stop the prior DMT and wait for lymphocyte recovery first",
+    "Overlap both medications for safety",
+    "Discontinue and start natalizumab the same day",
+    "Discontinue natalizumab first"
+  ],
+  "q0551": [
+    "Teriflunomide is non-teratogenic and safe in pregnancy",
+    "Teriflunomide causes only transient fetal effects with no long-term concerns",
+    "Teriflunomide enhances fetal immune development",
+    "It inhibits rapidly dividing cells, harming fetal development"
+  ],
+  "q0552": [
+    "Treat acute MS relapses when they first occur",
+    "Enhance teriflunomide efficacy in the bloodstream",
+    "Rapidly lower teriflunomide levels for pregnancy or toxicity",
+    "Prevent PML from developing later"
+  ],
+  "q0553": [
+    "Only the influenza vaccine is contraindicated",
+    "Live vaccines (varicella, MMR, live influenza vaccine)",
+    "Inactivated vaccines only are the problem",
+    "All vaccines are safe"
   ]
 }

@@ -5934,7 +5934,7 @@
       "options": [
         "All DMTs have equivalent efficacy in progressive MS",
         "DMTs are ineffective in all forms of progressive MS",
-        "Some DMTs have demonstrated efficacy in slowing disability progression in primary progressive MS",
+        "Some DMTs slow disability progression in primary progressive MS",
         "DMTs work only in relapsing forms and have no role in progressive MS"
       ],
       "correct_answer": 2,
@@ -5992,10 +5992,10 @@
       "difficulty": "hard",
       "stem": "In evidence-based practice for MS nursing, which hierarchy correctly ranks the levels of evidence from highest to lowest?",
       "options": [
-        "Expert opinion, RCTs, observational studies, systematic reviews",
-        "Case series, observational studies, RCTs, systematic reviews",
-        "Observational studies, RCTs, case series, expert opinion",
-        "Systematic reviews and meta-analyses, RCTs, observational studies, expert opinion"
+        "Expert opinion, RCTs, observational studies, and systematic reviews",
+        "Case series, observational studies, RCTs, and systematic reviews",
+        "Observational studies, RCTs, case series, and expert opinion",
+        "Systematic reviews, RCTs, observational studies, expert opinion"
       ],
       "correct_answer": 3,
       "rationale": "The evidence hierarchy from highest to lowest is: (1) systematic reviews and meta-analyses, (2) randomized controlled trials, (3) observational studies (cohort, case-control), (4) case series/reports, (5) expert opinion. This hierarchy guides evidence-based practice decisions in MS nursing."
@@ -6052,10 +6052,10 @@
       "difficulty": "hard",
       "stem": "Which MRI feature is most predictive of conversion from clinically isolated syndrome to clinically definite multiple sclerosis?",
       "options": [
-        "Absence of periventricular lesions",
-        "Presence of multiple T2 hyperintense lesions, particularly periventricular, juxtacortical, or infratentorial",
-        "Normal MRI appearance",
-        "Single spinal cord lesion only"
+        "Absence of periventricular lesions on the MRI",
+        "Multiple T2 lesions in characteristic MS locations",
+        "A normal MRI appearance at baseline",
+        "A single spinal cord lesion only"
       ],
       "correct_answer": 1,
       "rationale": "Multiple T2 hyperintense lesions, particularly those with characteristic MS locations (periventricular, juxtacortical, infratentorial, or spinal cord), are strong predictors of conversion from CIS to clinically definite MS. The McDonald criteria incorporate these MRI findings to diagnose MS earlier."
@@ -6067,10 +6067,10 @@
       "difficulty": "medium",
       "stem": "A patient with relapsing-remitting MS has accumulated progressive disability over 10 years despite having occasional relapses. This pattern is most consistent with:",
       "options": [
-        "Stable relapsing-remitting MS",
-        "Primary progressive MS",
+        "Stable relapsing-remitting MS without progression",
+        "Primary progressive MS from the start",
         "Secondary progressive MS with active disease",
-        "Benign MS"
+        "Benign MS with full recovery"
       ],
       "correct_answer": 2,
       "rationale": "Secondary progressive MS (SPMS) is characterized by gradual disease progression with or without relapses. When SPMS shows evidence of relapses or new MRI activity, it is classified as SPMS with active disease. This represents the typical trajectory from RRMS after 10-20 years."
@@ -6083,7 +6083,7 @@
       "stem": "What distinguishes benign multiple sclerosis from other disease courses?",
       "options": [
         "Only sensory symptoms without motor involvement",
-        "Minimal disability accumulation despite long disease duration (typically 10+ years)",
+        "Minimal disability despite long disease duration (10+ years)",
         "Rapid progression requiring wheelchair within 2 years",
         "No neurological symptoms throughout the disease course"
       ],
@@ -6097,9 +6097,9 @@
       "difficulty": "medium",
       "stem": "Which clinical feature is most characteristic of primary progressive MS compared to relapsing-remitting MS?",
       "options": [
-        "Distinct attacks followed by complete recovery",
-        "Equal gender distribution favoring males",
-        "Younger age of onset",
+        "Distinct attacks followed by complete recovery each and every time",
+        "Equal gender distribution favoring males overall",
+        "A younger age of onset on average",
         "Gradual, continuous progression from onset without distinct relapses"
       ],
       "correct_answer": 3,
@@ -6172,10 +6172,10 @@
       "difficulty": "medium",
       "stem": "A patient with RRMS starting fingolimod requires baseline cardiac evaluation due to which specific risk?",
       "options": [
-        "Risk of arrhythmias with exercise",
-        "Risk of cardiomyopathy",
+        "Risk of exercise-induced arrhythmias over time",
+        "Risk of dilated cardiomyopathy",
         "Risk of bradycardia and AV block during first dose",
-        "Risk of hypertension"
+        "Risk of sustained hypertension"
       ],
       "correct_answer": 2,
       "rationale": "Fingolimod causes dose-dependent bradycardia and can prolong PR interval, particularly after the first dose due to lymphocyte sequestration. Patients require ECG monitoring and observation for 6 hours after initial dose. Those with cardiac conditions may require longer monitoring or cardiac consultation."
@@ -6187,10 +6187,10 @@
       "difficulty": "hard",
       "stem": "A patient on fingolimod presents with visual symptoms. Fundoscopy reveals macular edema. What is the appropriate management approach?",
       "options": [
-        "Permanently discontinue fingolimod",
-        "Temporarily discontinue fingolimod, treat with topical therapy, and consider resumption",
-        "Continue fingolimod with ophthalmology follow-up",
-        "Switch to another S1P receptor modulator immediately"
+        "Permanently discontinue fingolimod for good",
+        "Temporarily stop fingolimod, treat with topical therapy, consider resuming",
+        "Continue fingolimod with close ophthalmology follow-up visits each month",
+        "Switch to another S1P receptor modulator right away"
       ],
       "correct_answer": 1,
       "rationale": "Fingolimod-associated macular edema occurs in 1-2% of patients, typically within 3-4 months of initiation. Management includes temporarily discontinuing the drug, treating with topical carbonic anhydrase inhibitors or NSAIDs, and considering resumption once edema resolves. Baseline and periodic ophthalmologic exams are recommended."
@@ -6204,7 +6204,7 @@
       "options": [
         "Ocrelizumab is safe in all trimesters of pregnancy",
         "Ocrelizumab has no fetal effects and breastfeeding is encouraged",
-        "Ocrelizumab may persist in the infant's circulation for up to 6 months, requiring monitoring for immunodeficiency",
+        "Ocrelizumab persists in the infant up to 6 months; monitor for immunodeficiency",
         "Ocrelizumab should be continued throughout pregnancy for maternal benefit"
       ],
       "correct_answer": 2,
@@ -6232,9 +6232,9 @@
       "difficulty": "easy",
       "stem": "Which common side effect of dimethyl fumarate can be mitigated by taking the medication with food and using extended-release formulation?",
       "options": [
-        "Hepatotoxicity",
-        "Insomnia",
-        "Weight gain",
+        "Hepatotoxicity over time",
+        "Insomnia and poor sleep",
+        "Weight gain and appetite changes",
         "Flushing and gastrointestinal symptoms"
       ],
       "correct_answer": 3,
@@ -6262,10 +6262,10 @@
       "difficulty": "hard",
       "stem": "A patient starting cladribine tablets requires which specific monitoring regimen due to the drug's unique dosing schedule and mechanism?",
       "options": [
-        "Weekly liver function tests for 6 months",
+        "Weekly liver function tests for the first 6 months",
         "Monthly CBC during treatment years to monitor cumulative lymphopenia",
-        "Daily ECG monitoring for QT prolongation",
-        "Continuous pulse oximetry during each infusion"
+        "Daily ECG monitoring for QT interval prolongation",
+        "Continuous pulse oximetry during each treatment course period"
       ],
       "correct_answer": 1,
       "rationale": "Cladribine is administered as weekly treatment courses over 2 years (Years 1 and 2). Cumulative lymphopenia is the primary concern, with monthly CBC monitoring required throughout the 2-year treatment period and for 6 months after the last dose to assess lymphocyte recovery."
@@ -6294,7 +6294,7 @@
       "options": [
         "Resume full dose immediately without monitoring",
         "Resume full dose with 6-hour cardiac observation period",
-        "Reinitiate with reduced dose and gradual titration including cardiac monitoring",
+        "Reinitiate with a reduced dose and cardiac monitoring",
         "Switch to alternative DMT due to loss of efficacy"
       ],
       "correct_answer": 2,
@@ -6308,9 +6308,9 @@
       "stem": "A patient on alemtuzumab presents 6 months after the second treatment course with new rash, fatigue, and palpitations. Which autoimmune complication is most concerning?",
       "options": [
         "Thyroid dysfunction (autoimmune thyroid disease)",
-        "Nephropathy (anti-GBM disease)",
-        "Autoimmune hepatitis",
-        "Immune thrombocytopenia (ITP)"
+        "Nephropathy (anti-GBM glomerulonephritis)",
+        "Autoimmune hepatitis over the months",
+        "Immune thrombocytopenia (ITP) later on"
       ],
       "correct_answer": 0,
       "rationale": "Thyroid dysfunction is the most common autoimmune complication following alemtuzumab, occurring in up to 40% of patients and can develop anytime during the 48-month monitoring period. Monthly TSH monitoring for 48 months post-treatment is mandatory. Thyroid disease may require lifelong treatment."
@@ -6340,7 +6340,7 @@
         "Hemolytic uremic syndrome; start plasmapheresis immediately",
         "Vitamin K deficiency; administer vitamin K supplementation",
         "Alemtuzumab-related anemia; transfuse packed red blood cells",
-        "Immune thrombocytopenia (ITP); treat with IVIG and/or corticosteroids and monitor platelet counts"
+        "ITP; treat with IVIG and/or corticosteroids, monitor platelets"
       ],
       "correct_answer": 3,
       "rationale": "Immune thrombocytopenia (ITP) is a serious delayed autoimmune complication of alemtuzumab, occurring in 0.5-2% of patients, typically 1-18 months post-treatment. Management includes platelet monitoring, and treatment with IVIG, corticosteroids, or other immunosuppressants if severe. Early recognition and treatment are crucial."
@@ -6352,10 +6352,10 @@
       "difficulty": "medium",
       "stem": "A patient on alemtuzumab develops anti-GBM antibodies. What is the clinical significance and management?",
       "options": [
-        "Suggests infection requiring antibiotic treatment",
-        "Requires immediate treatment with plasmapheresis and immunosuppression to prevent anti-GBM nephritis",
-        "Benign finding; no action needed",
-        "Indicates thyroid dysfunction requiring levothyroxine"
+        "Suggests a serious infection requiring antibiotics",
+        "Treat with plasmapheresis and immunosuppression to prevent anti-GBM nephritis",
+        "A benign finding needing no action",
+        "Indicates thyroid dysfunction requiring lifelong levothyroxine therapy"
       ],
       "correct_answer": 1,
       "rationale": "Anti-GBM antibodies develop in 1-2% of alemtuzumab-treated patients and can lead to rare but serious anti-GBM nephritis (glomerulonephritis). Monthly testing for 48 months is required. If antibodies develop, immediate referral to nephrology, plasmapheresis, and immunosuppression may be necessary to prevent renal failure."
@@ -6384,7 +6384,7 @@
       "options": [
         "Proceed with infusion regardless of lymphocyte count",
         "Administer growth factor support and continue ocrelizumab",
-        "Delay infusion if absolute lymphocyte count <0.5 x 10^9/L and monitor for recovery",
+        "Delay the infusion if the lymphocyte count is below 0.5 x 10^9/L",
         "Switch to a different DMT immediately"
       ],
       "correct_answer": 2,
@@ -6397,7 +6397,7 @@
       "difficulty": "hard",
       "stem": "A patient with chronic Hepatitis B infection is being considered for ocrelizumab therapy. What is the appropriate management approach?",
       "options": [
-        "Administer ocrelizumab with prophylactic antiviral therapy and monitor HBV DNA levels",
+        "Give ocrelizumab with prophylactic antivirals, monitor HBV DNA",
         "Contraindicated; do not administer ocrelizumab",
         "Switch to interferon beta as alternative DMT",
         "Administer ocrelizumab without additional precautions"
@@ -6457,10 +6457,10 @@
       "difficulty": "easy",
       "stem": "What is the mechanism of action of interferon beta in MS treatment?",
       "options": [
-        "Inhibition of lymphocyte trafficking to CNS",
+        "Inhibition of lymphocyte trafficking into the CNS over time",
         "Immunomodulation through anti-inflammatory cytokine production",
-        "Reversal of demyelination",
-        "Depletion of CD20+ B cells"
+        "Reversal of established demyelination",
+        "Depletion of CD20+ B cells in the blood"
       ],
       "correct_answer": 1,
       "rationale": "Interferon beta is an immunomodulator that works through multiple mechanisms including anti-inflammatory effects, modulation of T-cell differentiation toward Th2 responses, and upregulation of anti-inflammatory cytokines. It does not reverse demyelination but helps reduce relapse rate and MRI lesion activity."
@@ -6472,10 +6472,10 @@
       "difficulty": "easy",
       "stem": "What is the mechanism of action of glatiramer acetate?",
       "options": [
-        "Inhibition of mitochondrial respiration",
+        "Inhibition of mitochondrial respiration in cells",
         "Molecular mimicry inducing Th2 bias and regulatory T-cell activation",
-        "Blockade of voltage-gated potassium channels",
-        "Direct antiviral activity against JC virus"
+        "Blockade of voltage-gated potassium channels in the nerves",
+        "Direct antiviral activity against the JC virus"
       ],
       "correct_answer": 1,
       "rationale": "Glatiramer acetate is a synthetic polypeptide that mimics myelin basic protein. It induces antigen-presenting cells to favor anti-inflammatory cytokine production and promotes regulatory T-cell activation, reducing CNS inflammation through molecular mimicry mechanisms."
@@ -6488,8 +6488,8 @@
       "stem": "What is the specific mechanism of action of natalizumab?",
       "options": [
         "Inhibition of dihydroorotate dehydrogenase",
-        "S1P receptor agonism causing lymphocyte sequestration",
-        "Inhibition of alpha-4 integrin preventing leukocyte adhesion and CNS trafficking",
+        "S1P receptor agonism causing lymphocyte sequestration in nodes",
+        "Blocks alpha-4 integrin, preventing leukocyte adhesion and CNS entry",
         "Depletion of circulating T and B lymphocytes"
       ],
       "correct_answer": 2,
@@ -6503,9 +6503,9 @@
       "stem": "What is the mechanism of action of fingolimod?",
       "options": [
         "Agonist at S1P receptors causing lymphocyte sequestration in lymph nodes",
-        "Inhibition of inflammatory cytokine production",
-        "Antibody against alpha-4 integrin",
-        "Depletion of CD20+ B cells"
+        "Inhibition of inflammatory cytokine production across the body",
+        "A monoclonal antibody against alpha-4 integrin",
+        "Depletion of CD20+ B cells in circulation"
       ],
       "correct_answer": 0,
       "rationale": "Fingolimod is phosphorylated in the body to fingolimod-phosphate, which acts as an S1P receptor agonist. This causes internalization of S1P3 receptors on lymphocytes, preventing their egress from lymph nodes and reducing lymphocyte trafficking to the CNS. This reduces inflammation by limiting the number of autoreactive lymphocytes that can enter the CNS."
@@ -6517,10 +6517,10 @@
       "difficulty": "medium",
       "stem": "What is the mechanism of action of teriflunomide?",
       "options": [
-        "Direct antiviral activity",
-        "Agonist at S1P receptors",
-        "Inhibition of dihydroorotate dehydrogenase reducing pyrimidine synthesis",
-        "Monoclonal antibody against CD52"
+        "Direct antiviral activity against many different viruses",
+        "An agonist at S1P receptors on lymphocytes",
+        "Inhibits dihydroorotate dehydrogenase (pyrimidine synthesis)",
+        "A monoclonal antibody against CD52 on cells"
       ],
       "correct_answer": 2,
       "rationale": "Teriflunomide is the active metabolite of leflunomide. It inhibits dihydroorotate dehydrogenase, an enzyme critical for de novo pyrimidine synthesis in lymphocytes. This preferentially affects activated T cells which require rapid proliferation, reducing their numbers and CNS infiltration."
@@ -6533,9 +6533,9 @@
       "stem": "What is the proposed mechanism of action of dimethyl fumarate in MS treatment?",
       "options": [
         "Activation of Nrf2 antioxidant pathway and anti-inflammatory effects",
-        "Inhibition of alpha-4 integrin function",
-        "S1P receptor agonism",
-        "Depletion of B cells via CD20 targeting"
+        "Inhibition of alpha-4 integrin function in the blood vessels",
+        "S1P receptor agonism on lymphocytes",
+        "Depletion of B cells via CD20 targeting on cells"
       ],
       "correct_answer": 0,
       "rationale": "Dimethyl fumarate activates the Nrf2 (nuclear factor erythroid 2-related factor 2) pathway, enhancing cellular antioxidant defenses and reducing oxidative stress. It also has anti-inflammatory effects including NF-kB pathway modulation. These mechanisms contribute to its disease-modifying effects in MS."
@@ -6547,10 +6547,10 @@
       "difficulty": "hard",
       "stem": "What is the mechanism of action of cladribine tablets?",
       "options": [
-        "Activation of Nrf2 pathway",
-        "Interferon receptor agonism",
+        "Activation of the Nrf2 antioxidant pathway in cells",
+        "Interferon receptor agonism in the CNS",
         "Selective depletion of lymphocytes via incorporation into DNA",
-        "S1P receptor modulation"
+        "S1P receptor modulation on lymphocytes"
       ],
       "correct_answer": 2,
       "rationale": "Cladribine is a purine nucleoside analog that is resistant to degradation by adenosine deaminase. It incorporates into DNA of dividing cells (particularly lymphocytes which have low levels of the enzyme that inactivates it), causing ATP depletion and DNA strand breaks, leading to apoptosis. It preferentially depletes B and T lymphocytes."
@@ -6562,10 +6562,10 @@
       "difficulty": "hard",
       "stem": "What is the mechanism of action of alemtuzumab?",
       "options": [
-        "Inhibition of dihydroorotate dehydrogenase",
-        "Activation of Nrf2 pathway",
+        "Inhibition of dihydroorotate dehydrogenase enzyme",
+        "Activation of the Nrf2 antioxidant pathway",
         "Anti-CD52 monoclonal antibody causing lymphocyte depletion",
-        "S1P receptor agonism"
+        "S1P receptor agonism on the lymphocytes"
       ],
       "correct_answer": 2,
       "rationale": "Alemtuzumab is a humanized monoclonal antibody against CD52, a surface antigen on mature lymphocytes. Binding triggers complement-mediated lysis and antibody-dependent cellular cytotoxicity, depleting both B and T cells. This profound depletion allows immune reconstitution, though with increased risk of secondary autoimmunity."
@@ -6577,9 +6577,9 @@
       "difficulty": "medium",
       "stem": "A patient is being considered for rituximab for MS (off-label). What is the mechanism of action of this drug?",
       "options": [
-        "Anti-CD52 monoclonal antibody",
-        "Nrf2 pathway activation",
-        "S1P receptor agonism",
+        "An anti-CD52 monoclonal antibody on lymphocytes",
+        "Nrf2 pathway activation in the cells",
+        "S1P receptor agonism on lymphocytes",
         "Anti-CD20 monoclonal antibody causing B cell depletion"
       ],
       "correct_answer": 3,
@@ -6593,7 +6593,7 @@
       "stem": "A patient on rituximab has undetectable CD19+ B cells but develops breakthrough relapses. What is the appropriate clinical interpretation?",
       "options": [
         "Treatment failure; rituximab is ineffective",
-        "May indicate disease progression through T-cell mediated mechanisms despite B cell depletion",
+        "May indicate T-cell mediated progression despite B cell depletion",
         "Indicates need for corticosteroid supplementation",
         "Requires immediate infusion due to B cell repopulation"
       ],
@@ -6622,9 +6622,9 @@
       "difficulty": "medium",
       "stem": "A patient receiving ocrelizumab develops persistent low IgG levels (<400 mg/dL). What is the appropriate management approach?",
       "options": [
-        "Continue ocrelizumab without changes",
-        "Increase ocrelizumab dose",
-        "Switch to alemtuzumab immediately",
+        "Continue ocrelizumab without any changes",
+        "Increase the ocrelizumab dose further",
+        "Switch to alemtuzumab immediately instead",
         "Consider delaying infusions until IgG levels recover"
       ],
       "correct_answer": 3,
@@ -6637,10 +6637,10 @@
       "difficulty": "hard",
       "stem": "A patient on alemtuzumab develops Graves' disease 2 years post-treatment. What is the appropriate management approach?",
       "options": [
-        "Administer additional alemtuzumab doses",
-        "Switch back to previous DMT",
+        "Administer additional alemtuzumab doses now",
+        "Switch back to the previous DMT entirely",
         "Treat with antithyroid medications; may require lifelong therapy",
-        "Permanent discontinuation of all monitoring"
+        "Permanent discontinuation of all future monitoring visits"
       ],
       "correct_answer": 2,
       "rationale": "Autoimmune complications including Graves' disease can develop post-alemtuzumab due to immune reconstitution abnormalities. Antithyroid medications (methimazole, propylthiouracil) are used for hyperthyroidism. Some patients may require lifelong thyroid hormone replacement or treatment. Ongoing monitoring continues for 48 months post-second course."
@@ -6667,10 +6667,10 @@
       "difficulty": "hard",
       "stem": "A patient treated with natalizumab presents 3 months post-infusion with confusion, visual field defects, and gait instability. MRI shows T2 hyperintensities in white matter without mass effect. What is the most likely diagnosis?",
       "options": [
-        "MS relapse",
-        "Paradoxical reaction to natalizumab",
+        "An ordinary MS relapse episode",
+        "A paradoxical reaction to natalizumab therapy",
         "Immune reconstitution inflammatory syndrome (IRIS) - PML",
-        "Toxic leukoencephalopathy"
+        "Toxic leukoencephalopathy from a drug"
       ],
       "correct_answer": 2,
       "rationale": "PML with IRIS can occur post-natalizumab discontinuation due to immune reconstitution against JC virus-infected cells. Symptoms may worsen after stopping natalizumab. Clinical features include focal deficits, cognitive changes, and MRI findings of non-enhancing white matter lesions. IRIS may require corticosteroids or leukapheresis."
@@ -6699,7 +6699,7 @@
       "options": [
         "Only HBV vaccination is required",
         "Administer all live vaccines immediately after each treatment course",
-        "Update all routine vaccinations including influenza and pneumococcal, avoid live vaccines",
+        "Update routine vaccines (influenza, pneumococcal); avoid live vaccines",
         "No vaccinations needed"
       ],
       "correct_answer": 2,
@@ -6788,9 +6788,9 @@
       "stem": "What is the most common adverse effect associated with interferon beta therapy that may limit adherence?",
       "options": [
         "Injection site reactions and flu-like symptoms",
-        "Severe hypertension",
-        "Cardiomyopathy",
-        "Hepatotoxicity"
+        "Severe hypertension over the course",
+        "Dilated cardiomyopathy later",
+        "Hepatotoxicity with liver injury"
       ],
       "correct_answer": 0,
       "rationale": "Injection site reactions (erythema, pain, bruising) and flu-like symptoms (fever, chills, myalgia, headache) are the most common adverse effects of interferon beta. These can often be mitigated by rotating injection sites, using topical anesthetics, and administering interferon at bedtime with acetaminophen."
@@ -6803,9 +6803,9 @@
       "stem": "A patient starting interferon beta develops depression. What is the appropriate clinical action?",
       "options": [
         "Discontinue interferon and evaluate for depression treatment",
-        "Increase interferon dose",
-        "Continue interferon and monitor",
-        "Switch to glatiramer acetate without evaluation"
+        "Increase the interferon dose further",
+        "Continue interferon and just monitor mood",
+        "Switch to glatiramer acetate without any evaluation"
       ],
       "correct_answer": 0,
       "rationale": "Interferon beta has been associated with depression and suicidal ideation. Patients should be monitored for mood changes. If significant depression develops, interferon should be discontinued, and psychiatric evaluation and treatment initiated. Alternative DMTs without neuropsychiatric effects may be considered."
@@ -6817,7 +6817,7 @@
       "difficulty": "medium",
       "stem": "What is the recommended injection site rotation strategy for subcutaneous glatiramer acetate?",
       "options": [
-        "Rotate among abdomen, thigh, and upper arm, avoiding areas with active skin lesions",
+        "Rotate among abdomen, thigh, and upper arm sites",
         "Use same site daily to minimize confusion",
         "Use only one site to maintain consistency",
         "Inject only intramuscularly"
@@ -6832,10 +6832,10 @@
       "difficulty": "medium",
       "stem": "A patient on natalizumab plans to travel internationally. What special considerations should be discussed?",
       "options": [
-        "No special considerations needed",
-        "Increase natalizumab dose before travel",
-        "Discontinue natalizumab before travel",
-        "Ensure access to healthcare that can manage PML; carry medication summary"
+        "No special considerations are needed at all",
+        "Increase the natalizumab dose before traveling",
+        "Discontinue natalizumab before the trip",
+        "Ensure PML-capable care access; carry a medication summary"
       ],
       "correct_answer": 3,
       "rationale": "Patients on natalizumab should carry a medication summary and ensure they have access to appropriate healthcare during travel. They should be aware that PML risk persists during and after treatment. Travel to areas with limited medical resources may require careful risk-benefit discussion."
@@ -6847,10 +6847,10 @@
       "difficulty": "easy",
       "stem": "Which DMT is administered via monthly subcutaneous injection?",
       "options": [
-        "Interferon beta-1a (weekly)",
-        "Siponimod (daily oral)",
+        "Interferon beta-1a (weekly injection)",
+        "Siponimod (daily oral tablet)",
         "Cladribine (weekly dosing in treatment courses)",
-        "Glatiramer acetate (daily)"
+        "Glatiramer acetate (daily injection)"
       ],
       "correct_answer": 2,
       "rationale": "Cladribine tablets are administered weekly for 2-4 weeks during months 1 and 2 (year 1), then weeks 1-2 of months 5-6 (year 2), totaling treatment for 4-8 weeks over 2 years. This unique dosing schedule allows for sustained lymphocyte depletion with limited treatment time."
@@ -6862,7 +6862,7 @@
       "difficulty": "medium",
       "stem": "A patient is switching from a DMT with lymphopenia risk to natalizumab. When should the previous DMT be discontinued relative to natalizumab initiation?",
       "options": [
-        "Stop previous DMT and wait for lymphocyte recovery before starting natalizumab",
+        "Stop the prior DMT and wait for lymphocyte recovery first",
         "Overlap both medications for safety",
         "Discontinue and start natalizumab the same day",
         "Discontinue natalizumab first"
@@ -6880,7 +6880,7 @@
         "Teriflunomide is non-teratogenic and safe in pregnancy",
         "Teriflunomide causes only transient fetal effects with no long-term concerns",
         "Teriflunomide enhances fetal immune development",
-        "Teriflunomide is teratogenic due to rapid cellular proliferation inhibition affecting fetal development"
+        "It inhibits rapidly dividing cells, harming fetal development"
       ],
       "correct_answer": 3,
       "rationale": "Teriflunomide is teratogenic (Pregnancy Category X) and may cause fetal harm. It inhibits rapidly dividing cells, which can affect fetal organogenesis and development. Women must use effective contraception during treatment and for 2 months (or 2 years without washout) after discontinuation."
@@ -6892,10 +6892,10 @@
       "difficulty": "medium",
       "stem": "What is the purpose of the accelerated elimination protocol for teriflunomide?",
       "options": [
-        "Treat acute MS relapses",
-        "Enhance teriflunomide efficacy",
-        "Rapidly lower teriflunomide blood levels for pregnancy planning or toxicity",
-        "Prevent PML"
+        "Treat acute MS relapses when they first occur",
+        "Enhance teriflunomide efficacy in the bloodstream",
+        "Rapidly lower teriflunomide levels for pregnancy or toxicity",
+        "Prevent PML from developing later"
       ],
       "correct_answer": 2,
       "rationale": "The accelerated elimination protocol (cholestyramine 8g three times daily for 11 days) rapidly reduces teriflunomide blood levels from weeks/months to days. This is used for patients who become pregnant, plan pregnancy, or experience serious toxicity requiring rapid drug clearance."
@@ -6907,9 +6907,9 @@
       "difficulty": "medium",
       "stem": "A patient on ocrelizumab requires vaccination. Which vaccines are contraindicated during therapy?",
       "options": [
-        "Only influenza vaccine is contraindicated",
-        "Live vaccines including varicella, MMR, and live attenuated influenza vaccine",
-        "Inactivated vaccines only",
+        "Only the influenza vaccine is contraindicated",
+        "Live vaccines (varicella, MMR, live influenza vaccine)",
+        "Inactivated vaccines only are the problem",
         "All vaccines are safe"
       ],
       "correct_answer": 1,
