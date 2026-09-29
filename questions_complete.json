@@ -6923,7 +6923,7 @@
       "stem": "What are the risk factors for PML in patients treated with fingolimod?",
       "options": [
         "Female gender only",
-        "No risk of PML with fingolimod",
+        "No risk of PML with fingolimod; the drug has no effect on JC virus reactivation or lymphocyte trafficking",
         "Only age >60 years",
         "JC virus positivity, immunosuppression, prolonged fingolimod use, concomitant immunosuppressants"
       ],
@@ -6953,7 +6953,7 @@
       "stem": "A patient on fingolimod presents with a heart rate of 48 bpm. What is the clinical significance of fingolimod's effect on cardiac conduction?",
       "options": [
         "Indicates need for immediate defibrillation",
-        "Benign bradycardia with no clinical significance",
+        "Benign bradycardia with no clinical significance; no monitoring is needed after the first dose of fingolimod",
         "Permanent conduction system damage",
         "Dose-dependent transient bradycardia and PR prolongation; requires monitoring in first 6 hours"
       ],
@@ -6968,7 +6968,7 @@
       "stem": "What is the recommended ophthalmologic monitoring for patients on fingolimod?",
       "options": [
         "Annual eye exam only",
-        "Monthly eye examinations",
+        "Monthly eye examinations for the entire duration of fingolimod therapy to detect macular edema early",
         "No eye monitoring needed",
         "Baseline and 3-4 month examination for macular edema, especially in diabetics or uveitis patients"
       ],
@@ -6985,7 +6985,7 @@
         "Discontinue fingolimod permanently",
         "Temporarily discontinue fingolimod and treat with antiviral therapy",
         "Switch to natalizumab immediately",
-        "Continue fingolimod and treat infection"
+        "Continue fingolimod at the same dose while treating the shingles with antiviral therapy"
       ],
       "correct_answer": 1,
       "rationale": "Herpes zoster can occur with fingolimod due to T-cell sequestration. Management includes temporary discontinuation of fingolimod during acute infection and antiviral treatment. Fingolimod may be resumed after infection resolves. Consideration for zoster vaccination in appropriate candidates should be made."
@@ -6997,7 +6997,7 @@
       "difficulty": "hard",
       "stem": "What is the recommended monitoring for methemoglobinemia in patients receiving dimethyl fumarate?",
       "options": [
-        "Monthly CBC for methemoglobin levels",
+        "Monthly complete blood counts to track methemoglobin levels throughout treatment",
         "Annual arterial blood gases",
         "Daily pulse oximetry",
         "No routine monitoring; monitor clinically for cyanosis, fatigue, dyspnea"
@@ -7043,7 +7043,7 @@
       "stem": "What is the dosing schedule for alemtuzumab treatment courses?",
       "options": [
         "Daily for 30 days",
-        "Monthly for 12 months",
+        "Monthly infusions for the first 12 months, then stop treatment permanently after that period",
         "5 consecutive days followed by 30-day break, then 3 consecutive days one year later",
         "Weekly for 6 months"
       ],
@@ -7057,7 +7057,7 @@
       "difficulty": "medium",
       "stem": "What is the hospitalization requirement for alemtuzumab administration?",
       "options": [
-        "Outpatient infusion center only",
+        "Any outpatient infusion center is acceptable as long as the patient has no prior reaction history",
         "Home infusion is acceptable",
         "Certified hospital or skilled nursing facility with appropriate monitoring capability",
         "No specific facility requirements"
@@ -7072,7 +7072,7 @@
       "difficulty": "medium",
       "stem": "A patient on natalizumab experiences an infusion reaction. What is the appropriate management?",
       "options": [
-        "No action needed; tolerance will develop",
+        "No action is needed because patients always develop tolerance to natalizumab infusion reactions over time",
         "Increase infusion rate",
         "Administer additional dose",
         "Discontinue infusion immediately; if mild, can restart at 50% rate after symptoms resolve"
@@ -7089,7 +7089,7 @@
       "options": [
         "Corticosteroid, antihistamine, and antipyretic prior to infusion",
         "No premedication required",
-        "Acetaminophen and antihistamine only",
+        "Acetaminophen and an antihistamine given together at least one hour before the infusion starts",
         "Acetaminophen 30 minutes before only"
       ],
       "correct_answer": 0,
@@ -7105,7 +7105,7 @@
         "Administer additional alemtuzumab dose",
         "No treatment needed; self-limiting",
         "Treat as MS relapse with corticosteroids; alemtuzumab-related demyelination",
-        "Diagnose as PML and start antiviral therapy"
+        "Diagnose as progressive multifocal leukoencephalopathy and begin antiviral therapy immediately"
       ],
       "correct_answer": 2,
       "rationale": "Alemtuzumab can rarely cause demyelination as a delayed adverse effect, occurring 1 week to months post-treatment. Treatment with corticosteroids is recommended for significant symptoms. This is a rare but serious adverse reaction requiring prompt recognition and management."
@@ -7119,7 +7119,7 @@
       "options": [
         "No malignancy screening needed",
         "Screen for HBV before initiation; routine malignancy screening as per general population",
-        "Annual CT scans of chest and abdomen",
+        "Annual CT scans of the chest and abdomen to detect early malignancy in all treated patients",
         "Monthly blood counts for leukemia detection"
       ],
       "correct_answer": 1,
@@ -7178,7 +7178,7 @@
       "stem": "What is the recommended monitoring for patients on dimethyl fumarate regarding liver function?",
       "options": [
         "Monthly LFTs for first 6 months, then quarterly",
-        "LFTs only if symptoms develop",
+        "LFTs only if the patient develops symptoms suggesting liver injury",
         "Annual LFTs only",
         "No monitoring needed"
       ],
@@ -7208,7 +7208,7 @@
       "stem": "What is the recommended monitoring for lipid levels in patients on teriflunomide?",
       "options": [
         "Weekly lipid panels",
-        "Annual lipid monitoring only after 1 year",
+        "Annual lipid panel monitoring beginning one year into treatment and then every year thereafter",
         "Baseline and periodic monitoring; treat elevated cholesterol per guidelines",
         "No lipid monitoring required"
       ],
@@ -7237,7 +7237,7 @@
       "difficulty": "medium",
       "stem": "What is the appropriate management for a patient on fingolimod who develops a serious infection?",
       "options": [
-        "Continue fingolimod and treat infection",
+        "Continue fingolimod at the full dose while treating the serious infection with antibiotics",
         "Discontinue fingolimod permanently",
         "Temporarily suspend fingolimod until infection resolves, then reconsider continuation",
         "Switch to natalizumab immediately"
@@ -7253,7 +7253,7 @@
       "stem": "A patient on natalizumab develops elevated liver enzymes (ALT 4x ULN). What is the appropriate management?",
       "options": [
         "Continue natalizumab without changes",
-        "Switch to interferon immediately without evaluation",
+        "Switch to an interferon beta formulation immediately without any further liver workup or evaluation",
         "Increase natalizumab dose",
         "Interrupt natalizumab, evaluate for other causes, and consider resumption or switch"
       ],
@@ -7267,8 +7267,8 @@
       "difficulty": "hard",
       "stem": "When comparing DMTs by efficacy, which class of medications generally demonstrates the highest reduction in relapse rates and MRI activity?",
       "options": [
-        "S1P receptor modulators only",
-        "Anti-CD20 monoclonal antibodies and high-efficacy oral agents (natalizumab, ocrelizumab)",
+        "S1P receptor modulators such as fingolimod and siponimod, which are the most effective class overall",
+        "High-efficacy agents such as anti-CD20 monoclonal antibodies (ocrelizumab) and natalizumab",
         "Glatiramer acetate",
         "Interferon beta formulations"
       ],
@@ -7284,7 +7284,7 @@
       "options": [
         "No disease activity indicated by absence of relapses, disability progression, and MRI activity",
         "Complete cure of MS",
-        "Only absence of relapses",
+        "Only the absence of clinical relapses over the past year, regardless of MRI findings or progression",
         "Only absence of MRI lesions"
       ],
       "correct_answer": 0,
@@ -7345,7 +7345,7 @@
         "Required for all progressive MS",
         "Generally not recommended; sequential use preferred",
         "Preferred over monotherapy",
-        "Standard practice for all patients"
+        "Standard practice for all patients starting disease-modifying therapy in MS"
       ],
       "correct_answer": 1,
       "rationale": "Combination therapy with multiple DMTs is generally not recommended due to increased infection risk without proven benefit. Sequential DMT use (switching from one to another) is preferred when treatment failure occurs. Some bridging strategies may be used during DMT transitions."
@@ -7357,7 +7357,7 @@
       "difficulty": "hard",
       "stem": "A patient starting alemtuzumab requires prophylactic antiviral coverage. What is the rationale and duration?",
       "options": [
-        "Only required for patients with history of herpes",
+        "Only required for patients who have a documented history of prior herpes zoster infections",
         "Prophylaxis for 2 years post-treatment",
         "Prophylactic antivirals for 6 months to prevent herpes infections due to immunosuppression",
         "Not recommended; antivirals are unnecessary"
@@ -7374,7 +7374,7 @@
       "options": [
         "First 3 months of treatment",
         "After 24 months in JC virus-positive patients, especially with high antibody index",
-        "Equal risk throughout treatment duration",
+        "Equal risk at every point during the entire treatment duration regardless of JC virus status",
         "Risk only occurs after discontinuation"
       ],
       "correct_answer": 1,
@@ -7389,7 +7389,7 @@
       "options": [
         "Only occurs with interferon discontinuation",
         "Severe relapses, new MRI activity, and potential rapid disability progression requiring treatment re-initiation or alternative",
-        "Benign and expected with no clinical significance",
+        "Benign and expected with no clinical significance, so no follow-up MRI surveillance or treatment changes are ever needed",
         "Occurs in <1% of patients"
       ],
       "correct_answer": 1,
@@ -7404,7 +7404,7 @@
       "options": [
         "Annually",
         "Monthly for first 6 months, then every 3 months",
-        "Only if symptoms develop",
+        "Only if symptoms of infection develop during treatment",
         "Only at baseline"
       ],
       "correct_answer": 1,
@@ -7419,7 +7419,7 @@
       "options": [
         "Permanent crossover contraindicated",
         "Minimum 4 weeks washout to allow S1P receptor normalization",
-        "6 months required",
+        "At least 6 months of washout is required before any new therapy can begin safely",
         "No washout required"
       ],
       "correct_answer": 1,
@@ -7432,7 +7432,7 @@
       "difficulty": "medium",
       "stem": "When administering interferon beta, what timing recommendation can minimize flu-like side effects?",
       "options": [
-        "Timing does not affect side effects",
+        "Timing does not meaningfully affect the severity or duration of flu-like side effects",
         "Mid-afternoon only",
         "Morning administration",
         "Bedtime administration with acetaminophen 30-60 minutes before"
@@ -7447,7 +7447,7 @@
       "difficulty": "easy",
       "stem": "What is the typical injection site rotation strategy recommended for subcutaneous MS medications?",
       "options": [
-        "Use same site every day",
+        "Use the exact same site every day so that absorption stays consistent over time",
         "Rotate sites at least 1 inch apart; avoid scars and bruises",
         "Use only one injection site",
         "Inject into muscle instead"
@@ -7465,7 +7465,7 @@
         "0.5 mL per site maximum",
         "1 mL per site; larger volumes should be divided among sites",
         "2 mL per site is required for efficacy",
-        "No volume limit; inject all at once"
+        "There is no practical volume limit, so the entire dose can be injected at one site"
       ],
       "correct_answer": 1,
       "rationale": "For the 40 mg/mL glatiramer acetate formulation, the total dose may require >1mL injection volume. The injection should be divided among at least two sites (typically upper arm or abdomen) to minimize injection site reactions and ensure proper absorption."
@@ -7479,7 +7479,7 @@
       "options": [
         "Reduce starting dose from 2 mg to 1 mg; adjust accordingly",
         "No adjustment needed",
-        "Contraindicated in intermediate metabolizers",
+        "Siponimod is contraindicated and must never be started in intermediate metabolizers",
         "Double the dose"
       ],
       "correct_answer": 0,
@@ -7495,7 +7495,7 @@
         "Requires genetic retesting",
         "Safe to use at standard dose",
         "Contraindicated; CYP2C9 poor metabolizers should not receive siponimod",
-        "Use with caution at half dose"
+        "It may be used with caution at a reduced half dose if the patient is closely monitored"
       ],
       "correct_answer": 2,
       "rationale": "Siponimod is contraindicated in CYP2C9 poor metabolizers due to significantly increased drug exposure and toxicity risk. CYP2C9 genotyping is mandatory before initiation, and poor metabolizers should not receive this medication."
@@ -7537,7 +7537,7 @@
       "difficulty": "medium",
       "stem": "What is the appropriate management of siponimod prior to invasive procedures requiring anesthesia?",
       "options": [
-        "Continue without interruption",
+        "Continue the medication without any interruption through the perioperative period",
         "Withhold siponimod for at least 3 days before procedure",
         "Switch to IV corticosteroids temporarily",
         "Increase dose before procedure"
@@ -7598,7 +7598,7 @@
       "stem": "A patient on alemtuzumab has persistent autoimmune thrombocytopenia despite treatment. What is the long-term prognosis?",
       "options": [
         "Never occurs after alemtuzumab",
-        "Always resolves completely within 1 month",
+        "It always resolves completely within one month of starting treatment in every patient",
         "Only occurs with thyroid dysfunction",
         "May require long-term treatment; rare cases can be severe and life-threatening"
       ],
@@ -7627,7 +7627,7 @@
       "difficulty": "easy",
       "stem": "A nurse is reviewing MS epidemiology for the clinic team. Which statement best distinguishes incidence from prevalence?",
       "options": [
-        "Incidence includes every case regardless of duration; prevalence counts only newly diagnosed patients",
+        "Incidence includes every existing case regardless of how long it has lasted, while prevalence counts only the newly diagnosed patients in a given year",
         "Incidence is the number of new cases in a defined population over time; prevalence is the total number of existing cases at a point in time",
         "Incidence counts only relapses; prevalence counts only irreversible disability",
         "Incidence measures deaths from disease; prevalence measures new diagnoses"
@@ -7718,7 +7718,7 @@
       "stem": "When counseling a pregnant woman about her relapse risk in multiple sclerosis, which pattern should the nurse describe?",
       "options": [
         "Pregnancy permanently suppresses MS activity for the remainder of life",
-        "Exacerbations increase during the third trimester and decrease after delivery",
+        "Exacerbations steadily increase through the second and third trimesters, then gradually decrease in the months immediately following delivery",
         "Relapse risk is unchanged during pregnancy and immediately after delivery",
         "A roughly sevenfold decrease in exacerbations during pregnancy and a sevenfold increase during the six months after delivery"
       ],
@@ -7732,7 +7732,7 @@
       "difficulty": "easy",
       "stem": "Which statement about the age of onset of MS is accurate?",
       "options": [
-        "Onset age is identical for men and women in every disease form",
+        "The typical onset age is essentially identical for men and women across every clinical form of the disease",
         "MS almost always begins before age 10",
         "Onset most often occurs between 20 and 40 years, with an average around 28 to 30 years",
         "Most onsets occur after age 60"
@@ -7749,7 +7749,7 @@
       "options": [
         "MS is caused solely by environmental exposures, with no genetic contribution",
         "MS is inherited as a single-gene autosomal dominant disorder",
-        "MS is caused by a single identified infectious agent and spreads between people",
+        "MS is caused by one specific, already-identified infectious agent that can spread directly from person to person",
         "MS is thought to result from gene-environment interactions, and there is no evidence that it is transmissible"
       ],
       "correct_answer": 3,
@@ -7765,7 +7765,7 @@
         "Prevalence is identical across all racial groups worldwide",
         "MS is virtually absent among Caucasians",
         "Highest in whites and people of Scandinavian descent; lowest in Japanese people among industrialized countries; rare in people of African descent",
-        "The Japanese have the highest MS prevalence of any industrialized country"
+        "People of Japanese descent have, by a wide margin, the highest documented MS prevalence of any population in an industrialized country"
       ],
       "correct_answer": 2,
       "rationale": "MS shows a clear predilection for whites and Caucasians, with the highest rates in Scandinavia and people of Scandinavian descent; Japanese prevalence is lowest among industrialized countries and the disease is rare among African Blacks. Asian patients more often present with optic and spinal cord involvement and older onset."
@@ -7777,7 +7777,7 @@
       "difficulty": "easy",
       "stem": "A colleague asks why MS is described as a clinical diagnosis. Which response is most accurate?",
       "options": [
-        "Brain biopsy is required to confirm MS in every patient",
+        "A brain biopsy showing characteristic demyelinating plaques is required before a definitive diagnosis can be made in any patient",
         "No single definitive laboratory test confirms MS; the diagnosis rests on the clinical picture supported by investigations",
         "MS can only be diagnosed with certainty at autopsy",
         "A single blood test can confirm the diagnosis"
@@ -7807,7 +7807,7 @@
       "difficulty": "medium",
       "stem": "A young woman presents with a first episode of optic neuritis and a normal MRI at presentation. Which combination of factors indicates the MOST favorable prognosis?",
       "options": [
-        "Male gender, high MRI lesion load at presentation, and no recovery from the first attack",
+        "Male gender, a high MRI lesion load at initial presentation, and little or no functional recovery after the first attack",
         "Older age at onset, high relapse rate, and early development of disability",
         "Insidious motor onset with early cerebellar involvement",
         "Young age at onset, complete recovery from the first relapse, low relapse rate, and a long interval to the second relapse"
@@ -7882,7 +7882,7 @@
       "difficulty": "easy",
       "stem": "A patient with MS reports that hot weather predictably worsens her existing neurologic symptoms. Which mechanism best explains this phenomenon?",
       "options": [
-        "Heat increases myelin production and strengthens conduction",
+        "Heat exposure stimulates increased myelin production, which temporarily strengthens nerve conduction overall",
         "Heat creates new inflammatory plaques on contact",
         "Demyelinated fibers already conduct poorly and fail conduction when body temperature rises",
         "Heat suppresses immune responses, unmasking latent deficits"
@@ -7897,7 +7897,7 @@
       "difficulty": "easy",
       "stem": "Which statement accurately describes the distribution of MS lesions?",
       "options": [
-        "Lesions are always of the same age and in the same location",
+        "All lesions are always of exactly the same age and confined to the very same anatomic location",
         "Lesions are disseminated in location, vary in age, and involve both white and gray matter",
         "Lesions occur exclusively in the cerebellum",
         "Lesions are confined to peripheral nerves only"
@@ -7914,7 +7914,7 @@
       "options": [
         "Reversible swelling of intact myelin sheaths",
         "Irreversible axonal damage resulting from ongoing inflammation and demyelination",
-        "Inflammation that destroys Schwann cells in the peripheral nerves",
+        "Ongoing inflammation that progressively destroys Schwann cells within the peripheral nervous system",
         "Autoimmune attack on acetylcholine receptors"
       ],
       "correct_answer": 1,
@@ -7928,7 +7928,7 @@
       "stem": "Which cells characterize an ACUTE multiple sclerosis lesion?",
       "options": [
         "Oligodendrocyte precursors only",
-        "Platelet plugs with intact myelin segments",
+        "Platelet plugs with intact myelin segments and no inflammatory infiltrate",
         "T lymphocytes, plasma cells, macrophages, and demyelinated or transected axons",
         "Neutrophils and mast cells only"
       ],
@@ -7942,7 +7942,7 @@
       "difficulty": "hard",
       "stem": "A Phase III trial of a disease-modifying therapy tracks brain volume on MRI over several years. Why is brain atrophy a meaningful outcome measure?",
       "options": [
-        "It occurs only after optic neuritis and has no relation to disability",
+        "It occurs only after optic neuritis, is limited to specific brain regions, and has no relation to disability",
         "It is an expected side effect of all disease-modifying therapies",
         "It has no correlation with clinical disease progression",
         "It reflects progressive neurodegeneration, and a slowing of atrophy can indicate therapeutic efficacy"
@@ -7958,7 +7958,7 @@
       "stem": "A public health nurse is asked to define the 'numerator' and 'denominator' when calculating the prevalence of MS in a county. Which pairing is correct?",
       "options": [
         "Numerator: all persons with MS in the county at that time; denominator: the population at risk",
-        "Numerator: new relapses this year; denominator: number of relapses last year",
+        "Numerator: all new MS relapses recorded this year; denominator: the total number of relapses last year",
         "Numerator: neurologists in the county; denominator: number of MRI units",
         "Numerator: new MS deaths that year; denominator: total hospital admissions"
       ],
@@ -7974,7 +7974,7 @@
       "options": [
         "The sibling risk is only about 4-5%, far below the 20-26% identical-twin concordance, so environment still matters substantially",
         "Sibling risk exceeds identical-twin risk because of shared household exposure",
-        "The student is right - both risks are approximately 25%",
+        "The student is right - because all genes are shared, both the sibling and the identical twin carry roughly a 25% risk",
         "Twin studies are irrelevant because MS is purely environmental"
       ],
       "correct_answer": 0,
@@ -8004,7 +8004,7 @@
       "options": [
         "Teaching a newly diagnosed patient strategies that forestall complications such as falls and injury",
         "Starting a disease-modifying therapy for the first time",
-        "Promoting general wellness in an asymptomatic person with no known neurologic disease",
+        "Promoting general wellness and healthy habits in an asymptomatic person with no known neurologic disease",
         "Recovering function after many years of accumulated disability"
       ],
       "correct_answer": 0,
@@ -8079,7 +8079,7 @@
       "options": [
         "The only authority who overrides the patient's value system",
         "Change agent, interacting with the patient's values and beliefs to influence change and adaptation",
-        "A role reserved for physicians; the nurse does not facilitate behavior change",
+        "A role reserved exclusively for physicians and psychologists; the nurse does not facilitate behavior change",
         "Passive information dispenser who hands out written medication lists"
       ],
       "correct_answer": 1,
@@ -8095,7 +8095,7 @@
         "The environment, social and economic factors, ethnocultural concerns, and available resources",
         "Only the patient's insurance status",
         "Only the pharmacology of the prescribed drug",
-        "Only the convenience of the healthcare institution"
+        "Only the convenience and scheduling priorities of the healthcare institution and its staff"
       ],
       "correct_answer": 0,
       "rationale": "Change must be planned with respect for the environment, social and economic factors, ethnocultural concerns, and resources. The nurse also identifies the patient's belief or value system and potential barriers to goals or the treatment plan."
@@ -8154,7 +8154,7 @@
       "options": [
         "Strengthen her awareness and self-efficacy, and plan a future quit date with her",
         "Stop counseling until the next relapse",
-        "Declare an immediate quit date regardless of the patient's timeline",
+        "Declare an immediate quit date this week regardless of the patient's stated timeline and readiness",
         "Prescribe a smoking-cessation drug and end the encounter"
       ],
       "correct_answer": 0,
@@ -8168,7 +8168,7 @@
       "stem": "Before teaching a patient a new symptom-management skill, which step comes FIRST?",
       "options": [
         "Skipping teaching because internet resources are sufficient",
-        "Delivering a 30-minute lecture regardless of the patient's fatigue",
+        "Delivering a full 30-minute lecture regardless of the patient's fatigue level or questions",
         "Leaving a pamphlet and ending the visit",
         "Assessing the patient's readiness, preferred learning style, and current understanding"
       ],
@@ -8198,7 +8198,7 @@
       "stem": "When teaching an OLDER ADULT with newly diagnosed MS, which consideration is most important?",
       "options": [
         "Teaching only the family member and not the patient",
-        "Using technical jargon to build the patient's confidence",
+        "Using dense technical jargon throughout to build the patient's sense of confidence and competence",
         "Rushing the session to avoid fatigue",
         "Adapting pace and modality to sensory and cognitive changes and confirming understanding"
       ],
@@ -8212,7 +8212,7 @@
       "difficulty": "medium",
       "stem": "When planning education for a CHILD newly diagnosed with MS, which approach best meets the child's needs?",
       "options": [
-        "Deferring all education until the child reaches adulthood",
+        "Deferring all formal education about the diagnosis until the child reaches adulthood and can consent",
         "Keeping the diagnosis secret from the child",
         "Age-appropriate language with caregiver involvement and honest, reassuring information about the illness",
         "The same detailed lecture prepared for an adult"
@@ -8227,7 +8227,7 @@
       "difficulty": "medium",
       "stem": "Why should a nurse assess health literacy when planning MS education?",
       "options": [
-        "Literacy has no measurable effect on medication adherence",
+        "Literacy has no measurable effect on medication adherence or on understanding of any health instructions",
         "Only physicians are permitted to assess literacy",
         "Literacy assessment is required only before surgery",
         "Limited literacy reduces comprehension and retention of written and spoken instructions"
@@ -8245,7 +8245,7 @@
         "Assess barriers, jointly develop realistic milestones, and reassess regularly while honoring the patient's values and circumstances",
         "Document noncompliance once and discontinue follow-up",
         "Instruct the family to compel the patient to exercise",
-        "Stop all behavioral intervention because medications alone are sufficient"
+        "Stop all behavioral intervention and follow-up coaching because the prescribed medications alone are sufficient to sustain exercise"
       ],
       "correct_answer": 0,
       "rationale": "Change theory in MS nursing calls for assessing status and functioning, jointly developing milestones, identifying and working through barriers and value systems, and continually reassessing - the comprehensive route to sustained adherence to complex protocols."
@@ -8259,7 +8259,7 @@
       "options": [
         "A single verbal explanation at the start visit",
         "Individualized teaching with self-management goals, barrier problem-solving, and scheduled follow-up",
-        "No intervention - adherence is entirely the patient's responsibility",
+        "No further nursing intervention - long-term adherence to a complex regimen is entirely the patient's own responsibility",
         "Mailing generic leaflets once a year"
       ],
       "correct_answer": 1,
@@ -8287,7 +8287,7 @@
       "difficulty": "easy",
       "stem": "A nurse is considering voluntary specialist certification in multiple sclerosis nursing. Passing the certification examination primarily validates what?",
       "options": [
-        "Employment by a particular hospital system",
+        "Guaranteed employment and automatic promotion within a particular hospital system",
         "Immunity from malpractice liability",
         "A state license to practice medicine",
         "The nurse's specialized knowledge and expertise in caring for people with MS"
@@ -8317,7 +8317,7 @@
       "difficulty": "easy",
       "stem": "Which experience requirement is generally expected before candidates sit for MS nursing certification examinations?",
       "options": [
-        "Five years of any non-MS clinical experience",
+        "Five or more years of general clinical experience in any specialty, with no MS-specific requirement at all",
         "Active nursing licensure plus a minimum period of direct MS nursing experience (for example, at least 2 years)",
         "A doctorate in nursing practice",
         "No clinical experience is required"
@@ -8333,7 +8333,7 @@
       "stem": "Which statement best describes the role of the International Organization of MS Nurses (IOMSN)?",
       "options": [
         "It prescribes medications for people with MS",
-        "It markets disease-modifying therapies directly to consumers",
+        "It markets and promotes specific disease-modifying therapies directly to consumers through advertising campaigns",
         "It replaces national nursing licensure boards",
         "It advances MS nursing practice, standards, and research, and supports certification and education initiatives"
       ],
@@ -8347,7 +8347,7 @@
       "difficulty": "medium",
       "stem": "Why is continuing education emphasized in MS nursing professional development?",
       "options": [
-        "State boards no longer require licensure in specialty areas",
+        "State boards of nursing no longer require any licensure or renewal requirements in recognized specialty areas such as MS care",
         "The evidence base - new DMT approvals and revised diagnostic criteria - evolves rapidly, so practice must stay current",
         "Continuing education is mandatory in no specialty",
         "MS has been cured, so the literature no longer changes"
@@ -8362,7 +8362,7 @@
       "difficulty": "medium",
       "stem": "What is the FIRST step in applying evidence-based practice to a new symptom-management protocol in an MS clinic?",
       "options": [
-        "Implementing the protocol immediately because a new journal endorsed it",
+        "Implementing the protocol immediately in all patients because one new journal article recently endorsed it",
         "Integrating the best current evidence with clinical expertise and patient values and preferences",
         "Applying a textbook chapter written ten years ago",
         "Using patient preference as the sole basis for change"
@@ -8378,7 +8378,7 @@
       "stem": "A specialist MS nurse leads a weekly symptom-management huddle with physical therapy, occupational therapy, social work, and pharmacy. Which professional competency does this best demonstrate?",
       "options": [
         "Leadership in multidisciplinary team coordination",
-        "Independent prescribing authority",
+        "Independent prescribing authority for all disease-modifying therapies",
         "Financial auditing",
         "Advanced surgical technique"
       ],
@@ -8407,7 +8407,7 @@
       "difficulty": "medium",
       "stem": "How do national standards of MS nursing practice primarily benefit the discipline?",
       "options": [
-        "They eliminate the need for clinical judgment",
+        "They eliminate the need for clinical judgment in every individualized MS nursing decision",
         "They prescribe drug dosages",
         "They define expected, evidence-based roles and outcomes against which care can be judged",
         "They replace legal requirements for nursing practice"
@@ -8424,7 +8424,7 @@
       "options": [
         "Purchase 'credits' from an unaccredited vendor",
         "Abandon certification because renewal is not worthwhile",
-        "Wait until the final month before making any plans",
+        "Wait until the final month of the certification cycle and hope that a last-minute course or two closes any gap",
         "Audit her current credits against the recertification requirements and build a plan to close any gap"
       ],
       "correct_answer": 3,
@@ -8468,7 +8468,7 @@
       "stem": "In a randomized clinical trial of a new MS therapy, what is the main purpose of the standard-treatment (control) group?",
       "options": [
         "To prevent the study from being published",
-        "To be denied all medical care by design",
+        "To serve as a group that receives no treatment at all, so that any improvement in the experimental arm looks dramatic",
         "To increase side effects on purpose",
         "To provide a comparison against which the effect of the experimental intervention is measured"
       ],
@@ -8485,7 +8485,7 @@
         "To distribute known and unknown confounding factors evenly across groups",
         "Because nurses prefer random scheduling",
         "To shorten the duration of the trial",
-        "To guarantee every participant receives the new drug"
+        "To guarantee that every participant in the trial eventually receives the new experimental drug"
       ],
       "correct_answer": 0,
       "rationale": "Random assignment balances confounders between groups so that, on average, the groups are comparable; any remaining outcome difference can then plausibly be attributed to the intervention rather than selection bias."
@@ -8543,7 +8543,7 @@
       "stem": "Why do case reports and case series sit at the bottom of the hierarchy of treatment evidence?",
       "options": [
         "They are always fraudulent",
-        "Regulations require them to be performed before every RCT",
+        "Because regulations require that a case series be completed and approved before any randomized trial may begin",
         "They use too many participants to be credible",
         "They lack comparison groups and are vulnerable to confounding, so they generate rather than confirm hypotheses"
       ],
@@ -8560,7 +8560,7 @@
         "Bias in outcome assessment and reporting by participants and raters",
         "The need for ethics review",
         "The true efficacy of the drug",
-        "The cost of conducting the study"
+        "The overall cost and duration required to conduct the study from start to finish"
       ],
       "correct_answer": 0,
       "rationale": "Blinding reduces performance and detection bias: when neither participants nor raters know the assignment, reported symptoms and measured outcomes are less likely to be influenced by expectations."
@@ -8573,7 +8573,7 @@
       "stem": "Which ethical principle requires that participants in an MS study understand the risks and benefits and voluntarily agree to take part?",
       "options": [
         "Falsification of records",
-        "Confidentiality of advertising",
+        "Confidentiality of advertising materials used to recruit study participants",
         "Respect for persons (autonomy), as operationalized through informed consent",
         "Justice as cost allocation"
       ],
@@ -8589,7 +8589,7 @@
       "options": [
         "Protect the rights, safety, and welfare of research participants",
         "Approve marketing of the sponsor's drugs",
-        "Choose the winning treatment arm in advance",
+        "Choose which treatment arm will win before any participant is enrolled or treated",
         "Guarantee funding for the study"
       ],
       "correct_answer": 0,
@@ -8632,7 +8632,7 @@
       "difficulty": "medium",
       "stem": "An MS trial enrolls participants with significant cognitive impairment. Which additional protection is most appropriate?",
       "options": [
-        "Consent obtained only from the sponsor's sales representative",
+        "Consent obtained only from the sponsor's sales representative, since industry staff know the study best",
         "No individual consent - IRB approval automatically covers all participants",
         "Consent from a legally authorized representative, together with the participant's own assent when possible",
         "Enrolling the participant with no consent at all because research takes priority"
@@ -8648,7 +8648,7 @@
       "stem": "Which practice VIOLATES the principle of justice in MS research?",
       "options": [
         "Selecting participants only because they are easy to recruit, without regard to who will benefit from the results",
-        "Randomly assigning participants to treatment arms",
+        "Randomly assigning participants to treatment arms by computer-generated sequence at the start of enrollment",
         "Reporting results, including null findings",
         "Requiring written informed consent"
       ],
@@ -8663,7 +8663,7 @@
       "stem": "When integrating evidence into MS care, which source of evidence generally ranks HIGHEST in the evidence hierarchy for treatment questions?",
       "options": [
         "A nurse's personal opinion with no reference to the literature",
-        "An industry brochure without clinical data",
+        "An industry promotional brochure that summarizes the drug's marketing claims without any clinical data",
         "A single anecdotal case report",
         "A systematic review or meta-analysis of well-conducted randomized controlled trials"
       ],
@@ -8693,7 +8693,7 @@
       "stem": "Before applying a newly published MS rehabilitation guideline to clinic practice, which appraisal question should come FIRST?",
       "options": [
         "Was it published in a glossy magazine?",
-        "Does the journal accept letters to the editor?",
+        "Does the journal that published it also accept letters to the editor from practicing clinicians?",
         "How many pages long is the guideline?",
         "Are the results valid, clinically significant, and applicable to my own patient population?"
       ],
@@ -8707,7 +8707,7 @@
       "difficulty": "hard",
       "stem": "A unit implements a new MS bladder-management protocol derived from a published trial. Which indicator BEST evaluates whether the evidence-based change is working in practice?",
       "options": [
-        "Staff sentiment alone, with no outcome data",
+        "Staff sentiment alone, gathered from informal hallway conversations and without any measured patient outcome data",
         "Changes in patient outcomes (for example, fewer catheterizations) relative to baseline, plus fidelity to the protocol",
         "Whether the protocol is printed and posted",
         "The number of protocol copies distributed"
@@ -8737,7 +8737,7 @@
       "difficulty": "medium",
       "stem": "Experimental allergic encephalomyelitis (EAE) has historically served MS research by:",
       "options": [
-        "Serving as a definitive diagnostic test in living humans",
+        "Serving as a definitive diagnostic test that can confirm MS in living humans without any further workup",
         "Providing an animal model for testing immune mechanisms and potential treatments before human studies",
         "Acting as a treatment for relapses",
         "Replacing the need for clinical trials in humans"
@@ -8754,7 +8754,7 @@
       "options": [
         "Publishing results without ethics approval",
         "Designing MRI protocols without radiologists",
-        "Performing all statistical analyses solo in isolation",
+        "Performing all of the study's statistical analyses completely solo, in total isolation from the rest of the research team",
         "Identifying clinically relevant questions, enrolling and engaging patients, and monitoring outcomes and adverse events at the bedside"
       ],
       "correct_answer": 3,
@@ -8797,7 +8797,7 @@
       "difficulty": "hard",
       "stem": "Why do MS disease-modifying therapy trials typically combine objective disability endpoints such as confirmed EDSS progression and MRI lesion counts with patient-reported outcomes?",
       "options": [
-        "Because patient reports are automatically more accurate than relapse measures",
+        "Because patient reports are automatically more accurate than relapse measures in every clinical situation",
         "Because objective scales and imaging miss important patient-centered dimensions such as fatigue and pain",
         "Because EDSS and MRI are unvalidated in MS",
         "Because patient-reported outcomes must replace all objective measures"
@@ -9115,7 +9115,7 @@
         "Agree that a DMT can safely be stopped after three stable years on therapy",
         "Explain that the stability may reflect the therapy working, and review what is known about stopping",
         "State that stopping a DMT always causes a severe rebound relapse within months",
-        "Refer the question entirely to the prescriber without any further discussion"
+        "Refer the question entirely to the prescriber without any further discussion or shared decision-making"
       ],
       "correct_answer": 1,
       "rationale": "Clinical stability on therapy is evidence the therapy is working, not evidence it is unnecessary, and discontinuation carries risk of returning activity that is higher in younger patients and those with recent activity. Rebound is a specific concern after stopping natalizumab or sphingosine-1-phosphate modulators. Presenting what is known, including the genuine uncertainty in older stable patients, supports a real decision."
@@ -9295,7 +9295,7 @@
         "High-efficacy agents themselves accelerate the accrual of fixed disability",
         "Recall bias in how participants reported their disability over the study",
         "Confounding by indication, since more aggressive disease prompts more aggressive treatment",
-        "A sample size too small to detect the benefit that genuinely exists"
+        "A sample size too small to detect the benefit that genuinely exists in this patient population"
       ],
       "correct_answer": 2,
       "rationale": "Confounding by indication is the central threat in observational comparative-effectiveness work: the reason a drug was chosen is itself a predictor of outcome. Propensity-score methods and marginal structural models attempt to adjust for it, but unmeasured severity almost always remains, which is why such findings do not overturn trial evidence."
@@ -9355,7 +9355,7 @@
         "Whether the project is expected to run longer than six months on the unit",
         "Whether patients give written consent to receive the handouts being compared",
         "Whether the activity constitutes generalizable research rather than local quality improvement",
-        "Whether the results will be presented at a national nursing conference"
+        "Whether the results will be presented at a national nursing conference or published in a journal"
       ],
       "correct_answer": 2,
       "rationale": "The defining question is intent to produce generalizable knowledge, not the intent to publish, and the determination should be made prospectively by the IRB rather than retrospectively by the investigator. Quality improvement aimed at local practice generally falls outside human-subjects regulations, but many journals require documentation that the determination was made."

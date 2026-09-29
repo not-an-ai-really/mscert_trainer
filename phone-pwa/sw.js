@@ -6,7 +6,7 @@
 */
 "use strict";
 
-const VERSION = "v1.3.1"; // hostable web build: capacitor stub committed, SW install no longer 404s
+const VERSION = "v1.3.2"; // bank length-cue pass complete (799q, 0 cued options); keys unchanged except q0577 factual fix
 const CACHE = "mscert-" + VERSION;
 
 const PRECACHE = [

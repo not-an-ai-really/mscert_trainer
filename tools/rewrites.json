@@ -1,878 +1,476 @@
 {
-  "q007": [
-    "Central Africa and other equatorial regions",
-    "Mid-latitude regions (e.g., Canada, northern US, Europe)",
-    "Tropical regions near the equator (coastal zones)",
-    "South America and other tropical lowland regions"
-  ],
-  "q010": [
-    "Astrocytes (glial support cells)",
-    "T cells (CD4+ and CD8+)",
-    "Microglia (resident macrophages)",
-    "B cells (antibody producers)"
-  ],
-  "q011": [
-    "Direct axonal transection before any demyelination",
-    "Primary oligodendrocyte apoptosis as the first event",
-    "Microglial activation without any blood-brain barrier disruption",
-    "Blood-brain barrier disruption followed by inflammatory cell infiltration"
-  ],
-  "q012": [
-    "High lesion load on T2-weighted MRI regardless of activity",
-    "Slowly expanding lesions with inactive edges and remyelination",
-    "Gadolinium enhancement indicating active inflammation",
-    "Acute inflammatory cell infiltrates in the CSF"
-  ],
-  "q016": [
-    "Switch to a high-efficacy DMT (e.g., natalizumab, fingolimod, or ocrelizumab)",
-    "Continue current therapy with closer monitoring and follow-up MRI",
-    "Add physical therapy to the existing treatment regimen",
-    "Prescribe symptomatic treatment for relapse features only"
-  ],
-  "q024": [
-    "Increase DMT frequency to suppress the fatigue",
-    "Prescribe modafinil immediately without non-drug measures first",
-    "Educate on energy conservation and cooling strategies",
-    "Start cognitive rehabilitation as the first intervention"
-  ],
-  "q035": [
-    "Predictable and continuous medication coverage",
-    "Minimal insurance complexity across payers",
-    "Single-specialist management without referrals",
-    "Coordinated care across multiple disciplines"
-  ],
-  "q043": [
-    "Increased viral exposure from international travel",
-    "Dietary changes reducing vitamin D synthesis",
-    "Genetic mutations induced by environmental toxins",
-    "Gene-environment interactions affecting immune regulation"
-  ],
-  "q055": [
-    "Severe hypertension requiring urgent control",
-    "Liver toxicity with rising transaminases",
-    "Pulmonary fibrosis over the treatment course",
-    "Progressive multifocal leukoencephalopathy (PML)"
-  ],
-  "q058": [
-    "Immediately hold ocrelizumab and initiate diagnostic workup",
-    "Administer IV methylprednisolone for presumed relapse",
-    "Start antiviral therapy targeting JC virus",
-    "Schedule plasma exchange for the suspected lesion"
-  ],
-  "q060": [
-    "Initiate modafinil therapy as the first step",
-    "Refer for cognitive rehabilitation before any other measure",
-    "Prescribe amantadine and reassess in two weeks",
-    "Implement energy conservation techniques and cooling strategies"
-  ],
-  "q068": [
-    "Plasma exchange for acute immune activity",
-    "Botulinum toxin injection for the weak hands",
-    "High-dose steroids for the weakness",
-    "Occupational therapy with adaptive equipment"
-  ],
-  "q073": [
-    "Spasticity management program for the upper limbs",
-    "Dysphagia therapy focused on swallow safety",
-    "Hand therapy for fine motor control",
-    "Cognitive rehabilitation with computer training"
-  ],
-  "q078": [
-    "Continuous walking exercises through the fatigue",
-    "Increasing medication dosage to push through",
-    "Prioritizing activities and using adaptive equipment",
-    "Eliminating all physical activity to rest fully"
-  ],
-  "q079": [
-    "Cooling gel packs applied to the hottest areas",
-    "Partial body immersion with circulating chilled water",
-    "Air conditioning set to a comfortable temperature",
-    "Ice packs only, applied as needed throughout the day"
-  ],
-  "q083": [
-    "Anticonvulsants (e.g., gabapentin)",
-    "Acetaminophen around the clock",
-    "NSAIDs taken as needed",
-    "Opioid analgesics as first-line therapy"
-  ],
-  "q089": [
-    "Avoiding saliva production before meals",
-    "Eating large meals when energy allows",
-    "Consuming only liquids to reduce effort",
-    "Changing head position during swallowing"
-  ],
-  "q090": [
-    "It only affects physical function, not mood",
-    "It does not occur in people with MS",
-    "It is primarily psychological in origin",
-    "It can affect both physical and psychological domains"
-  ],
-  "q092": [
-    "Energy conservation and pacing strategies",
-    "Complete work leave for several months",
-    "High-dose stimulants only, without pacing",
-    "Continuous bed rest to restore energy"
-  ],
-  "q095": [
-    "Symbol Digit Modalities Test (SDMT)",
-    "Timed 25-Foot Walk for mobility",
-    "EDSS (Expanded Disability Status Scale)",
-    "9-Hole Peg Test for hand dexterity"
-  ],
-  "q0106": [
-    "Switch to over-the-counter alternatives meanwhile",
-    "Patient pays out-of-pocket until coverage renews",
-    "Appeal with clinical documentation and physician letter",
-    "Discontinue treatment temporarily to save cost"
-  ],
-  "q0107": [
-    "Patient advocacy hospital committee on call",
-    "National Multiple Sclerosis Society Legal Resources",
-    "State medical board licensing office",
-    "General legal aid society for civil matters"
-  ],
-  "q0108": [
-    "Friend testimony about the patient's condition",
-    "Personal journal entries describing daily limits",
-    "Medical records and functional limitations assessment",
-    "Employer performance reviews from the last year"
-  ],
-  "q0111": [
-    "Confront the discriminator directly in the moment",
-    "Contact employer HR department on the spot",
-    "Document incident and provide resource information",
-    "Refer immediately to legal counsel without record"
-  ],
-  "q0114": [
-    "Methylphenidate started at a low dose and titrated up",
-    "Modafinil at the usual starting dose from the first week",
-    "Amantadine prescribed as the first-line treatment",
-    "A structured fatigue-management and energy-conservation program"
-  ],
-  "q0123": [
-    "Blood-brain barrier disruption and systemic inflammation",
-    "Decreased oxidative stress across the body",
-    "Enhanced remyelination capacity in neurons",
-    "Increased vitamin D absorption from the diet"
-  ],
-  "q0124": [
-    "Gadolinium-enhancing lesions on the current scan",
-    "Cerebral atrophy measured over the years",
-    "Multiple T2 hyperintense lesions overall",
-    "Lesions with slowly expanding borders and paramagnetic rim"
-  ],
-  "q0181": [
-    "Reinforced, ongoing education with practice",
-    "Written materials only, reviewed once",
-    "Lecture-based instruction without follow-up",
-    "One-time educational session at diagnosis"
-  ],
-  "q0189": [
-    "Cognitive rehabilitation for the fatigue",
-    "Cooling strategies and environment control",
-    "High-dose corticosteroids for the symptoms",
-    "Increased physical activity to build tolerance"
-  ],
-  "q0196": [
-    "No medication is FDA-approved for MS fatigue; agents are used off-label",
-    "Modafinil is approved specifically for MS-related fatigue treatment",
-    "Amantadine is approved for the treatment of MS-related fatigue",
-    "Dalfampridine is approved for the treatment of MS fatigue"
-  ],
-  "q0200": [
-    "American Academy of Neurology practice council",
-    "International Organization of MS Nurses (IOMSN)",
-    "National MS Society community programs",
-    "Multiple Sclerosis Coalition for patients"
-  ],
-  "q0207": [
-    "High vitamin D levels at baseline",
-    "Younger age at onset alone",
-    "Incomplete recovery from early relapses",
-    "Female sex at presentation"
-  ],
-  "q0210": [
-    "Interferon beta started immediately",
-    "High-dose IV methylprednisolone",
-    "Plasma exchange as the first step",
-    "Oral prednisone at a low dose"
-  ],
-  "q0255": [
-    "Gastrojejunostomy tube placement",
-    "Nasogastric tube for long-term feeding",
-    "Parenteral nutrition via a central line",
-    "Percutaneous endoscopic gastrostomy (PEG) tube"
-  ],
-  "q0259": [
-    "Video viewing of a demonstration",
-    "Handout distribution at discharge",
-    "Demonstration with return demonstration",
-    "Lecture with slides only"
-  ],
-  "q0261": [
-    "Proportional to physical activity level",
-    "Disproportionate to exertion and worsens with heat",
-    "Responsive to stimulant medication quickly",
-    "Improves with rest and sleep"
-  ],
-  "q0265": [
-    "Attending one conference every five years",
-    "Supervising nursing students on the unit",
-    "Reading nursing journals occasionally over the year",
-    "Completing 15 contact hours of MS-specific CE annually"
-  ],
-  "q0267": [
-    "Physical therapy with weighted utensils",
-    "Deep brain stimulation surgery",
-    "Plasma exchange for the tremor",
-    "High-dose corticosteroids daily"
-  ],
-  "q0268": [
-    "Perform the procedure without consent",
-    "Overrule the patient's decision as the family insists",
-    "Postpone the procedure indefinitely without review",
-    "Respect patient's refusal and explore alternative diagnostics"
-  ],
-  "q0270": [
-    "Younger age at diagnosis alone, other factors aside",
-    "Lack of a printed medication guide at hand",
-    "Living in an urban area with care nearby",
-    "Injection-related side effects and injection fatigue"
-  ],
-  "q0279": [
-    "Discuss evidence, risks, and benefits while respecting patient autonomy",
-    "Prescribe approved complementary products as the treatment",
-    "Discourage all non-conventional treatments without discussion",
-    "Refer immediately to an alternative medicine specialist for care"
-  ],
-  "q0285": [
-    "Publication bias in the trial's reporting",
-    "Performance and detection bias from inadequate blinding",
-    "Attrition bias from early participant dropout",
-    "Recall bias in the outcome interviews"
-  ],
-  "q0298": [
-    "Bladder training alone, no medication",
-    "Behavioral modifications plus antimuscarinics",
-    "Urinary diversion as the first option",
-    "Surgical augmentation of the bladder"
-  ],
-  "q0299": [
-    "Social media appeal to gain public pressure",
-    "Insurance company complaint form as the first step",
-    "Medical necessity documentation with peer-reviewed evidence",
-    "Patient apology letter to the payer's team"
-  ],
-  "q0302": [
-    "Glatiramer acetate over time",
-    "Fingolimod after several months",
-    "Corticosteroids (used for relapses)",
-    "Interferon beta with chronic use"
-  ],
-  "q0309": [
-    "Prescribe approved alternatives immediately",
-    "Refer to the stem cell treatment center",
-    "Document refusal to discuss the therapy",
-    "Provide information about risks and lack of evidence"
-  ],
-  "q0319": [
-    "Respect patient autonomy after ensuring informed decision",
-    "Administer the treatment anyway regardless",
-    "Report the patient to authorities for refusal",
-    "Continue to pressure the patient to agree"
-  ],
-  "q0322": [
-    "Antibiotic prophylaxis long term",
-    "Clean intermittent self-catheterization",
-    "Bladder stimulants for the retention",
-    "Fluid restriction at all times"
-  ],
-  "q0333": [
-    "FSS (Fatigue Severity Scale)",
-    "Timed 25-Foot Walk",
-    "EDSS (Expanded Disability Status Scale)",
-    "SDMT (Symbol Digit Modalities Test)"
-  ],
-  "q0343": [
-    "Occupational therapy with task-specific training",
-    "High-dose corticosteroids for the weakness",
-    "Passive range of motion exercises only",
-    "Plasma exchange for the upper limbs"
-  ],
-  "q0348": [
-    "Medication non-adherence over the past months",
-    "Progressive neurodegeneration independent of inflammation",
-    "Non-MS diagnosis mimicking the progression",
-    "Treatment failure with clinical progression"
-  ],
-  "q0357": [
-    "Discontinue fingolimod and treat with topical therapy",
-    "Switch to another oral therapy immediately",
-    "Add acetazolamide for the edema",
-    "Continue with ophthalmology monitoring only"
-  ],
-  "q0362": [
-    "Add hepatoprotective medication to the regimen",
-    "Continue with closer liver monitoring",
-    "Immediately discontinue and evaluate for hepatic injury",
-    "Reduce the dose and continue treatment"
-  ],
-  "q0366": [
-    "A long-acting opioid at bedtime",
-    "Dantrolene taken during the day",
-    "Cyclobenzaprine as needed",
-    "Low-dose baclofen or tizanidine at bedtime"
-  ],
-  "q0367": [
-    "EEG before the pump is implanted",
-    "Liver function tests repeated monthly",
-    "Baclofen trial with intrathecal dose",
-    "Brain MRI before implantation"
-  ],
-  "q0369": [
-    "Ritalin only, without rehabilitation",
-    "High-dose steroids for the slowing",
-    "Complete rest for several weeks",
-    "Cognitive rehabilitation and energy conservation"
-  ],
-  "q0370": [
-    "Amantadine and modafinil are used off-label, with modest and inconsistent trial evidence",
-    "Dalfampridine is indicated for the treatment of MS fatigue",
-    "Methylphenidate is the recommended first-line pharmacologic agent for fatigue",
-    "Modafinil is superior to placebo in all published MS fatigue trials"
-  ],
-  "q0373": [
-    "Testosterone replacement after workup",
-    "Counseling only, no medication",
-    "Penile prosthesis as first-line",
-    "Phosphodiesterase inhibitors (e.g., sildenafil)"
-  ],
-  "q0375": [
-    "Morning caffeine only for the stiffness",
-    "No specific timing recommendations at all",
-    "Evening-dosed baclofen and consistent sleep schedule",
-    "Corticosteroids taken at bedtime"
-  ],
-  "q0376": [
-    "Antibiotics for the tremor",
-    "Beta-blockers and anticholinergics",
-    "NSAIDs taken as needed",
-    "Antihistamines at bedtime"
-  ],
-  "q0377": [
-    "Mirabegron at bedtime for the urgency",
-    "Furosemide at bedtime to dry out",
-    "Solifenacin at bedtime for the bladder",
-    "Oxybutynin immediately before bedtime"
-  ],
-  "q0381": [
-    "Prednisone only before each infusion",
-    "Antihistamine, acetaminophen, and corticosteroid",
-    "No pre-medication required at all",
-    "Antibiotic prophylaxis only, no others"
-  ],
-  "q0382": [
-    "Patients with PPMS only, with no other forms eligible",
-    "Patients with stable RRMS on a single DMT",
-    "Patients with aggressive RRMS refractory to multiple DMTs",
-    "All patients with MS at the time of diagnosis"
-  ],
-  "q0386": [
-    "Oral prednisone taper over weeks",
-    "Intravenous methylprednisolone without taper",
-    "Topical corticosteroids applied locally",
-    "Intramuscular dexamethasone injection"
-  ],
-  "q0387": [
-    "Isolation from the care team and family",
-    "Oral antibiotics for the communication difficulty",
-    "Augmentative and alternative communication (AAC) devices",
-    "Sedation to reduce the patient's distress"
-  ],
-  "q0388": [
-    "Osmotic laxatives (e.g., polyethylene glycol)",
-    "Stimulant laxatives only, long term",
-    "Enemas only as the sole measure",
-    "Bulk-forming laxatives alone"
-  ],
-  "q0389": [
-    "Indwelling catheter alone for long-term management",
-    "Anticholinergics alone for the dysfunction",
-    "Intermittent catheterization combined with anticholinergics",
-    "No intervention at this time"
-  ],
-  "q0391": [
-    "Increase the dose to improve efficacy",
-    "Continue treatment without concern",
-    "Switch to placebo for comparison",
-    "High PML risk; consider discontinuing natalizumab"
-  ],
-  "q0392": [
-    "Scheduled rest breaks and energy conservation",
-    "Continuous stimulation through the day",
-    "Sleep deprivation to reset the rhythm",
-    "Increasing the workload to build stamina"
-  ],
-  "q0393": [
-    "Tracheostomy for airway protection",
-    "Swallowing exercises only",
-    "Speech-language therapy for articulation",
-    "Voice amplification devices alone"
-  ],
-  "q0395": [
-    "Continue through pregnancy with monitoring",
-    "Switch to high-dose steroids for the remainder",
-    "Increase the dosing frequency during pregnancy",
-    "Discontinue at least 6 months before conception"
-  ],
-  "q0399": [
-    "Long-term corticosteroids daily",
-    "Daily cold baths for the rest of the year",
-    "Heat exposure therapy to build tolerance",
-    "Cooling vests and lifestyle modifications"
-  ],
-  "q0400": [
-    "Continue with routine ECG monitoring",
-    "Hold fingolimod and evaluate for pacemaker",
-    "Switch to another oral therapy immediately",
-    "Reduce to 0.58 mg and keep monitoring"
-  ],
-  "q0402": [
-    "Increase the DMT dose for better control",
-    "Discontinue DMT and initiate immune reconstitution",
-    "Add antifungal therapy for the infection",
-    "Continue the DMT with closer monitoring"
-  ],
-  "q0403": [
-    "Restrict fluid intake throughout the day",
-    "Scheduled toileting and assistive devices",
-    "Bladder removal as the definitive option",
-    "Indwelling catheter for all voiding"
-  ],
-  "q0404": [
-    "ECG to assess heart rate and PR interval",
-    "Echocardiogram to check the valves",
-    "Stress test before the first dose",
-    "Cardiac catheterization for the baseline"
-  ],
-  "q0414": [
-    "Restrict all fluids to control incontinence",
-    "Structured bowel program with scheduled bowel care",
-    "High-dose opioids for the bowel issue",
-    "Stool softeners only, no schedule"
-  ],
-  "q0419": [
-    "Discontinue the therapy immediately",
-    "Add high-dose steroids for the flushing",
-    "Switch to placebo for comparison",
-    "Take with food and consider dose reduction"
-  ],
-  "q0420": [
-    "Isolation from the care team",
-    "IV antibiotics for the swallowing issue",
-    "Speech therapy and modified diet, consider feeding tube",
-    "Force feeding to prevent further weight loss"
-  ],
-  "q0423": [
-    "Cooling vests and air conditioning",
-    "Hot tubs daily for muscle relaxation",
-    "No precautions needed at all",
-    "Exercise in the heat to build tolerance"
-  ],
-  "q0424": [
-    "Liver function tests and pregnancy testing",
-    "Only pregnancy testing each month",
-    "Only a complete blood count",
-    "No laboratory monitoring required"
-  ],
-  "q0427": [
-    "Corticosteroids for the fatigue",
-    "Antibiotics for the underlying cause",
-    "Dalfampridine for the fatigue",
-    "Rest, energy conservation, and exercise"
-  ],
-  "q0428": [
-    "Add topical antibiotics for the eye area",
-    "Discontinue fingolimod and refer to ophthalmology",
-    "Continue with monitoring each month",
-    "Increase the fingolimod dose"
-  ],
-  "q0430": [
-    "Indwelling catheter only for the retention issues",
-    "Anticholinergic only for the urgency symptoms",
-    "Clean intermittent catheterization (CIC) plus anticholinergic",
-    "No intervention at this stage"
-  ],
-  "q0432": [
-    "Steroid therapy as the first-line treatment option",
-    "Surgery only, with no conservative options",
-    "Phosphodiesterase inhibitors and communication counseling",
-    "No treatment is available for the symptoms"
-  ],
-  "q0434": [
-    "Speech therapy and diet modification",
-    "Immediate intubation at the bedside",
-    "No intervention until symptoms resolve",
-    "IV fluids only for the intake"
-  ],
-  "q0437": [
-    "Add corticosteroids indefinitely for disease control",
-    "Continue natalizumab without any change",
-    "Increase the natalizumab dose",
-    "JCV conversion may have occurred; retest and consider switch"
-  ],
-  "q0439": [
-    "Continue with monitoring each week",
-    "Add immunosuppressants for protection",
-    "Increase the fumarate dose",
-    "Hold therapy until lymphocytes recover >500/mm³"
-  ],
-  "q0440": [
-    "Isolation from the family",
-    "Hospitalization only, no home care",
-    "No support available for the family at home",
-    "Home health care and assistive devices assessment"
-  ],
-  "q0442": [
-    "Complete bed rest for the fatigue",
-    "Regular moderate exercise and energy conservation",
-    "Strenuous exercise daily, no rest periods",
-    "No lifestyle changes recommended"
-  ],
-  "q0443": [
-    "Add beta-blockers for the rate",
-    "Discontinue the therapy immediately",
-    "Continue with extended cardiac monitoring",
-    "Increase the dose for efficacy"
-  ],
-  "q0444": [
-    "Fluid restriction for the retention",
-    "No intervention is needed at all",
-    "Anticholinergics only for the bladder",
-    "Clean intermittent catheterization (CIC)"
-  ],
-  "q0447": [
-    "Discontinue natalizumab and evaluate with MRI and CSF",
-    "Add immunosuppressants for the new symptoms",
-    "Continue natalizumab with monitoring",
-    "Increase the natalizumab dose"
-  ],
-  "q0448": [
-    "Caffeine at night for the alertness levels",
-    "No sleep allowed for a week",
-    "Sedatives only, no hygiene work",
-    "Sleep hygiene education and regular schedule"
-  ],
-  "q0450": [
-    "Thickened liquids only for all meals",
-    "No intervention for the aspiration",
-    "Antibiotics only for the pneumonia",
-    "PEG tube placement for nutrition and hydration"
-  ],
-  "q0455": [
-    "Disruption of the blood-brain barrier and immune cell infiltration",
-    "Oligodendrocyte hyperplasia before the first lesion appears",
-    "Demyelination without any inflammatory component",
-    "Axonal regeneration at the time of disease onset"
-  ],
-  "q0456": [
-    "Endothelial cells - they cannot penetrate CNS tissue at all stages",
-    "Microglia - they cause excessive demyelination in all lesions",
-    "Oligodendrocyte precursor cells - differentiation and maturation are impaired",
-    "Astrocytes - they cannot generate myelin in the CNS"
-  ],
-  "q0458": [
-    "They provide structural support and maintain extracellular ion balance in the CNS",
-    "They primarily function as immune cells to clear cellular debris in lesions",
-    "They produce myelin sheaths that insulate axons and facilitate rapid signal conduction",
-    "They form the blood-brain barrier to protect the CNS from the blood"
-  ],
-  "q0459": [
-    "It is irreversible and correlates with permanent disability and disease progression",
-    "It primarily occurs during remyelination and is fully reversible over time",
-    "It is the primary early event that causes all of the initial symptoms",
-    "It is a compensatory mechanism that improves neurological function overall"
-  ],
-  "q0461": [
-    "BBB disruption allows immune cells and antibodies to enter the CNS and initiate inflammation",
-    "BBB disruption prevents all immune cells from entering, protecting the CNS",
-    "BBB disruption is a late event that occurs only in end-stage forms",
-    "BBB disruption leads to increased myelin production as a compensatory mechanism over time"
-  ],
-  "q0462": [
-    "MS selectively affects only the motor pathways and spares other tracts",
-    "MS primarily affects the peripheral nerves and the nerve root zone",
-    "MS only affects the spinal cord and never the brain or optic nerves",
-    "MS lesions can occur anywhere in the CNS - brain, optic nerves, spinal cord"
-  ],
-  "q0464": [
-    "Fatigue Severity Scale (FSS) for symptoms",
-    "9-Hole Peg Test (9HPT) for dexterity",
-    "Timed 25-Foot Walk (T25FW) for mobility",
-    "Symbol Digit Modalities Test (SDMT) or PASAT"
-  ],
-  "q0468": [
-    "Unilateral walking aid (cane) required beyond 100 meters",
-    "Wheelchair-bound but self-care still intact",
-    "Moderate disability, walking without any aid",
-    "Normal neurological function on exam"
-  ],
-  "q0471": [
-    "Rehabilitation can reverse demyelination and restore the myelin",
-    "Rehabilitation improves function and quality of life, compensating for deficits",
-    "Rehabilitation replaces the need for all disease-modifying therapies",
-    "Rehabilitation eliminates all MS symptoms and stops progression"
-  ],
-  "q0472": [
-    "Surgery as the first-line treatment for the spasticity",
-    "A comprehensive, multimodal approach combining several therapies",
-    "Rest and immobilization for the affected limbs",
-    "Pharmacotherapy only, without any other therapy"
-  ],
-  "q0473": [
-    "Only the physical symptoms of the disease",
-    "Replacing the medical treatments entirely",
-    "The emotional, psychological, and social impact of MS",
-    "Eliminating the need for any rehabilitation"
-  ],
-  "q0474": [
-    "All DMTs have equivalent efficacy in progressive MS",
-    "DMTs are ineffective in all forms of progressive MS",
-    "Some DMTs slow disability progression in primary progressive MS",
-    "DMTs work only in relapsing forms and have no role in progressive MS"
-  ],
-  "q0478": [
-    "Expert opinion, RCTs, observational studies, and systematic reviews",
-    "Case series, observational studies, RCTs, and systematic reviews",
-    "Observational studies, RCTs, case series, and expert opinion",
-    "Systematic reviews, RCTs, observational studies, expert opinion"
-  ],
-  "q0482": [
-    "Absence of periventricular lesions on the MRI",
-    "Multiple T2 lesions in characteristic MS locations",
-    "A normal MRI appearance at baseline",
-    "A single spinal cord lesion only"
-  ],
-  "q0483": [
-    "Stable relapsing-remitting MS without progression",
-    "Primary progressive MS from the start",
-    "Secondary progressive MS with active disease",
-    "Benign MS with full recovery"
-  ],
-  "q0484": [
-    "Only sensory symptoms without motor involvement",
-    "Minimal disability despite long disease duration (10+ years)",
-    "Rapid progression requiring wheelchair within 2 years",
-    "No neurological symptoms throughout the disease course"
-  ],
-  "q0485": [
-    "Distinct attacks followed by complete recovery each and every time",
-    "Equal gender distribution favoring males overall",
-    "A younger age of onset on average",
-    "Gradual, continuous progression from onset without distinct relapses"
-  ],
-  "q0504": [
-    "Risk of exercise-induced arrhythmias over time",
-    "Risk of dilated cardiomyopathy",
-    "Risk of bradycardia and AV block during first dose",
-    "Risk of sustained hypertension"
-  ],
-  "q0505": [
-    "Permanently discontinue fingolimod for good",
-    "Temporarily stop fingolimod, treat with topical therapy, consider resuming",
-    "Continue fingolimod with close ophthalmology follow-up visits each month",
-    "Switch to another S1P receptor modulator right away"
-  ],
-  "q0506": [
-    "Ocrelizumab is safe in all trimesters of pregnancy",
-    "Ocrelizumab has no fetal effects and breastfeeding is encouraged",
-    "Ocrelizumab persists in the infant up to 6 months; monitor for immunodeficiency",
-    "Ocrelizumab should be continued throughout pregnancy for maternal benefit"
-  ],
-  "q0508": [
-    "Hepatotoxicity over time",
-    "Insomnia and poor sleep",
-    "Weight gain and appetite changes",
-    "Flushing and gastrointestinal symptoms"
-  ],
-  "q0510": [
-    "Weekly liver function tests for the first 6 months",
-    "Monthly CBC during treatment years to monitor cumulative lymphopenia",
-    "Daily ECG monitoring for QT interval prolongation",
-    "Continuous pulse oximetry during each treatment course period"
-  ],
-  "q0512": [
-    "Resume full dose immediately without monitoring",
-    "Resume full dose with 6-hour cardiac observation period",
-    "Reinitiate with a reduced dose and cardiac monitoring",
-    "Switch to alternative DMT due to loss of efficacy"
-  ],
-  "q0513": [
-    "Thyroid dysfunction (autoimmune thyroid disease)",
-    "Nephropathy (anti-GBM glomerulonephritis)",
-    "Autoimmune hepatitis over the months",
-    "Immune thrombocytopenia (ITP) later on"
-  ],
-  "q0515": [
-    "Hemolytic uremic syndrome; start plasmapheresis immediately",
-    "Vitamin K deficiency; administer vitamin K supplementation",
-    "Alemtuzumab-related anemia; transfuse packed red blood cells",
-    "ITP; treat with IVIG and/or corticosteroids, monitor platelets"
-  ],
-  "q0516": [
-    "Suggests a serious infection requiring antibiotics",
-    "Treat with plasmapheresis and immunosuppression to prevent anti-GBM nephritis",
-    "A benign finding needing no action",
-    "Indicates thyroid dysfunction requiring lifelong levothyroxine therapy"
-  ],
-  "q0518": [
-    "Proceed with infusion regardless of lymphocyte count",
-    "Administer growth factor support and continue ocrelizumab",
-    "Delay the infusion if the lymphocyte count is below 0.5 x 10^9/L",
-    "Switch to a different DMT immediately"
-  ],
-  "q0519": [
-    "Give ocrelizumab with prophylactic antivirals, monitor HBV DNA",
-    "Contraindicated; do not administer ocrelizumab",
-    "Switch to interferon beta as alternative DMT",
-    "Administer ocrelizumab without additional precautions"
-  ],
-  "q0523": [
-    "Inhibition of lymphocyte trafficking into the CNS over time",
-    "Immunomodulation through anti-inflammatory cytokine production",
-    "Reversal of established demyelination",
-    "Depletion of CD20+ B cells in the blood"
-  ],
-  "q0524": [
-    "Inhibition of mitochondrial respiration in cells",
-    "Molecular mimicry inducing Th2 bias and regulatory T-cell activation",
-    "Blockade of voltage-gated potassium channels in the nerves",
-    "Direct antiviral activity against the JC virus"
-  ],
-  "q0525": [
-    "Inhibition of dihydroorotate dehydrogenase",
-    "S1P receptor agonism causing lymphocyte sequestration in nodes",
-    "Blocks alpha-4 integrin, preventing leukocyte adhesion and CNS entry",
-    "Depletion of circulating T and B lymphocytes"
-  ],
-  "q0526": [
-    "Agonist at S1P receptors causing lymphocyte sequestration in lymph nodes",
-    "Inhibition of inflammatory cytokine production across the body",
-    "A monoclonal antibody against alpha-4 integrin",
-    "Depletion of CD20+ B cells in circulation"
-  ],
-  "q0527": [
-    "Direct antiviral activity against many different viruses",
-    "An agonist at S1P receptors on lymphocytes",
-    "Inhibits dihydroorotate dehydrogenase (pyrimidine synthesis)",
-    "A monoclonal antibody against CD52 on cells"
-  ],
-  "q0528": [
-    "Activation of Nrf2 antioxidant pathway and anti-inflammatory effects",
-    "Inhibition of alpha-4 integrin function in the blood vessels",
-    "S1P receptor agonism on lymphocytes",
-    "Depletion of B cells via CD20 targeting on cells"
-  ],
-  "q0529": [
-    "Activation of the Nrf2 antioxidant pathway in cells",
-    "Interferon receptor agonism in the CNS",
-    "Selective depletion of lymphocytes via incorporation into DNA",
-    "S1P receptor modulation on lymphocytes"
-  ],
-  "q0530": [
-    "Inhibition of dihydroorotate dehydrogenase enzyme",
-    "Activation of the Nrf2 antioxidant pathway",
-    "Anti-CD52 monoclonal antibody causing lymphocyte depletion",
-    "S1P receptor agonism on the lymphocytes"
-  ],
-  "q0531": [
-    "An anti-CD52 monoclonal antibody on lymphocytes",
-    "Nrf2 pathway activation in the cells",
-    "S1P receptor agonism on lymphocytes",
-    "Anti-CD20 monoclonal antibody causing B cell depletion"
-  ],
-  "q0532": [
-    "Treatment failure; rituximab is ineffective",
-    "May indicate T-cell mediated progression despite B cell depletion",
-    "Indicates need for corticosteroid supplementation",
-    "Requires immediate infusion due to B cell repopulation"
-  ],
-  "q0534": [
-    "Continue ocrelizumab without any changes",
-    "Increase the ocrelizumab dose further",
-    "Switch to alemtuzumab immediately instead",
-    "Consider delaying infusions until IgG levels recover"
-  ],
-  "q0535": [
-    "Administer additional alemtuzumab doses now",
-    "Switch back to the previous DMT entirely",
-    "Treat with antithyroid medications; may require lifelong therapy",
-    "Permanent discontinuation of all future monitoring visits"
-  ],
-  "q0537": [
-    "An ordinary MS relapse episode",
-    "A paradoxical reaction to natalizumab therapy",
-    "Immune reconstitution inflammatory syndrome (IRIS) - PML",
-    "Toxic leukoencephalopathy from a drug"
-  ],
-  "q0539": [
-    "Only HBV vaccination is required",
-    "Administer all live vaccines immediately after each treatment course",
-    "Update routine vaccines (influenza, pneumococcal); avoid live vaccines",
-    "No vaccinations needed"
-  ],
-  "q0545": [
-    "Injection site reactions and flu-like symptoms",
-    "Severe hypertension over the course",
-    "Dilated cardiomyopathy later",
-    "Hepatotoxicity with liver injury"
-  ],
-  "q0546": [
-    "Discontinue interferon and evaluate for depression treatment",
-    "Increase the interferon dose further",
-    "Continue interferon and just monitor mood",
-    "Switch to glatiramer acetate without any evaluation"
-  ],
-  "q0547": [
-    "Rotate among abdomen, thigh, and upper arm sites",
-    "Use same site daily to minimize confusion",
-    "Use only one site to maintain consistency",
-    "Inject only intramuscularly"
-  ],
-  "q0548": [
-    "No special considerations are needed at all",
-    "Increase the natalizumab dose before traveling",
-    "Discontinue natalizumab before the trip",
-    "Ensure PML-capable care access; carry a medication summary"
-  ],
-  "q0549": [
-    "Interferon beta-1a (weekly injection)",
-    "Siponimod (daily oral tablet)",
-    "Cladribine (weekly dosing in treatment courses)",
-    "Glatiramer acetate (daily injection)"
-  ],
-  "q0550": [
-    "Stop the prior DMT and wait for lymphocyte recovery first",
-    "Overlap both medications for safety",
-    "Discontinue and start natalizumab the same day",
-    "Discontinue natalizumab first"
-  ],
-  "q0551": [
-    "Teriflunomide is non-teratogenic and safe in pregnancy",
-    "Teriflunomide causes only transient fetal effects with no long-term concerns",
-    "Teriflunomide enhances fetal immune development",
-    "It inhibits rapidly dividing cells, harming fetal development"
-  ],
-  "q0552": [
-    "Treat acute MS relapses when they first occur",
-    "Enhance teriflunomide efficacy in the bloodstream",
-    "Rapidly lower teriflunomide levels for pregnancy or toxicity",
-    "Prevent PML from developing later"
-  ],
-  "q0553": [
-    "Only the influenza vaccine is contraindicated",
-    "Live vaccines (varicella, MMR, live influenza vaccine)",
-    "Inactivated vaccines only are the problem",
-    "All vaccines are safe"
+  "q0554": [
+    "Female gender only",
+    "No risk of PML with fingolimod; the drug has no effect on JC virus reactivation or lymphocyte trafficking",
+    "Only age >60 years",
+    "JC virus positivity, immunosuppression, prolonged fingolimod use, concomitant immunosuppressants"
+  ],
+  "q0556": [
+    "Indicates need for immediate defibrillation",
+    "Benign bradycardia with no clinical significance; no monitoring is needed after the first dose of fingolimod",
+    "Permanent conduction system damage",
+    "Dose-dependent transient bradycardia and PR prolongation; requires monitoring in first 6 hours"
+  ],
+  "q0557": [
+    "Annual eye exam only",
+    "Monthly eye examinations for the entire duration of fingolimod therapy to detect macular edema early",
+    "No eye monitoring needed",
+    "Baseline and 3-4 month examination for macular edema, especially in diabetics or uveitis patients"
+  ],
+  "q0558": [
+    "Discontinue fingolimod permanently",
+    "Temporarily discontinue fingolimod and treat with antiviral therapy",
+    "Switch to natalizumab immediately",
+    "Continue fingolimod at the same dose while treating the shingles with antiviral therapy"
+  ],
+  "q0559": [
+    "Monthly complete blood counts to track methemoglobin levels throughout treatment",
+    "Annual arterial blood gases",
+    "Daily pulse oximetry",
+    "No routine monitoring; monitor clinically for cyanosis, fatigue, dyspnea"
+  ],
+  "q0562": [
+    "Daily for 30 days",
+    "Monthly infusions for the first 12 months, then stop treatment permanently after that period",
+    "5 consecutive days followed by 30-day break, then 3 consecutive days one year later",
+    "Weekly for 6 months"
+  ],
+  "q0563": [
+    "Any outpatient infusion center is acceptable as long as the patient has no prior reaction history",
+    "Home infusion is acceptable",
+    "Certified hospital or skilled nursing facility with appropriate monitoring capability",
+    "No specific facility requirements"
+  ],
+  "q0564": [
+    "No action is needed because patients always develop tolerance to natalizumab infusion reactions over time",
+    "Increase infusion rate",
+    "Administer additional dose",
+    "Discontinue infusion immediately; if mild, can restart at 50% rate after symptoms resolve"
+  ],
+  "q0565": [
+    "Corticosteroid, antihistamine, and antipyretic prior to infusion",
+    "No premedication required",
+    "Acetaminophen and an antihistamine given together at least one hour before the infusion starts",
+    "Acetaminophen 30 minutes before only"
+  ],
+  "q0566": [
+    "Administer additional alemtuzumab dose",
+    "No treatment needed; self-limiting",
+    "Treat as MS relapse with corticosteroids; alemtuzumab-related demyelination",
+    "Diagnose as progressive multifocal leukoencephalopathy and begin antiviral therapy immediately"
+  ],
+  "q0567": [
+    "No malignancy screening needed",
+    "Screen for HBV before initiation; routine malignancy screening as per general population",
+    "Annual CT scans of the chest and abdomen to detect early malignancy in all treated patients",
+    "Monthly blood counts for leukemia detection"
+  ],
+  "q0571": [
+    "Monthly LFTs for first 6 months, then quarterly",
+    "LFTs only if the patient develops symptoms suggesting liver injury",
+    "Annual LFTs only",
+    "No monitoring needed"
+  ],
+  "q0573": [
+    "Weekly lipid panels",
+    "Annual lipid panel monitoring beginning one year into treatment and then every year thereafter",
+    "Baseline and periodic monitoring; treat elevated cholesterol per guidelines",
+    "No lipid monitoring required"
+  ],
+  "q0575": [
+    "Continue fingolimod at the full dose while treating the serious infection with antibiotics",
+    "Discontinue fingolimod permanently",
+    "Temporarily suspend fingolimod until infection resolves, then reconsider continuation",
+    "Switch to natalizumab immediately"
+  ],
+  "q0576": [
+    "Continue natalizumab without changes",
+    "Switch to an interferon beta formulation immediately without any further liver workup or evaluation",
+    "Increase natalizumab dose",
+    "Interrupt natalizumab, evaluate for other causes, and consider resumption or switch"
+  ],
+  "q0577": [
+    "S1P receptor modulators such as fingolimod and siponimod, which are the most effective class overall",
+    "High-efficacy agents such as anti-CD20 monoclonal antibodies (ocrelizumab) and natalizumab",
+    "Glatiramer acetate",
+    "Interferon beta formulations"
+  ],
+  "q0578": [
+    "No disease activity indicated by absence of relapses, disability progression, and MRI activity",
+    "Complete cure of MS",
+    "Only the absence of clinical relapses over the past year, regardless of MRI findings or progression",
+    "Only absence of MRI lesions"
+  ],
+  "q0582": [
+    "Required for all progressive MS",
+    "Generally not recommended; sequential use preferred",
+    "Preferred over monotherapy",
+    "Standard practice for all patients starting disease-modifying therapy in MS"
+  ],
+  "q0583": [
+    "Only required for patients who have a documented history of prior herpes zoster infections",
+    "Prophylaxis for 2 years post-treatment",
+    "Prophylactic antivirals for 6 months to prevent herpes infections due to immunosuppression",
+    "Not recommended; antivirals are unnecessary"
+  ],
+  "q0584": [
+    "First 3 months of treatment",
+    "After 24 months in JC virus-positive patients, especially with high antibody index",
+    "Equal risk at every point during the entire treatment duration regardless of JC virus status",
+    "Risk only occurs after discontinuation"
+  ],
+  "q0585": [
+    "Only occurs with interferon discontinuation",
+    "Severe relapses, new MRI activity, and potential rapid disability progression requiring treatment re-initiation or alternative",
+    "Benign and expected with no clinical significance, so no follow-up MRI surveillance or treatment changes are ever needed",
+    "Occurs in <1% of patients"
+  ],
+  "q0586": [
+    "Annually",
+    "Monthly for first 6 months, then every 3 months",
+    "Only if symptoms of infection develop during treatment",
+    "Only at baseline"
+  ],
+  "q0587": [
+    "Permanent crossover contraindicated",
+    "Minimum 4 weeks washout to allow S1P receptor normalization",
+    "At least 6 months of washout is required before any new therapy can begin safely",
+    "No washout required"
+  ],
+  "q0588": [
+    "Timing does not meaningfully affect the severity or duration of flu-like side effects",
+    "Mid-afternoon only",
+    "Morning administration",
+    "Bedtime administration with acetaminophen 30-60 minutes before"
+  ],
+  "q0589": [
+    "Use the exact same site every day so that absorption stays consistent over time",
+    "Rotate sites at least 1 inch apart; avoid scars and bruises",
+    "Use only one injection site",
+    "Inject into muscle instead"
+  ],
+  "q0590": [
+    "0.5 mL per site maximum",
+    "1 mL per site; larger volumes should be divided among sites",
+    "2 mL per site is required for efficacy",
+    "There is no practical volume limit, so the entire dose can be injected at one site"
+  ],
+  "q0591": [
+    "Reduce starting dose from 2 mg to 1 mg; adjust accordingly",
+    "No adjustment needed",
+    "Siponimod is contraindicated and must never be started in intermediate metabolizers",
+    "Double the dose"
+  ],
+  "q0592": [
+    "Requires genetic retesting",
+    "Safe to use at standard dose",
+    "Contraindicated; CYP2C9 poor metabolizers should not receive siponimod",
+    "It may be used with caution at a reduced half dose if the patient is closely monitored"
+  ],
+  "q0595": [
+    "Continue the medication without any interruption through the perioperative period",
+    "Withhold siponimod for at least 3 days before procedure",
+    "Switch to IV corticosteroids temporarily",
+    "Increase dose before procedure"
+  ],
+  "q0599": [
+    "Never occurs after alemtuzumab",
+    "It always resolves completely within one month of starting treatment in every patient",
+    "Only occurs with thyroid dysfunction",
+    "May require long-term treatment; rare cases can be severe and life-threatening"
+  ],
+  "q0601": [
+    "Incidence includes every existing case regardless of how long it has lasted, while prevalence counts only the newly diagnosed patients in a given year",
+    "Incidence is the number of new cases in a defined population over time; prevalence is the total number of existing cases at a point in time",
+    "Incidence counts only relapses; prevalence counts only irreversible disability",
+    "Incidence measures deaths from disease; prevalence measures new diagnoses"
+  ],
+  "q0607": [
+    "Pregnancy permanently suppresses MS activity for the remainder of life",
+    "Exacerbations steadily increase through the second and third trimesters, then gradually decrease in the months immediately following delivery",
+    "Relapse risk is unchanged during pregnancy and immediately after delivery",
+    "A roughly sevenfold decrease in exacerbations during pregnancy and a sevenfold increase during the six months after delivery"
+  ],
+  "q0608": [
+    "The typical onset age is essentially identical for men and women across every clinical form of the disease",
+    "MS almost always begins before age 10",
+    "Onset most often occurs between 20 and 40 years, with an average around 28 to 30 years",
+    "Most onsets occur after age 60"
+  ],
+  "q0609": [
+    "MS is caused solely by environmental exposures, with no genetic contribution",
+    "MS is inherited as a single-gene autosomal dominant disorder",
+    "MS is caused by one specific, already-identified infectious agent that can spread directly from person to person",
+    "MS is thought to result from gene-environment interactions, and there is no evidence that it is transmissible"
+  ],
+  "q0610": [
+    "Prevalence is identical across all racial groups worldwide",
+    "MS is virtually absent among Caucasians",
+    "Highest in whites and people of Scandinavian descent; lowest in Japanese people among industrialized countries; rare in people of African descent",
+    "People of Japanese descent have, by a wide margin, the highest documented MS prevalence of any population in an industrialized country"
+  ],
+  "q0611": [
+    "A brain biopsy showing characteristic demyelinating plaques is required before a definitive diagnosis can be made in any patient",
+    "No single definitive laboratory test confirms MS; the diagnosis rests on the clinical picture supported by investigations",
+    "MS can only be diagnosed with certainty at autopsy",
+    "A single blood test can confirm the diagnosis"
+  ],
+  "q0613": [
+    "Male gender, a high MRI lesion load at initial presentation, and little or no functional recovery after the first attack",
+    "Older age at onset, high relapse rate, and early development of disability",
+    "Insidious motor onset with early cerebellar involvement",
+    "Young age at onset, complete recovery from the first relapse, low relapse rate, and a long interval to the second relapse"
+  ],
+  "q0618": [
+    "Heat exposure stimulates increased myelin production, which temporarily strengthens nerve conduction overall",
+    "Heat creates new inflammatory plaques on contact",
+    "Demyelinated fibers already conduct poorly and fail conduction when body temperature rises",
+    "Heat suppresses immune responses, unmasking latent deficits"
+  ],
+  "q0619": [
+    "All lesions are always of exactly the same age and confined to the very same anatomic location",
+    "Lesions are disseminated in location, vary in age, and involve both white and gray matter",
+    "Lesions occur exclusively in the cerebellum",
+    "Lesions are confined to peripheral nerves only"
+  ],
+  "q0620": [
+    "Reversible swelling of intact myelin sheaths",
+    "Irreversible axonal damage resulting from ongoing inflammation and demyelination",
+    "Ongoing inflammation that progressively destroys Schwann cells within the peripheral nervous system",
+    "Autoimmune attack on acetylcholine receptors"
+  ],
+  "q0621": [
+    "Oligodendrocyte precursors only",
+    "Platelet plugs with intact myelin segments and no inflammatory infiltrate",
+    "T lymphocytes, plasma cells, macrophages, and demyelinated or transected axons",
+    "Neutrophils and mast cells only"
+  ],
+  "q0622": [
+    "It occurs only after optic neuritis, is limited to specific brain regions, and has no relation to disability",
+    "It is an expected side effect of all disease-modifying therapies",
+    "It has no correlation with clinical disease progression",
+    "It reflects progressive neurodegeneration, and a slowing of atrophy can indicate therapeutic efficacy"
+  ],
+  "q0623": [
+    "Numerator: all persons with MS in the county at that time; denominator: the population at risk",
+    "Numerator: all new MS relapses recorded this year; denominator: the total number of relapses last year",
+    "Numerator: neurologists in the county; denominator: number of MRI units",
+    "Numerator: new MS deaths that year; denominator: total hospital admissions"
+  ],
+  "q0624": [
+    "The sibling risk is only about 4-5%, far below the 20-26% identical-twin concordance, so environment still matters substantially",
+    "Sibling risk exceeds identical-twin risk because of shared household exposure",
+    "The student is right - because all genes are shared, both the sibling and the identical twin carry roughly a 25% risk",
+    "Twin studies are irrelevant because MS is purely environmental"
+  ],
+  "q0626": [
+    "Teaching a newly diagnosed patient strategies that forestall complications such as falls and injury",
+    "Starting a disease-modifying therapy for the first time",
+    "Promoting general wellness and healthy habits in an asymptomatic person with no known neurologic disease",
+    "Recovering function after many years of accumulated disability"
+  ],
+  "q0631": [
+    "The only authority who overrides the patient's value system",
+    "Change agent, interacting with the patient's values and beliefs to influence change and adaptation",
+    "A role reserved exclusively for physicians and psychologists; the nurse does not facilitate behavior change",
+    "Passive information dispenser who hands out written medication lists"
+  ],
+  "q0632": [
+    "The environment, social and economic factors, ethnocultural concerns, and available resources",
+    "Only the patient's insurance status",
+    "Only the pharmacology of the prescribed drug",
+    "Only the convenience and scheduling priorities of the healthcare institution and its staff"
+  ],
+  "q0636": [
+    "Strengthen her awareness and self-efficacy, and plan a future quit date with her",
+    "Stop counseling until the next relapse",
+    "Declare an immediate quit date this week regardless of the patient's stated timeline and readiness",
+    "Prescribe a smoking-cessation drug and end the encounter"
+  ],
+  "q0637": [
+    "Skipping teaching because internet resources are sufficient",
+    "Delivering a full 30-minute lecture regardless of the patient's fatigue level or questions",
+    "Leaving a pamphlet and ending the visit",
+    "Assessing the patient's readiness, preferred learning style, and current understanding"
+  ],
+  "q0639": [
+    "Teaching only the family member and not the patient",
+    "Using dense technical jargon throughout to build the patient's sense of confidence and competence",
+    "Rushing the session to avoid fatigue",
+    "Adapting pace and modality to sensory and cognitive changes and confirming understanding"
+  ],
+  "q0640": [
+    "Deferring all formal education about the diagnosis until the child reaches adulthood and can consent",
+    "Keeping the diagnosis secret from the child",
+    "Age-appropriate language with caregiver involvement and honest, reassuring information about the illness",
+    "The same detailed lecture prepared for an adult"
+  ],
+  "q0641": [
+    "Literacy has no measurable effect on medication adherence or on understanding of any health instructions",
+    "Only physicians are permitted to assess literacy",
+    "Literacy assessment is required only before surgery",
+    "Limited literacy reduces comprehension and retention of written and spoken instructions"
+  ],
+  "q0642": [
+    "Assess barriers, jointly develop realistic milestones, and reassess regularly while honoring the patient's values and circumstances",
+    "Document noncompliance once and discontinue follow-up",
+    "Instruct the family to compel the patient to exercise",
+    "Stop all behavioral intervention and follow-up coaching because the prescribed medications alone are sufficient to sustain exercise"
+  ],
+  "q0643": [
+    "A single verbal explanation at the start visit",
+    "Individualized teaching with self-management goals, barrier problem-solving, and scheduled follow-up",
+    "No further nursing intervention - long-term adherence to a complex regimen is entirely the patient's own responsibility",
+    "Mailing generic leaflets once a year"
+  ],
+  "q0645": [
+    "Guaranteed employment and automatic promotion within a particular hospital system",
+    "Immunity from malpractice liability",
+    "A state license to practice medicine",
+    "The nurse's specialized knowledge and expertise in caring for people with MS"
+  ],
+  "q0647": [
+    "Five or more years of general clinical experience in any specialty, with no MS-specific requirement at all",
+    "Active nursing licensure plus a minimum period of direct MS nursing experience (for example, at least 2 years)",
+    "A doctorate in nursing practice",
+    "No clinical experience is required"
+  ],
+  "q0648": [
+    "It prescribes medications for people with MS",
+    "It markets and promotes specific disease-modifying therapies directly to consumers through advertising campaigns",
+    "It replaces national nursing licensure boards",
+    "It advances MS nursing practice, standards, and research, and supports certification and education initiatives"
+  ],
+  "q0649": [
+    "State boards of nursing no longer require any licensure or renewal requirements in recognized specialty areas such as MS care",
+    "The evidence base - new DMT approvals and revised diagnostic criteria - evolves rapidly, so practice must stay current",
+    "Continuing education is mandatory in no specialty",
+    "MS has been cured, so the literature no longer changes"
+  ],
+  "q0650": [
+    "Implementing the protocol immediately in all patients because one new journal article recently endorsed it",
+    "Integrating the best current evidence with clinical expertise and patient values and preferences",
+    "Applying a textbook chapter written ten years ago",
+    "Using patient preference as the sole basis for change"
+  ],
+  "q0651": [
+    "Leadership in multidisciplinary team coordination",
+    "Independent prescribing authority for all disease-modifying therapies",
+    "Financial auditing",
+    "Advanced surgical technique"
+  ],
+  "q0653": [
+    "They eliminate the need for clinical judgment in every individualized MS nursing decision",
+    "They prescribe drug dosages",
+    "They define expected, evidence-based roles and outcomes against which care can be judged",
+    "They replace legal requirements for nursing practice"
+  ],
+  "q0654": [
+    "Purchase 'credits' from an unaccredited vendor",
+    "Abandon certification because renewal is not worthwhile",
+    "Wait until the final month of the certification cycle and hope that a last-minute course or two closes any gap",
+    "Audit her current credits against the recertification requirements and build a plan to close any gap"
+  ],
+  "q0657": [
+    "To prevent the study from being published",
+    "To serve as a group that receives no treatment at all, so that any improvement in the experimental arm looks dramatic",
+    "To increase side effects on purpose",
+    "To provide a comparison against which the effect of the experimental intervention is measured"
+  ],
+  "q0658": [
+    "To distribute known and unknown confounding factors evenly across groups",
+    "Because nurses prefer random scheduling",
+    "To shorten the duration of the trial",
+    "To guarantee that every participant in the trial eventually receives the new experimental drug"
+  ],
+  "q0662": [
+    "They are always fraudulent",
+    "Because regulations require that a case series be completed and approved before any randomized trial may begin",
+    "They use too many participants to be credible",
+    "They lack comparison groups and are vulnerable to confounding, so they generate rather than confirm hypotheses"
+  ],
+  "q0663": [
+    "Bias in outcome assessment and reporting by participants and raters",
+    "The need for ethics review",
+    "The true efficacy of the drug",
+    "The overall cost and duration required to conduct the study from start to finish"
+  ],
+  "q0664": [
+    "Falsification of records",
+    "Confidentiality of advertising materials used to recruit study participants",
+    "Respect for persons (autonomy), as operationalized through informed consent",
+    "Justice as cost allocation"
+  ],
+  "q0665": [
+    "Protect the rights, safety, and welfare of research participants",
+    "Approve marketing of the sponsor's drugs",
+    "Choose which treatment arm will win before any participant is enrolled or treated",
+    "Guarantee funding for the study"
+  ],
+  "q0668": [
+    "Consent obtained only from the sponsor's sales representative, since industry staff know the study best",
+    "No individual consent - IRB approval automatically covers all participants",
+    "Consent from a legally authorized representative, together with the participant's own assent when possible",
+    "Enrolling the participant with no consent at all because research takes priority"
+  ],
+  "q0669": [
+    "Selecting participants only because they are easy to recruit, without regard to who will benefit from the results",
+    "Randomly assigning participants to treatment arms by computer-generated sequence at the start of enrollment",
+    "Reporting results, including null findings",
+    "Requiring written informed consent"
+  ],
+  "q0670": [
+    "A nurse's personal opinion with no reference to the literature",
+    "An industry promotional brochure that summarizes the drug's marketing claims without any clinical data",
+    "A single anecdotal case report",
+    "A systematic review or meta-analysis of well-conducted randomized controlled trials"
+  ],
+  "q0672": [
+    "Was it published in a glossy magazine?",
+    "Does the journal that published it also accept letters to the editor from practicing clinicians?",
+    "How many pages long is the guideline?",
+    "Are the results valid, clinically significant, and applicable to my own patient population?"
+  ],
+  "q0673": [
+    "Staff sentiment alone, gathered from informal hallway conversations and without any measured patient outcome data",
+    "Changes in patient outcomes (for example, fewer catheterizations) relative to baseline, plus fidelity to the protocol",
+    "Whether the protocol is printed and posted",
+    "The number of protocol copies distributed"
+  ],
+  "q0675": [
+    "Serving as a definitive diagnostic test that can confirm MS in living humans without any further workup",
+    "Providing an animal model for testing immune mechanisms and potential treatments before human studies",
+    "Acting as a treatment for relapses",
+    "Replacing the need for clinical trials in humans"
+  ],
+  "q0676": [
+    "Publishing results without ethics approval",
+    "Designing MRI protocols without radiologists",
+    "Performing all of the study's statistical analyses completely solo, in total isolation from the rest of the research team",
+    "Identifying clinically relevant questions, enrolling and engaging patients, and monitoring outcomes and adverse events at the bedside"
+  ],
+  "q0679": [
+    "Because patient reports are automatically more accurate than relapse measures in every clinical situation",
+    "Because objective scales and imaging miss important patient-centered dimensions such as fatigue and pain",
+    "Because EDSS and MRI are unvalidated in MS",
+    "Because patient-reported outcomes must replace all objective measures"
+  ],
+  "q0700": [
+    "Agree that a DMT can safely be stopped after three stable years on therapy",
+    "Explain that the stability may reflect the therapy working, and review what is known about stopping",
+    "State that stopping a DMT always causes a severe rebound relapse within months",
+    "Refer the question entirely to the prescriber without any further discussion or shared decision-making"
+  ],
+  "q0712": [
+    "High-efficacy agents themselves accelerate the accrual of fixed disability",
+    "Recall bias in how participants reported their disability over the study",
+    "Confounding by indication, since more aggressive disease prompts more aggressive treatment",
+    "A sample size too small to detect the benefit that genuinely exists in this patient population"
+  ],
+  "q0716": [
+    "Whether the project is expected to run longer than six months on the unit",
+    "Whether patients give written consent to receive the handouts being compared",
+    "Whether the activity constitutes generalizable research rather than local quality improvement",
+    "Whether the results will be presented at a national nursing conference or published in a journal"
   ]
 }
